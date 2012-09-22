@@ -1,0 +1,119 @@
+.header-wrapper {
+	background-image: url(../img/page_background.jpg);
+}
+
+.header-wrapper .container {
+	padding: 0 25px;
+	margin: auto;
+	background-image: url(../img/wolfhomepage940b.jpg);
+	background-repeat: no-repeat;
+}
+
+/* ribbon style */
+
+.ribbon-wrapper h2 {
+	line-height: 60px;
+}
+
+.ribbon-wrapper {
+	position: relative;
+	color: white;
+	text-align: center;
+	margin-bottom: 65px;
+	margin-top: 275px;
+}
+
+.ribbon-front {
+	background-color: #B58900;	height: 60px;
+	width: 980px;
+	position: relative;
+	left:-20px;
+	z-index: 2;
+}
+
+.ribbon-front,
+.ribbon-back-left,
+.ribbon-back-right
+{
+	-moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
+	-khtml-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
+	-webkit-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
+	-o-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
+}
+
+.ribbon-edge-topleft,
+.ribbon-edge-topright,
+.ribbon-edge-bottomleft,
+.ribbon-edge-bottomright {
+	position: absolute;
+	z-index: 1;
+	border-style:solid;
+	height:0px;
+	width:0px;
+}
+
+.ribbon-edge-topleft,
+.ribbon-edge-topright {
+}
+
+.ribbon-edge-bottomleft,
+.ribbon-edge-bottomright {
+	top: 60px;
+}
+
+.ribbon-edge-topleft,
+.ribbon-edge-bottomleft {
+	left: -20px;
+	border-color: transparent #513E01 transparent transparent;
+}
+
+.ribbon-edge-topleft {
+	top: -10px;
+	border-width: 10px 20px 0 0;
+}
+.ribbon-edge-bottomleft {
+	border-width: 0 20px 0px 0;
+}
+
+.ribbon-edge-topright,
+.ribbon-edge-bottomright {
+	left: 940px;
+	border-color: transparent transparent transparent #513E01;
+}
+
+.ribbon-edge-topright {
+	top: -10px;
+	border-width: 10px 0 0 20px;
+}
+.ribbon-edge-bottomright {
+	border-width: 0 0 0px 20px;
+}
+
+.ribbon-back-left {
+	position: absolute;
+	top: -10px;
+	left: -60px;
+	width: 60px;
+	height: 60px;
+	background-color: #B58900;	z-index: 0;
+}
+
+.ribbon-back-right {
+	position: absolute;
+	top: -10px;
+	right: -60px;
+	width: 60px;
+	height: 60px;
+	background-color: #B58900;	z-index: 0;
+}
+
+#twitter2 { height: 500px; }
+.twitterSearchTitle {
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: bold;
+  background-image: url(img/glyphicons/png/glyphicons_392_twitter.png);
+  background-repeat: no-repeat;
+  margin-bottom: 10px;
+  font-family: 'Buenard', 'Times New Roman', Times, serif;
+     }
