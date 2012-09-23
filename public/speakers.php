@@ -57,7 +57,7 @@ foreach ($filenames as $filename) {
    <?php endif; ?>
                   </h3>
                   <p>
-                    <?php echo $speaker['bio']; ?>
+                    <?php echo preg_replace('|<br ?/?>|','</p><p>',nl2br($speaker['bio'])); ?>
                   </p>
                   <h3>Talks</h3>
    <?php foreach ($speaker['talks'] as $talk) : ?>
