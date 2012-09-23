@@ -1,6 +1,6 @@
 <?php
 $page = 'index';
-$extra_css = array('index');
+$extra_css = array('css/index.css');
 ?>
 <?php include '../header.php'; ?>
       <div class="content-wrapper">
