@@ -4,9 +4,11 @@ $speakers[] = array (
   'name' => 'Eric Hogue',
   'city' => 'Montreal, QC',
   'country' => 'Canada',
-  'twitter' => '',
+  'twitter' => 'ehogue',
   'image' => 'http://www.gravatar.com/avatar/7952608036efe43597e88cd635fc2472?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => '',
+  'bio' => 'I started developing professionally 10 years ago. I learned PHP in 2005 and having using it has my main language since then.
+
+I have passion for best practices, especially about testing. And I sometimes write about those things on <a href="http://erichogue.ca" title="Eric Hogue">on my blog</a>.',
   'talks' => array (
     array (
       'title' => 'Introduction to Continuous Integration with Jenkins',
