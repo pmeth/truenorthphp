@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'New York, NY',
   'country' => 'USA',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/06a61b14cb2db07126dace77d8c458b0?s=200&d=http://cl.ly/image/2z1J1U351d2K/no-pic.jpg',
+  'image' => 'http://www.gravatar.com/avatar/06a61b14cb2db07126dace77d8c458b0?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => '',
   'talks' => array (
     array (
