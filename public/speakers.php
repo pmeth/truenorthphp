@@ -1,45 +1,20 @@
 <?php
 $page = 'speakers';
-$speakers = array(
-// Start Speaker : Chris Hartjes
-  array(
-    'name' => 'Chris Hartjes',
-    'twitter' => 'grmpyprogrammer',
-    'image' => 'http://www.gravatar.com/avatar/27601bca8f38e75cbcf9d2dc843f0b32?s=200',
-    'bio' => 'This is some information about the speaker. Maybe we might see something about their experience or involvement in the open source community.',
-    'talks' => array(
-      array(
-        'title' => 'Some kind of talk that the speaker will be speaking about',
-        'description' => 'This is a description of the first talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
-      ),
-      array(
-        'title' => 'This would be the second talk that the speaker is giving',
-        'description' => 'This is a description of the second talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
-      ),
-    ),
-  ),
-// End Speaker : Chris Hartjes
+$speakers = array();
 
-// Start Speaker : Peter Meth
-  array(
-    'name' => 'Peter Meth',
-    'twitter' => 'mrpmeth',
-    'image' => 'http://www.gravatar.com/avatar/72ee8b1e25eed29e20e4039657741053?s=200',
-    'bio' => 'This is some information about the speaker. Maybe we might see something about their experience or involvement in the open source community.',
-    'talks' => array(
-      array(
-        'title' => 'Some kind of talk that the speaker will be speaking about',
-        'description' => 'This is a description of the first talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
-      ),
-      array(
-        'title' => 'This would be the second talk that the speaker is giving',
-        'description' => 'This is a description of the second talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
-      ),
-    ),
-  ),
-// End Speaker : Peter Meth
+$filenames = array();
+$iterator = new DirectoryIterator('../speaker_data');
+foreach ($iterator as $fileinfo) {
+   if ($fileinfo->isFile()) {
+      $filenames[] = $fileinfo->getFilename();
+   }
+}
+sort($filenames);
 
-);
+foreach ($filenames as $filename) {
+  include '../speaker_data/' . $filename;
+}
+
 ?>
 <?php include '../header.php'; ?>
       <div class="content-wrapper">
@@ -60,15 +35,22 @@ $speakers = array(
 <?php foreach ($speakers as $speaker) : ?>
             <div class="row">
                <div class="span3">
-                  <img src="<?php echo $speaker['image']; ?>" width="200" height="200" />
+                  <img src="<?php echo $speaker['image']; ?>" width="200" height="200" alt="<?php echo $speaker['name']; ?>">
                </div>
                <div class="span9">
-                  <h3><?php
-                     echo $speaker['name'];
-                     if (!empty($speaker['twitter'])) {
-                        echo ' [<a href="https://twitter.com/' . $speaker['twitter'] . '">@' . $speaker['twitter'] . '</a>]';
-                     }
-                  ?></h3>
+                  <h3>
+                  <img
+                     class="country-flag"
+                     src="img/flags/<?php echo $speaker['country']; ?>.png"
+                     width="24" height="24"
+                     alt="<?php echo $speaker['country']; ?>"
+                     title="<?php echo $speaker['country']; ?>"
+                  >
+                     <?php echo $speaker['name']; ?>
+   <?php if (!empty($speaker['twitter'])) : ?>
+                     [<a href="https://twitter.com/<?php echo $speaker['twitter']; ?>">@<?php echo $speaker['twitter']; ?></a>]
+   <?php endif; ?>
+                  </h3>
                   <p>
                     <?php echo $speaker['bio']; ?>
                   </p>
@@ -76,7 +58,7 @@ $speakers = array(
    <?php foreach ($speaker['talks'] as $talk) : ?>
                     <h4><?php echo $talk['title']; ?></h4>
                     <p>
-                      <?php echo $talk['description']; ?>
+                      <?php echo $talk['text']; ?>
                     <p>
    <?php endforeach; ?>
                </div>
