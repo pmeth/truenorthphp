@@ -6,7 +6,7 @@ $speakers[] = array (
   'country' => 'Netherlands',
   'twitter' => 'rdohms',
   'image' => 'http://www.gravatar.com/avatar/d9545121873fb2829737d5c385f62214?s=200&d=wavatar',
-  'bio' => 'Rafael Dohms is a PHP Evangelist, Speaker and contributor. He is a very active member of the PHP Community, in the past he helped the Brazilian PHP Community get organized and founded and led two User Groups. His latest investment is the AmsterdamPHP group, founded in 2012 to promote and raise awareness of PHP and the community in Amsterdam. Developer, gamer and lover of code he also hosted Brazil’s first PHP Podcast: PHPSPCast, as well as contributing to well known projects. 
+  'bio' => 'Rafael Dohms is a PHP Evangelist, Speaker and contributor. He is a very active member of the PHP Community, in the past he helped the Brazilian PHP Community get organized and founded and led two User Groups. His latest investment is the AmsterdamPHP group, founded in 2012 to promote and raise awareness of PHP and the community in Amsterdam. Developer, gamer and lover of code he also hosted Brazil\'s first PHP Podcast: PHPSPCast, as well as contributing to well known projects. 
 
 He moved to the Netherlands in search of new challenges and is now part of the team at WEBclusive, sharing his passion for quality code and working on new awesome ideas with the team. You can always find him at the nearest Community events, speaking, sharing, talking or just learning from the rest.',
   'talks' => array (
