@@ -14,4 +14,6 @@
          </div>
       </div>
    </div>
-
+   <div class="forkme-ribbon">
+      <a href="https://github.com/pmeth/truenorthphp" rel="me">Fork me on GitHub</a>
+   </div>
