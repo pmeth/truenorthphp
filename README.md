@@ -13,5 +13,10 @@ If sending pull requests, please use the following conventions:
   2. For php files, put the opening curly brace { on the same line as the control (if, while, foreach, etc.) statement
 
 For speakers looking to update their profile, please do the following:
-  1. Find your name in the array at the top of the `./public/speakers.php` page
-  2. Update your image, bio and twitter if applicable
+  1. Open the file with your name in the `./speaker_data/` directory
+  2. Update your image, bio and twitter if applicable (also feel free to update any other data there)
+  3. Send me a pull request so I can update the live website
+
+Note: You do not have to use gravatar for your image.  Any 200x200 image will do.
+Feel free to include an image in the `./public/img/` directory if you do not have an 
+appropriate image elsewhere on the web.
