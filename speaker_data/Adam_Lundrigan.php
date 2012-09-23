@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Newfoundland',
   'country' => 'Canada',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/762956fec0fea6865d32e164ef47b39d?s=200&d=wavatar',
+  'image' => 'http://www.gravatar.com/avatar/762956fec0fea6865d32e164ef47b39d?s=200&d=http://cl.ly/image/2z1J1U351d2K/no-pic.jpg',
   'bio' => '',
   'talks' => array (
     array (
