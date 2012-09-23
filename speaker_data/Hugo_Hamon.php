@@ -6,7 +6,7 @@ $speakers[] = array (
   'country' => 'France',
   'twitter' => 'hhamon',
   'image' => 'http://en.gravatar.com/avatar/0ea4ad4f845cf4ebd28b972e6e1a6eca?s=200',
-  'bio' => 'Hugo Hamon is a french PHP fan living in Paris. He started to develop with PHP 12 years ago and he now works at SensioLabs, the creator of Symfony, as the head of the training department. In his free time, Hugo contributes to several PHP projects and gets involved in the PHP and Symfony french user groups. Hugo is also a book author and you can find him on Twitter (@hhamon).',
+  'bio' => 'Hugo Hamon is a french PHP fan living in Paris. He started to develop with PHP 12 years ago and he now works at <a href="http://sensiolabs.com/">SensioLabs</a>, the creator of <a href="http://symfony.com/">Symfony</a>, as the head of the training department. In his free time, Hugo contributes to several PHP projects and gets involved in the PHP and Symfony french user groups. Hugo is also a book author and you can find him on Twitter (@hhamon).',
   'talks' => array (
     array (
       'title' => 'There is a PHP Library for That!',
