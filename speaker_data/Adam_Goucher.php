@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Adam Goucher',
+  'city' => 'Whitby, ON',
   'country' => 'Canada',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/9b39483501f809ba835a2090e2cdd52a?s=200&d=wavatar',

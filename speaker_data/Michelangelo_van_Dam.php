@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Michelangelo van Dam',
+  'city' => 'Brussels',
   'country' => 'Belgium',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/647774f650dbed4787ff215e59286ca3?s=200&d=wavatar',

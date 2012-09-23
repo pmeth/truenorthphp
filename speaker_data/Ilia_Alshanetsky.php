@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Ilia Alshanetsky',
+  'city' => 'Toronto',
   'country' => 'Canada',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/514caaf20494636ad6deb78c17b9af06?s=200&d=wavatar',

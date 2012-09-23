@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Chris Boden',
+  'city' => 'London, ON',
   'country' => 'Canada',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/e64cdd88cc31a6f8423237f38a0c97eb?s=200&d=wavatar',

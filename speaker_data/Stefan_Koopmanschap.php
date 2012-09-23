@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Stefan Koopmanschap',
+  'city' => 'Amsterdam',
   'country' => 'Netherlands',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/a8f72e32766355f12a56ede9aaa0ee78?s=200&d=wavatar',

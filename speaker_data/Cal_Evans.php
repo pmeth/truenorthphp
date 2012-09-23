@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Cal Evans',
+  'city' => 'Nashville, TN',
   'country' => 'USA',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/d6d504bf40dea91cd33027e5bb85f7df?s=200&d=wavatar',

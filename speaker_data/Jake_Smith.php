@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Jake Smith',
+  'city' => 'Dallas, TX',
   'country' => 'USA',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/e4df4a30f000a225df7114e4940944e7?s=200&d=wavatar',

@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Adam Lundrigan',
+  'city' => 'Newfoundland',
   'country' => 'Canada',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/762956fec0fea6865d32e164ef47b39d?s=200&d=wavatar',

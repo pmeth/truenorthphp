@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Hugo Hamon',
+  'city' => 'Paris',
   'country' => 'France',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/a591f2ab4e3cade8ecd404b2a20acfaf?s=200&d=wavatar',

@@ -2,6 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Alfred Ayache',
+  'city' => 'Toronto',
   'country' => 'Canada',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/3014f80ae412cb62a1f1688b50d1a89a?s=200&d=wavatar',

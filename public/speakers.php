@@ -35,7 +35,12 @@ foreach ($filenames as $filename) {
 <?php foreach ($speakers as $speaker) : ?>
             <div class="row">
                <div class="span3">
-                  <img src="<?php echo $speaker['image']; ?>" width="200" height="200" alt="<?php echo $speaker['name']; ?>">
+                  <img
+                     src="<?php echo $speaker['image']; ?>"
+                     width="200" height="200"
+                     alt="<?php echo $speaker['name']; ?>"
+                     title="<?php echo $speaker['name']; ?>"
+                  >
                </div>
                <div class="span9">
                   <h3>
@@ -43,8 +48,8 @@ foreach ($filenames as $filename) {
                      class="country-flag"
                      src="img/flags/<?php echo $speaker['country']; ?>.png"
                      width="24" height="24"
-                     alt="<?php echo $speaker['country']; ?>"
-                     title="<?php echo $speaker['country']; ?>"
+                     alt="<?php echo ($speaker['city'] ? $speaker['city'] . ', ' : '') . $speaker['country']; ?>"
+                     title="<?php echo ($speaker['city'] ? $speaker['city'] . ', ' : '') . $speaker['country']; ?>"
                   >
                      <?php echo $speaker['name']; ?>
    <?php if (!empty($speaker['twitter'])) : ?>
@@ -58,7 +63,7 @@ foreach ($filenames as $filename) {
    <?php foreach ($speaker['talks'] as $talk) : ?>
                     <h4><?php echo $talk['title']; ?></h4>
                     <p>
-                      <?php echo $talk['text']; ?>
+                      <?php echo preg_replace('|<br ?/?>|','</p><p>',nl2br($talk['text'])); ?>
                     <p>
    <?php endforeach; ?>
                </div>
