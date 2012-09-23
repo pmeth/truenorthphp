@@ -22,8 +22,8 @@ $extra_css = array('index');
                   <div class="row">
                      <hr>
                      <div class="span8 centered-text">
-                        <h1 style="float: left;">Call for Papers Ended on Sept 1</h1>
-                        <a href="speakers.php" class="btn btn-large btn-warning">View Submissions</a>
+                        <h1 style="float: left;">Speakers have been announced</h1>
+                        <a href="speakers.php" class="btn btn-large btn-warning">View the List</a>
                      </div>
                   </div>
                   <div class="row">
