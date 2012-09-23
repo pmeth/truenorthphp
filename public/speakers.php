@@ -1,5 +1,45 @@
 <?php
 $page = 'speakers';
+$speakers = array(
+// Start Speaker : Chris Hartjes
+  array(
+    'name' => 'Chris Hartjes',
+    'twitter' => 'grmpyprogrammer',
+    'image' => 'http://www.gravatar.com/avatar/27601bca8f38e75cbcf9d2dc843f0b32?s=200',
+    'bio' => 'This is some information about the speaker. Maybe we might see something about their experience or involvement in the open source community.',
+    'talks' => array(
+      array(
+        'title' => 'Some kind of talk that the speaker will be speaking about',
+        'description' => 'This is a description of the first talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
+      ),
+      array(
+        'title' => 'This would be the second talk that the speaker is giving',
+        'description' => 'This is a description of the second talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
+      ),
+    ),
+  ),
+// End Speaker : Chris Hartjes
+
+// Start Speaker : Peter Meth
+  array(
+    'name' => 'Peter Meth',
+    'twitter' => 'mrpmeth',
+    'image' => 'http://www.gravatar.com/avatar/72ee8b1e25eed29e20e4039657741053?s=200',
+    'bio' => 'This is some information about the speaker. Maybe we might see something about their experience or involvement in the open source community.',
+    'talks' => array(
+      array(
+        'title' => 'Some kind of talk that the speaker will be speaking about',
+        'description' => 'This is a description of the first talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
+      ),
+      array(
+        'title' => 'This would be the second talk that the speaker is giving',
+        'description' => 'This is a description of the second talk. In this talk you would probably expect to learn a little something about a topic and maybe even find the next tool in your arsenal.',
+      ),
+    ),
+  ),
+// End Speaker : Peter Meth
+
+);
 ?>
 <?php include '../header.php'; ?>
       <div class="content-wrapper">
@@ -13,41 +53,36 @@ $page = 'speakers';
             </div>
             <div class="row">
                <div class="span12" >
-                  <p>
-                     Let's face it, the biggest attraction of any conference are the talks and the speakers.
-                     At True North PHP, we intend to assemble a diverse selection of compelling talks.  We hope
-                     to showcase the great selection of talent Toronto has to offer, and to mix in recognizable
-                     speakers from around the world.
-                  </p>
-                  <p>
-                     We expect to have 30 - 35 speaking slots.
-                  </p>
-                  <p>
-                     The call for papers is now closed. In total we received 114 talk submissions from 43 people
-                     on 4 different continents. To view the submissions, click the link below. We will be announcing
-                     speakers in the coming days.
-                  </p>
+                  We are very excited to feature the following Speakers and Talks at the True North PHP Conference.
                </div>
             </div>
             <hr>
+<?php foreach ($speakers as $speaker) : ?>
             <div class="row">
-               <div class="span5">
-                  <div class="well">
-                     <h2>Selected speakers will receive:</h2>
-                     <ul>
-                        <li>Paid transportation to Toronto</li>
-                        <li>A ticket for entry to True North PHP</li>
-                        <li>Accommodation at a hotel near the event for Thursday, Friday and Saturday</li>
-                     </ul>
-                  </div>
+               <div class="span3">
+                  <img src="<?php echo $speaker['image']; ?>" width="200" height="200" />
+               </div>
+               <div class="span9">
+                  <h3><?php
+                     echo $speaker['name'];
+                     if (!empty($speaker['twitter'])) {
+                        echo ' [<a href="https://twitter.com/' . $speaker['twitter'] . '">@' . $speaker['twitter'] . '</a>]';
+                     }
+                  ?></h3>
+                  <p>
+                    <?php echo $speaker['bio']; ?>
+                  </p>
+                  <h3>Talks</h3>
+   <?php foreach ($speaker['talks'] as $talk) : ?>
+                    <h4><?php echo $talk['title']; ?></h4>
+                    <p>
+                      <?php echo $talk['description']; ?>
+                    <p>
+   <?php endforeach; ?>
                </div>
             </div>
             <hr>
-            <div class="row">
-               <div class="span12 centered-text">
-                  <a href="http://truenorthphp.uservoice.com/forums/169672-general" class="btn btn-giant btn-success">View Talk Submissions on UserVoice</a>
-               </div>
-            </div>
+<?php endforeach; ?>
          </div>
       </div>
 <?php include '../footer.php'; ?>
