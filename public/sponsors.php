@@ -51,6 +51,20 @@ $page = 'sponsors';
             </div>
             <div class="row">
                <div class="span12">
+                  <h3>Silver Level</h3>
+               </div>
+               <div class="thumbnail span3">
+                  <a href="http://www.gsn.com/"><img alt="GSN Digital" src="img/gsn-games.jpg" width="210" height="210" /></a>
+               </div>
+               <div class="span8">
+                  GSN Digital is the interactive division of GSN (Game Show Network), which distributes game show programming to 75 million households. We offer the Web's most engaging games, sweepstakes and contests, managing more than $175 million dollars in prizing through our destination sites GSN.com and WorldWinner.com. Our mobile games offering extends the adrenaline-fueled experience, bringing the GSN Casino to gamers on the go. Our social games team powers the Games by GSN app, the largest multi-game portal on Facebook, offering free games, tournaments and a virtual online casino enjoyed by 5 million monthly active users. GSN and its subsidiary, WorldWinner.com, Inc., are owned by DIRECTV and Sony Pictures Entertainment. For further information, visit GSN at www.gsn.com. <a href="http://www.gsngames.com">We're hiring</a>!
+               </div>
+            </div>
+            <div class="row">
+               <hr>
+            </div>
+            <div class="row">
+               <div class="span12">
                   <h3>Bronze Level</h3>
                </div>
             </div>
