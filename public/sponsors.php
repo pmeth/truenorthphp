@@ -54,6 +54,15 @@ $page = 'sponsors';
                   <h3>Silver Level</h3>
                </div>
                <div class="thumbnail span3">
+                  <a href="http://www.foxycart.com/"><img alt="FoxyCart: Ecommerce for Developers" src="img/foxycart-210x105.png" width="210" height="105" /></a>
+               </div>
+               <div class="span8">
+                  <p><strong>Helping developers</strong> create flexible, powerful, custom ecommerce in less time, while <strong>equipping merchants</strong> with the fastest checkout flow available to their customers.</p>
+                  <p>FoxyCart is e-commerce done differently. We're deliberately not an all-in-one, turnkey solution, but rather the best tool for the job, complimenting the other tools already in your toolbox. We've done over $100,000,000 in sales through our system for thousands of merchants around the globe (including Canada!), and we're looking forward to saying hello at True North PHP 2012!</p>
+                  <p>&nbsp;</p>
+               </div>
+               <br>
+               <div class="thumbnail span3">
                   <a href="http://www.gsn.com/"><img alt="GSN Digital" src="img/gsn-games.jpg" width="210" height="210" /></a>
                </div>
                <div class="span8">
