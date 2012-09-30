@@ -31,8 +31,12 @@ $extra_css = array('css/index.css');
                   </div>
                   <div class="row">
                      <div class="span8 centered-text">
-                        <h1 style="float:left">Tickets just $150 for both days </h1>
-                        <h6>Hurry, prices go up Oct 1st!</h6>
+                        <?php if (time() < strtotime('2012-10-01')) : ?>
+                           <h1 style="float:left">Tickets just $150 for both days </h1>
+                           <h6>Hurry, prices go up Oct 1st!</h6>
+                        <?php else : ?>
+                           <h1 style="float:left">Tickets just $200 for both days</h1>
+                        <?php endif; ?>
                         <a href="tickets.php" class="btn btn-large btn-success">Order Your Tickets Now</a>
                      </div>
                   </div>
