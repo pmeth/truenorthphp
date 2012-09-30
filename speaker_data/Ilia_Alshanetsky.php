@@ -4,9 +4,9 @@ $speakers[] = array (
   'name' => 'Ilia Alshanetsky',
   'city' => 'Toronto',
   'country' => 'Canada',
-  'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/514caaf20494636ad6deb78c17b9af06?s=200&d=wavatar',
-  'bio' => '',
+  'twitter' => 'iliaa',
+  'image' => 'http://www.gravatar.com/avatar/514caaf20494636ad6deb78c17b9af06?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'bio' => 'Ilia is a CIO at <a href="http://www.centah.com">Centah Inc.</a>, a company specializing in providing solutions for the retail industry. Over the last 10 years Ilia has been heavily involved in development of PHP, as a Core Developer and Release Master, authoring many extensions and language improvements. Ilia is also quite interested in security and performance, and frequently is writing or speaking on these and other PHP related topics. In his spare time he pretends to be a pro-photographer and engages in various sports.',
   'talks' => array (
     array (
       'title' => 'Caching with Memcached',

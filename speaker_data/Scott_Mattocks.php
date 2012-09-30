@@ -4,9 +4,9 @@ $speakers[] = array (
   'name' => 'Scott Mattocks',
   'city' => 'Boston, MA',
   'country' => 'USA',
-  'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/2cd31a76f96541b1e1e04d2d5e8e4c47?s=200&d=wavatar',
-  'bio' => '',
+  'twitter' => 'scottmattocks',
+  'image' => 'http://www.gravatar.com/avatar/2cd31a76f96541b1e1e04d2d5e8e4c47?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'bio' => 'Scott Mattocks is the Director of Development at GSN Digital. He leads a team of highly skilled developers, driving growth and scale of GSN\'s on-line games platforms. Scott lives in Massachusetts with his wife and four kids.',
   'talks' => array (
     array (
       'title' => 'Recursive Software Development Teams',
