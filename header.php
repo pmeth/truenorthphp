@@ -1,4 +1,5 @@
 <?php
+  ini_set('date.timezone','America/Toronto');
   $css = array('bootstrap/css/bootstrap.css', 'css/truenorth.css');
   if (isset($extra_css)) {
     $css = array_merge($css, $extra_css);
