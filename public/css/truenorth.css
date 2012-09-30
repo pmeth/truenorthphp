@@ -3,10 +3,41 @@ body {
    margin: 0;
    font-family: Muli, arial, helvetica, sans-serif;
    font-size: .8em;
+   line-height: 18px;
 }
 
 h1, h2, h3, h4, h5, h6 {
    font-family: 'Buenard', 'Times New Roman', Times, serif;
+   margin: 0;
+}
+
+h1 {
+   font-size: 30px;
+   line-height: 36px;
+}
+
+h2 {
+   font-size: 24px;
+   line-height: 36px;
+}
+
+h3 {
+  font-size: 18px;
+  line-height: 27px;
+}
+
+h4 {
+  font-size: 14px;
+}
+
+h5 {
+  font-size: 12px;
+}
+
+h6 {
+   font-size: 11px;
+   color: #999;
+   text-transform: uppercase;
 }
 
 .homelink {
