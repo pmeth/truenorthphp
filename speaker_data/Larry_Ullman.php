@@ -2,11 +2,11 @@
 
 $speakers[] = array (
   'name' => 'Larry Ullman',
-  'city' => 'Pennsylvania',
+  'city' => 'State College, Pennsylvania',
   'country' => 'USA',
-  'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/252383435858f44b9af141bac18fb102?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => '',
+  'twitter' => 'LarryUllman',
+  'image' => 'http://larryullman.com/images/me200x200.jpg',
+  'bio' => 'Larry Ullman is a writer, developer, trainer, speaker, and consultant. He has written 23 books, translated into more than 20 languages, and numerous articles. He is current writing, and self-publishing, "The Yii Book: Developing Web Applications Using the Yii Framework". Most of Larry\'s development work has been with for non-profits and educational organizations.',
   'talks' => array (
     array (
       'title' => 'Introduction to the Yii Framework (version 2)',
