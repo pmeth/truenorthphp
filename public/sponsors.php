@@ -46,6 +46,22 @@ $page = 'sponsors';
                   (or both) Make Web Not War is about building technology solutions that work together.
                </div>
             </div>
+            <div class="row" style="margin-top: 30px;">
+               <div class="thumbnail span3">
+                  <a href="http://www.eventmobi.com/"><img alt="EventMobi" src="img/eventmobi_logo.png" width="210" height="40"></a>
+               </div>
+               <div class="span8">
+									The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry.
+									EventMobi is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney
+									and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event
+									guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for
+									conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages
+									across 5 continents.<br>
+                  <br>
+									We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries
+                  of the mobile web!
+               </div>
+            </div>
             <div class="row">
                <hr>
             </div>
