@@ -237,7 +237,7 @@
                      </td>
                      <td class="info" rowspan="3">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=unconference">Unconference</a>
+                           Unconference
                         </div>
                         <div class="talk_speaker"></div>
                      </td>
