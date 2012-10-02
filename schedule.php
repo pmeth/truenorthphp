@@ -213,7 +213,7 @@
                      </td>
                      <td class="warning">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=amazon_web_services_at_scale">Amazon Web Services at Scale</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=evolution_of_a_web_architecture_with_amazon_web_services">Evolution of a Web Architecture with Amazon Web Services</a>
                         </div>
                         <div class="talk_speaker">Rich Poirier</div>
                      </td>
