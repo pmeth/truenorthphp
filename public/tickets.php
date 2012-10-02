@@ -12,7 +12,7 @@ $page = 'tickets';
                </div>
                <div class="span12">
                   <p>There are only 250 tickets available for True North PHP, so buy your tickets early before they sell out.</p>
-                  <p>Early Bird tickets are on sale until October 1 for $150.  Each tickets gives you access to all the events on both days.</p>
+                  <p>Tickets are just $200 until the day of the event.  Each tickets gives you access to all the events on both days.</p>
                </div>
                <div class="span12">
                   <hr>
