@@ -44,7 +44,7 @@ foreach ($speakers as $index => $speaker) {
                      title="<?php echo $speaker['name']; ?>"
                   >
                </div>
-               <div class="span6">
+               <div class="span7">
                   <h3>
                   <img
                      class="country-flag"
