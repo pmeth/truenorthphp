@@ -156,7 +156,7 @@ h6 {
    -moz-border-radius-bottomleft: 6px;
    border-bottom-right-radius: 6px;
    border-bottom-left-radius: 6px;
-   margin-left: 2px;
+/*   margin-left: 2px; -- not sure why but this is causing a problem */
    -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
    -khtml-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
    -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.55);
