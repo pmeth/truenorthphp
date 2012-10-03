@@ -141,7 +141,7 @@
                      </td>
                   </tr>
                   <tr class="schedule_slot">
-                     <th>18:00<br>-<br>22:00</th>
+                     <th>18:00 - 22:00</th>
                      <td class="warning" colspan="3"><div class="talk_title">Hackathon</div></td>
                   </tr>
                </tbody>

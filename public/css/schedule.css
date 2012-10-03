@@ -21,4 +21,8 @@
    .schedule_day {
       margin-bottom: 15px;
    }
+
+   .page-header h1 {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   }
 }

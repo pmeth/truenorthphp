@@ -11,7 +11,7 @@ $extra_css = array(
             <div class="row">
                <div class="span12">
                   <div class="page-header">
-                     <h1>Conference Schedule</h1>
+                     <h1>True North PHP Conference Schedule</h1>
                   </div>
                </div>
             </div>
