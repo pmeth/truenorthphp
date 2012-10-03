@@ -1,0 +1,24 @@
+@media print {
+   .header-wrapper, .navbar-fixed-top, .forkme-ribbon, .footer-wrapper,
+   .content-wrapper .container hr {
+      display: none;
+   }
+
+   *, a {
+      color: black
+   }
+
+   .page-header {
+      padding: 0;
+      margin: 0;
+      border-bottom: 0;
+   }
+
+   .container:first-child .row:first-child .span12 {
+      height: 40px;
+   }
+
+   .schedule_day {
+      margin-bottom: 15px;
+   }
+}

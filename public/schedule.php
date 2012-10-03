@@ -1,6 +1,9 @@
 <?php
 $page = 'schedule';
-$extra_css = array('js/fancyapps-fancyBox-2bb0da9/source/jquery.fancybox.css?v=2.1.0');
+$extra_css = array(
+    'js/fancyapps-fancyBox-2bb0da9/source/jquery.fancybox.css?v=2.1.0',
+    'css/schedule.css',
+);
 ?>
 <?php include '../header.php'; ?>
       <div class="content-wrapper">
