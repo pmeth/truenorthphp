@@ -2,11 +2,11 @@
 
 $speakers[] = array (
   'name' => 'Michelangelo van Dam',
-  'city' => 'Brussels',
+  'city' => 'Mechelen',
   'country' => 'Belgium',
-  'twitter' => '',
+  'twitter' => 'DragonBe',
   'image' => 'http://www.gravatar.com/avatar/647774f650dbed4787ff215e59286ca3?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => '',
+  'bio' => 'Michelangelo is a senior PHP/Zend Framework consultant, a member of the PHP community and president of the PHP user group PHPBenelux.',
   'talks' => array (
     array (
       'title' => 'Deploying PHP enterprise apps to Windows Azure',

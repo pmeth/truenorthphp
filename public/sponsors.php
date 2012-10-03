@@ -46,6 +46,22 @@ $page = 'sponsors';
                   (or both) Make Web Not War is about building technology solutions that work together.
                </div>
             </div>
+            <div class="row" style="margin-top: 30px;">
+               <div class="thumbnail span3">
+                  <a href="http://www.eventmobi.com/"><img alt="EventMobi" src="img/eventmobi_logo.png" width="210" height="40"></a>
+               </div>
+               <div class="span8">
+									The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry.
+									EventMobi is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney
+									and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event
+									guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for
+									conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages
+									across 5 continents.<br>
+                  <br>
+									We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries
+                  of the mobile web!
+               </div>
+            </div>
             <div class="row">
                <hr>
             </div>
@@ -67,6 +83,19 @@ $page = 'sponsors';
                </div>
                <div class="span8">
                   GSN Digital is the interactive division of GSN (Game Show Network), which distributes game show programming to 75 million households. We offer the Web's most engaging games, sweepstakes and contests, managing more than $175 million dollars in prizing through our destination sites GSN.com and WorldWinner.com. Our mobile games offering extends the adrenaline-fueled experience, bringing the GSN Casino to gamers on the go. Our social games team powers the Games by GSN app, the largest multi-game portal on Facebook, offering free games, tournaments and a virtual online casino enjoyed by 5 million monthly active users. GSN and its subsidiary, WorldWinner.com, Inc., are owned by DIRECTV and Sony Pictures Entertainment. For further information, visit GSN at www.gsn.com. <a href="http://www.gsngames.com">We're hiring</a>!
+               </div>
+            </div>
+            <div class="row" style="margin-top: 30px;">
+               <div class="thumbnail span3">
+                  <a href="http://www.wattpad.com/"><img alt="Wattpad" src="img/wattpad_logo.png" width="210" height="61" /></a>
+               </div>
+               <div class="span8">
+                  <p>
+                     Wattpad is the world's largest community of readers and writers. Every day millions of people discover great fiction on Wattpad and share their own creative writing spanning mystery, romance, sci-fi, poetry, fan fiction and more. Wattpad's mobile-first model of storytelling brings "web speed" to the publishing industry to remove barriers and build communities around content. Wattpad stories are social at their core, free, collaborative, and convenient - available on the devices people already have in their pockets.
+                  </p>
+                  <p>
+                     Funded by top venture capital firms in New York and San Francisco, Wattpad is changing the way people discover and share stories. Want to join our team? <a href="http://www.wattpad.com/jobs">www.wattpad.com/jobs</a>
+                  </p>
                </div>
             </div>
             <div class="row">
