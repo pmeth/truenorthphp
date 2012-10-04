@@ -51,14 +51,14 @@ $page = 'sponsors';
                   <a href="http://www.eventmobi.com/"><img alt="EventMobi" src="img/eventmobi_logo.png" width="210" height="40"></a>
                </div>
                <div class="span8">
-									The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry.
-									EventMobi is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney
-									and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event
-									guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for
-									conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages
-									across 5 continents.<br>
+                  The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry.
+                  EventMobi is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney
+                  and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event
+                  guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for
+                  conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages
+                  across 5 continents.<br>
                   <br>
-									We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries
+                  We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries
                   of the mobile web!
                </div>
             </div>
@@ -131,6 +131,9 @@ $page = 'sponsors';
             <div class="row">
                <div class="span12">
                   <h3>Community Level</h3>
+               </div>
+               <div class="span3">
+                  <a href="http://www.mkepug.org"><img alt="Milwaukee PHP Users Group" style="border:1px solid black" src="/img/mkepug-logo.jpg" width="165" height="110"></a>
                </div>
                <div class="span3">
                   <a href="http://www.nashvillephp.org"><img alt="Nashville PHP" style="border:1px solid black" src="/img/nashvillephp_logo.jpg" width="165" height="165"></a>
