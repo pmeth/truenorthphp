@@ -133,7 +133,7 @@ $page = 'sponsors';
                   <h3>Community Level</h3>
                </div>
                <div class="span3">
-                  <a href="http://www.mkepug.org"><img alt="Milwaukee PHP Users Group" style="border:1px solid black" src="/img/mkepug-logo.jpg" width="165" height="110"></a>
+                  <a href="http://www.mkepug.org"><img alt="Milwaukee PHP Users Group" style="border:1px solid black" src="/img/mkepug-logo.jpg" width="110" height="165"></a>
                </div>
                <div class="span3">
                   <a href="http://www.nashvillephp.org"><img alt="Nashville PHP" style="border:1px solid black" src="/img/nashvillephp_logo.jpg" width="165" height="165"></a>
