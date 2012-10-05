@@ -4,9 +4,9 @@ $speakers[] = array (
   'name' => 'Mark Story',
   'city' => 'Toronto',
   'country' => 'Canada',
-  'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/9a3df9bd81e0a9462bcc72d312fe6f51?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => '',
+  'twitter' => 'mark_story',
+  'image' => 'http://mark-story.com/files/mark_story_web.jpg',
+  'bio' => 'Mark is a lead developer at <a href="http://freshbooks.com">FreshBooks</a>. In his free time, he leads development on <a href="http://cakephp.org">CakePHP</a> and contributes to a number of other open source projects.',
   'talks' => array (
     array (
       'title' => 'Introduction to Twig',
