@@ -36,7 +36,7 @@ $page = 'sponsors';
                   <h3>Gold Level</h3>
                </div>
                <div class="thumbnail span3">
-                  <a href="http://www.webnotwar.ca/"><img alt="Make Web Not War" src="img/webnotwar-logo.jpg" width="210" height="129"></a>
+                  <a href="http://www.webnotwar.ca/"><img alt="Make Web Not War" src="http://www.webnotwar.ca/wp-content/themes/webnotwar2011/images/logo.png" width="220" height="145"></a>
                </div>
                <div class="span8">
                   Make Web Not War is a passionate community of tech enthusiasts. This group originally started as an event
@@ -132,10 +132,13 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Community Level</h3>
                </div>
-               <div class="span3">
+               <div class="span2">
+                  <a href="http://meetup.gtaphp.org"><img alt="GTA PHP User Group" style="border:1px solid black" src="http://photos3.meetupstatic.com/photos/event/8/d/0/4/highres_14496100.jpeg" width="120" height="120"></a>
+               </div>
+               <div class="span2">
                   <a href="http://www.mkepug.org"><img alt="Milwaukee PHP Users Group" style="border:1px solid black" src="/img/mkepug-logo.jpg" width="110" height="165"></a>
                </div>
-               <div class="span3">
+               <div class="span2">
                   <a href="http://www.nashvillephp.org"><img alt="Nashville PHP" style="border:1px solid black" src="/img/nashvillephp_logo.jpg" width="165" height="165"></a>
                </div>
                <div class="span3">
