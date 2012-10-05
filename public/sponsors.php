@@ -36,7 +36,7 @@ $page = 'sponsors';
                   <h3>Gold Level</h3>
                </div>
                <div class="thumbnail span3">
-                  <a href="http://www.webnotwar.ca/"><img alt="Make Web Not War" src="img/webnotwar-logo.jpg" width="210" height="129"></a>
+                  <a href="http://www.webnotwar.ca/"><img alt="Make Web Not War" src="http://www.webnotwar.ca/wp-content/themes/webnotwar2011/images/logo.png" width="220" height="145"></a>
                </div>
                <div class="span8">
                   Make Web Not War is a passionate community of tech enthusiasts. This group originally started as an event
@@ -51,14 +51,14 @@ $page = 'sponsors';
                   <a href="http://www.eventmobi.com/"><img alt="EventMobi" src="img/eventmobi_logo.png" width="210" height="40"></a>
                </div>
                <div class="span8">
-									The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry.
-									EventMobi is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney
-									and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event
-									guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for
-									conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages
-									across 5 continents.<br>
+                  The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry.
+                  EventMobi is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney
+                  and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event
+                  guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for
+                  conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages
+                  across 5 continents.<br>
                   <br>
-									We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries
+                  We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries
                   of the mobile web!
                </div>
             </div>
@@ -132,7 +132,13 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Community Level</h3>
                </div>
-               <div class="span3">
+               <div class="span2">
+                  <a href="http://meetup.gtaphp.org"><img alt="GTA PHP User Group" style="border:1px solid black" src="http://photos3.meetupstatic.com/photos/event/8/d/0/4/highres_14496100.jpeg" width="120" height="120"></a>
+               </div>
+               <div class="span2">
+                  <a href="http://www.mkepug.org"><img alt="Milwaukee PHP Users Group" style="border:1px solid black" src="/img/mkepug-logo.jpg" width="110" height="165"></a>
+               </div>
+               <div class="span2">
                   <a href="http://www.nashvillephp.org"><img alt="Nashville PHP" style="border:1px solid black" src="/img/nashvillephp_logo.jpg" width="165" height="165"></a>
                </div>
                <div class="span3">
