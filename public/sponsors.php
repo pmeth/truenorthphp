@@ -117,6 +117,15 @@ $page = 'sponsors';
             <br>
             <div class="row">
                <div class="thumbnail span3">
+                  <a href="http://servergrove.com/"><img alt="Servergrove" src="http://servergrove.com/images/logos/sg230x35_p.png" style="margin: 10px 0;" width="220" height="33"></a>
+               </div>
+               <div class="span8">
+                  ServerGrove provides hosting solutions for sites and web applications built using PHP, PHP Frameworks and MongoDB. Since its inception in 2005, ServerGrove has been dedicated to the advancement of PHP having backed countless conferences and meetups and contributed code and resources to open-source projects.  ServerGrove is one of the few hosting companies in the world that can boast of a state of the art infrastructure sitting atop of one of the most connected points in the globe, with a staff dedicated to providing support for PHP software and a solid commitment to the PHP community.
+                </div>
+            </div>
+            <br>
+            <div class="row">
+               <div class="thumbnail span3">
                   <a href="http://www.10gen.com/"><img alt="10gen" src="img/10gen-logo.png" width="211" height="56"></a>
                </div>
                <div class="span8">

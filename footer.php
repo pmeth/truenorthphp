@@ -12,6 +12,12 @@
                <h3 class="footer-links" style="float: left;"><a href="https://twitter.com/TrueNorthPHP">@TrueNorthPHP</a></h3>
             </div>
          </div>
+         <div class="row">
+            <div class="span12">
+               <h3 style="float: left; margin-right: 1em;">Read our Blog at</h3>
+               <h3 class="footer-links" style="float: left;"><a href="http://methlog.com/">Methlog</a></h3>
+            </div>
+         </div>
       </div>
    </div>
    <div class="forkme-ribbon">
