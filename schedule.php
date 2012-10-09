@@ -109,9 +109,9 @@
                      </td>
                      <td class="success">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=javascript_apis_in_the_html__umbrella">Javascript APIs in the HTML5 Umbrella</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=testing_and_devops_culture">Testing and Devops Culture</a>
                         </div>
-                        <div class="talk_speaker">Jake Smith</div>
+                        <div class="talk_speaker">Laura Beth Denker</div>
                      </td>
                      <td class="warning">
                         <div class="talk_title">
@@ -235,11 +235,11 @@
                         </div>
                         <div class="talk_speaker">Scott Mattocks</div>
                      </td>
-                     <td class="error">
+                     <td class="info" rowspan="3">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=testing_and_devops_culture">Testing and Devops Culture</a>
+                           Unconference
                         </div>
-                        <div class="talk_speaker">Laura Beth Denker</div>
+                        <div class="talk_speaker"></div>
                      </td>
                   </tr>
                   <tr class="schedule_slot"><th>14:00</th>
@@ -254,12 +254,6 @@
                            <a class="fancybox fancybox.iframe" href="viewtalk.php?name=practical_solr">Practical Solr</a>
                         </div>
                         <div class="talk_speaker">Radek Zajkowski</div>
-                     </td>
-                     <td class="info" rowspan="2">
-                        <div class="talk_title">
-                           Unconference
-                        </div>
-                        <div class="talk_speaker"></div>
                      </td>
                   </tr>
                   <tr class="schedule_slot"><th>15:00</th>
