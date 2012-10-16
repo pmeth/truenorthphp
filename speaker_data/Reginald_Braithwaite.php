@@ -9,8 +9,8 @@ $speakers[] = array (
   'bio' => '',
   'talks' => array (
     array (
-      'title' => 'Opening Keynote',
-      'text' => NULL,
+      'title' => 'Why PHP could be the most important programming language in the world',
+      'text' => 'Opening keynote for the conference' 
     ),
   ),
 );
