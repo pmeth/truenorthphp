@@ -1,3 +1,53 @@
+.table tbody td.success {
+  background-color: #dff0d8;
+}
+
+.table tbody td.error {
+  background-color: #f2dede;
+}
+
+.table tbody td.warning {
+  background-color: #fcf8e3;
+}
+
+.table tbody td.info {
+  background-color: #d9edf7;
+}
+
+.table-hover tbody td.success:hover {
+  background-color: #d0e9c6;
+}
+
+.table-hover tbody trd.error:hover {
+  background-color: #ebcccc;
+}
+
+.table-hover tbody td.warning:hover {
+  background-color: #faf2cc;
+}
+
+.table-hover tbody td.info:hover {
+  background-color: #c4e3f3;
+}
+
+.schedule_day {
+  margin-bottom: 50px;
+}
+
+.talk_title {
+  width: 279px;
+}
+
+.talk_title.keynote {
+  width: 100%;
+}
+
+.talk_speaker {
+  font-style: italic;
+  font-family: arial, helvetica, sans-serif;
+  font-size: 95%;
+}
+
 @media print {
    .header-wrapper, .navbar-fixed-top, .forkme-ribbon, .footer-wrapper,
    .content-wrapper .container hr {
