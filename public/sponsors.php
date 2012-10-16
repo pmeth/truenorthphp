@@ -48,6 +48,14 @@ $page = 'sponsors';
             </div>
             <div class="row" style="margin-top: 30px;">
                <div class="thumbnail span3">
+                  <a href="http://www.centah.com/"><img alt="Centah" src="img/centah_logo.jpg" width="210" height="94"></a>
+               </div>
+               <div class="span8">
+                  Centah is a collaborative, web-based work-flow management solution that connects and empowers the home services industry.
+               </div>
+            </div>
+            <div class="row" style="margin-top: 30px;">
+               <div class="thumbnail span3">
                   <a href="http://www.eventmobi.com/"><img alt="EventMobi" src="img/eventmobi_logo.png" width="210" height="40"></a>
                </div>
                <div class="span8">
