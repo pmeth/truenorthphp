@@ -12,7 +12,9 @@
                   <tr class="schedule_slot">
                      <th>09:00</th>
                      <td class="error" colspan="3">
-                        <div class="talk_title">Opening Keynote</div>
+                        <div class="talk_title keynote">
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=why_php_could_be_the_most_important_programming_language_in_the_world">Opening Keynote - Why PHP could be the most important programming language in the world</a>
+                        </div>
                         <div class="talk_speaker">Reginald Braithwaite</div>
                      </td>
                   </tr>

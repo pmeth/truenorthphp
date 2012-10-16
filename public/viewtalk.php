@@ -17,11 +17,11 @@ foreach ($filenames as $filename) {
 
 // I am aware this is sort of ridiculous, but I want to reuse the speaker data that is being forked on github.  If I planned it a bit better, I would have organized the talks separate from the speakers
 foreach ($speakers as $index => $speaker) {
-	foreach ($speaker['talks'] as $talk) {
-		if ($_GET['name'] == strtolower(preg_replace('/[^A-Za-z]/','_',$talk['title']))) {
-			break 2; // we should now have valid $speaker and $talk variables
-		}
-	}
+   foreach ($speaker['talks'] as $talk) {
+      if ($_GET['name'] == strtolower(preg_replace('/[^A-Za-z]/','_',$talk['title']))) {
+         break 2; // we should now have valid $speaker and $talk variables
+      }
+   }
 }
 ?><!DOCTYPE html>
 <html>
