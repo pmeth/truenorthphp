@@ -159,7 +159,11 @@ $page = 'sponsors';
                   <a href="http://www.nashvillephp.org"><img alt="Nashville PHP" style="border:1px solid black" src="/img/nashvillephp_logo.jpg" width="165" height="165"></a>
                </div>
                <div class="span3">
-                  <a href="http://www.atlantaphp.org"><img alt="Atlanta PHP" src="/img/AtlantaPHP_Logo_WhiteBg_210x210.png" width="210" height="210"></a>
+									<a href="http://www.atlantaphp.org"><img alt="Atlanta PHP" src="/img/atlantaphp_logo.png" width="210" height="73"></a>
+                  <br>
+                  <br>
+                  <br>
+                  <a href="http://www.homezilla.ca"><img alt="Homezilla" src="/img/homezilla_logo.jpg" width="210" height="51"></a>
                </div>
                <div class="span3">
                   <a href="http://www.meetup.com/dallasphp/"><img alt="Dallas PHP" src="http://photos3.meetupstatic.com/photos/event/8/f/7/a/global_10056730.jpeg" width="180" height="180"></a>
