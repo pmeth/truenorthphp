@@ -56,8 +56,8 @@ $extra_css = array('css/index.css');
 
          $(document).ready(function() {
             $('#twitter2').twitterSearch({
-               term: 'truenorthphp',
-               title: 'Tweets for <a href="https://twitter.com/#!/search/realtime/%40truenorthphp">@TrueNorthPHP</a>',
+               term: 'truenorthphp OR tnphp',
+               title: 'Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&src=typd">@truenorthphp / #tnphp</a>',
                bird: false,
                css: {
                   img: { width: '30px', height: '30px' }
