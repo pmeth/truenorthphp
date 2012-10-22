@@ -2,10 +2,10 @@
 
 $speakers[] = array (
   'name' => 'Adam Lundrigan',
-  'city' => 'Newfoundland',
+  'city' => 'St. John\'s, NL',
   'country' => 'Canada',
-  'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/762956fec0fea6865d32e164ef47b39d?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'twitter' => 'adamlundrigan',
+  'image' => 'http://www.gravatar.com/avatar/36af1ab1897f88d3d56d91ed1aece5d5.png?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => '',
   'talks' => array (
     array (
