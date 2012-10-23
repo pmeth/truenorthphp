@@ -43,7 +43,7 @@ $extra_css = array('css/index.css');
                </div>
                <div class="span4">
                   <div id="twitter2" class="twitter"></div>
-                  <div class="fb-like-box" data-href="http://www.facebook.com/pages/True-North-PHP-Conference/354963517930838?ref=ts&amp;fref=ts" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
+                  <div style="margin-top: 20px;" class="fb-like-box" data-href="http://www.facebook.com/pages/True-North-PHP-Conference/354963517930838?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
                </div>
             </div>
          </div>
