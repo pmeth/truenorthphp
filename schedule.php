@@ -274,7 +274,7 @@
                   </tr>
                   <tr class="schedule_slot">
                      <th>16:00</th>
-                     <td class="success" colspan="3"><div class="talk_title">Closing Keynote</div><div class="talk_speaker">Chris Hartjes</div></td>
+                     <td class="success" colspan="3"><div class="talk_title">Being Grumpy For Fun And Profit</div><div class="talk_speaker">Chris Hartjes</div></td>
                   </tr>
                </tbody>
            </table>
