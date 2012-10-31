@@ -169,6 +169,11 @@ $page = 'sponsors';
                   <a href="http://www.meetup.com/dallasphp/"><img alt="Dallas PHP" src="http://photos3.meetupstatic.com/photos/event/8/f/7/a/global_10056730.jpeg" width="180" height="180"></a>
                </div>
             </div>
+            <div class="row">
+               <div class="span3">
+                  <a href="http://kitewebconsulting.com"><img alt="Kite Web Consulting" src="http://kitewebconsulting.com/images/logo.gif" width="157" height="108"></a>
+               </div>
+            </div>
          </div>
       </div>
 <?php require '../footer.php'; ?>
