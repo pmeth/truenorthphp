@@ -8,7 +8,7 @@
 
 if (!isset($_COOKIE['mobileNoPrompt'])){
 
-    require_once('public/php_ext_libs/mobile-detect/Mobile_Detect.php');
+    require_once('vendor/mobile-detect/Mobile_Detect.php');
     $detect = new Mobile_Detect();
     if ($detect->isMobile()) {
         // if mobile Device move to mobile prompt page
