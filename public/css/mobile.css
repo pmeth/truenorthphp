@@ -1,0 +1,39 @@
+/* Mobile Redirect Css */
+
+#mobileAsk{
+    position: fixed;
+    width:100%;
+    height:1000px;
+    display:block;
+    top:0;
+    left:0;
+    background-color:#0B294F;
+    z-index:10000;
+    color:#fff;
+    padding:4px;
+    text-align:center;
+}
+#mobileAsk h3{
+    font-size:1.5em;
+}
+.mobileLogo{
+    width:100%;
+    text-align:center;
+}
+.mobileSponsor{
+    display:block;
+    width:100%;
+
+    text-align:center;
+    background-color:#fff;
+    color:#333;
+    margin-top:10px;
+}
+.mobileBtnArea{
+    margin: 5px 0;
+    width:100%;
+    text-align:center;
+}
+.hideBody{
+    display:none;
+}
