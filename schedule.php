@@ -163,9 +163,9 @@
                   <tr class="schedule_slot"><th>09:00</th>
                      <td class="error">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=process_any_amounts_of_data__any_time">Process any amounts of data. Any time</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=modular_javascript">Modular Javascript</a>
                         </div>
-                        <div class="talk_speaker">Juozas Joe Kaziukenas</div>
+                        <div class="talk_speaker">Guilherme Blanco</div>
                      </td>
                      <td class="success">
                         <div class="talk_title">
