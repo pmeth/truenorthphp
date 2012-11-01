@@ -171,7 +171,7 @@ $page = 'sponsors';
             </div>
             <div class="row">
                <div class="span3">
-                  <a href="http://kitewebconsulting.com"><img alt="Kite Web Consulting" src="http://kitewebconsulting.com/images/logo.gif" width="157" height="108"></a>
+                  <a href="http://nashville.coderfaire.com"><img alt="CoderFaire" src="http://nashville.coderfaire.com/wp-content/themes/coderfaire/images/logo.png" width="205" height="124"></a>
                </div>
             </div>
          </div>
