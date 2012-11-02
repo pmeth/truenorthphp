@@ -2,11 +2,11 @@
 
 $speakers[] = array (
   'name' => 'Jeremy Mikola',
-  'city' => 'NJ',
+  'city' => 'Hoboken, NJ',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'jmikola',
   'image' => 'http://www.gravatar.com/avatar/f23700b51dc0c196c1dc02f84aeeecdf?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => '',
+  'bio' => 'Jeremy Mikola is a software engineer at 10gen, where he works on all things MongoDB and PHP. He has been contributing to Symfony2, Doctrine and many related OSS projects for a few years now, and previously spent some time deploying Symfony2\'s master branch to production at OpenSky and Exercise.com. Jeremy lives in Hoboken, NJ, is known to enjoy a good sandwich, and is always looking for ways to inject light-hearted humor into his work.',
   'talks' => array (
     array (
       'title' => 'Getting Acquainted with MongoDB',

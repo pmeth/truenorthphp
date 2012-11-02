@@ -7,6 +7,9 @@
                <li class="<?php echo $page == 'venue' ? 'active' : ''; ?>">
                   <a href="venue.php">Venue</a>
                </li>
+               <li class="<?php echo $page == 'schedule' ? 'active' : ''; ?>">
+                  <a href="schedule.php">Schedule</a>
+               </li>
                <li class="<?php echo $page == 'speakers' ? 'active' : ''; ?>">
                   <a href="speakers.php">Speakers</a>
                </li>
@@ -25,7 +28,7 @@
 <?php if ($page == 'index') : ?>
             <div class="ribbon-wrapper">
                <div class="ribbon-front">
-                  <h2>Toronto, Canada :: November 2 &amp; 3, 2012 :: <a href="tickets.php"><span class="earlybird">Early Bird Tickets on Sale Now</span></a></h2>
+                   <h2>Toronto, Canada :: November 2 &amp; 3, 2012 :: <a href="tickets.php"><span class="earlybird"><?php if (time() < strtotime('2012-10-01')) echo 'Early Bird ';?>Tickets on Sale Now</span></a></h2>
                </div>
                <div class="ribbon-edge-topleft"></div>
                <div class="ribbon-edge-topright"></div>

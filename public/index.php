@@ -1,6 +1,6 @@
 <?php
 $page = 'index';
-$extra_css = array('index');
+$extra_css = array('css/index.css');
 ?>
 <?php include '../header.php'; ?>
       <div class="content-wrapper">
@@ -31,19 +31,35 @@ $extra_css = array('index');
                   </div>
                   <div class="row">
                      <div class="span8 centered-text">
-                        <h1 style="float:left">Tickets just $150 for both days </h1>
-                        <h6>Hurry, prices go up Oct 1st!</h6>
+                        <?php if (time() < strtotime('2012-10-01')) : ?>
+                           <h1 style="float:left">Tickets just $150 for both days </h1>
+                           <h6>Hurry, prices go up Oct 1st!</h6>
+                        <?php else : ?>
+                           <h1 style="float:left">Tickets just $200 for both days</h1>
+                        <?php endif; ?>
                         <a href="tickets.php" class="btn btn-large btn-success">Order Your Tickets Now</a>
                      </div>
                   </div>
                </div>
                <div class="span4">
                   <div id="twitter2" class="twitter"></div>
+                  <div style="margin-top: 20px;" class="fb-like-box" data-href="http://www.facebook.com/pages/True-North-PHP-Conference/354963517930838?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
                </div>
             </div>
          </div>
       </div>
 <?php include '../footer.php'; ?>
+<div id="fb-root"></div>
+      <!-- start: for facebook like box -->
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=11696639907";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+      <!-- end: for facebook like box -->
+
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
       <script type="text/javascript" src="http://malsup.github.com/jquery.corner.js"></script>
       <script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>
@@ -52,8 +68,8 @@ $extra_css = array('index');
 
          $(document).ready(function() {
             $('#twitter2').twitterSearch({
-               term: 'truenorthphp',
-               title: 'Tweets for <a href="https://twitter.com/#!/search/realtime/%40truenorthphp">@TrueNorthPHP</a>',
+               term: 'truenorthphp OR tnphp',
+               title: 'Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&src=typd">@truenorthphp / #tnphp</a>',
                bird: false,
                css: {
                   img: { width: '30px', height: '30px' }

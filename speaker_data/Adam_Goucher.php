@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Whitby, ON',
   'country' => 'Canada',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/9b39483501f809ba835a2090e2cdd52a?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => 'http://www.gravatar.com/avatar/bb7297db1714b8245728cde800456818?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => '',
   'talks' => array (
     array (
