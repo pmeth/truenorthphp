@@ -14,7 +14,7 @@ $speakers[] = array (
     ),
     array (
       'title' => 'Being a Good OSS Contributor',
-      'text' => 'To say that the barrier for publishing and contributing to open-source projects is low would be an understatement. GitHub has revolutionized this process with pull requets; "fork-and-edit" is as effortless as Amazon's one-click checkout. While there is certainly no shortage of opportunities and projects with which to become involved, there is the matter of doing so effectively and responsibly. In this session, we'll look at OSS contribution from the side of both would-be contributors and project maintainers, and discuss good practices we can apply towards the smallest of bug reports or documentation edits to the largest of pull requests.',
+      'text' => 'To say that the barrier for publishing and contributing to open-source projects is low would be an understatement. GitHub has revolutionized this process with pull requets; "fork-and-edit" is as effortless as Amazon\'s one-click checkout. While there is certainly no shortage of opportunities and projects with which to become involved, there is the matter of doing so effectively and responsibly. In this session, we\'ll look at OSS contribution from the side of both would-be contributors and project maintainers, and discuss good practices we can apply towards the smallest of bug reports or documentation edits to the largest of pull requests.',
     ),
   ),
 );
