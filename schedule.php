@@ -163,9 +163,9 @@
                   <tr class="schedule_slot"><th>09:00</th>
                      <td class="error">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=modular_javascript">Modular Javascript</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=hypermedia_apis">REST APIs: The "R" is not for religious</a>
                         </div>
-                        <div class="talk_speaker">Guilherme Blanco</div>
+                        <div class="talk_speaker">Joel Clermont</div>
                      </td>
                      <td class="success">
                         <div class="talk_title">
