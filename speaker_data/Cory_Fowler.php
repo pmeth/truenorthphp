@@ -3,7 +3,7 @@
 $speakers[] = array (
   'name' => 'Cory Fowler',
   'city' => NULL,
-  'country' => 'USA',
+  'country' => 'Redmond, WA, USA',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/01d22c0e456468ae1bb16fd17795547f.png?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => '',
