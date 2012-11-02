@@ -51,9 +51,9 @@
                      </td>
                      <td class="info">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=growing_spiders_to_crawl_the_web">Growing spiders to crawl the web</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=being_a_good_oss_contributor">Being a Good OSS Contributor</a>
                         </div>
-                        <div class="talk_speaker">Juozas Joe Kaziukenas</div>
+                        <div class="talk_speaker">Jeremy Mikola</div>
                      </td>
                   </tr>
                   <tr class="schedule_slot">
