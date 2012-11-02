@@ -53,7 +53,7 @@
                      </td>
                      <td class="info">
                         <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=being_a_good_oss_contributor">Being a Good OSS Contributor</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=being_a_good_open_source_contributor">Being a Good Open Source Contributor</a>
                         </div>
                         <div class="talk_speaker">Jeremy Mikola</div>
                      </td>

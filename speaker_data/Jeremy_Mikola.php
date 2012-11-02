@@ -13,7 +13,7 @@ $speakers[] = array (
       'text' => 'Database technologies are not one-size-fits-all, and relational models need not be the de facto choice for web applications. MongoDB is a non-relational, document database designed for ease of use, speed, and scalability. Many developers have discovered that it hits a sweet spot of functionality and flexibility. This session will introduce MongoDB\'s storage model and query language using the native PHP driver and a plethora of code examples. Along the way, we will note parallels to SQL, discuss limitations, and explore new features.',
     ),
     array (
-      'title' => 'Being a Good OSS Contributor',
+      'title' => 'Being a Good Open Source Contributor',
       'text' => 'To say that the barrier for publishing and contributing to open-source projects is low would be an understatement. GitHub has revolutionized this process with pull requets; "fork-and-edit" is as effortless as Amazon\'s one-click checkout. While there is certainly no shortage of opportunities and projects with which to become involved, there is the matter of doing so effectively and responsibly. In this session, we\'ll look at OSS contribution from the side of both would-be contributors and project maintainers, and discuss good practices we can apply towards the smallest of bug reports or documentation edits to the largest of pull requests.',
     ),
   ),
