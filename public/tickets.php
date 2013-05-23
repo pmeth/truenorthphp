@@ -20,7 +20,7 @@ $page = 'tickets';
                </div>
                <div class="span12" >
                   <iframe
-                     src="http://www.eventbrite.ca/tickets-external?eid=3853116776&ref=etckt"
+                     src="http://www.eventbrite.ca/tickets-external?eid=6821905503&ref=etckt"
                      frameborder="0"
                      height="256"
                      width="100%"
