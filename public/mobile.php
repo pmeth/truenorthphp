@@ -7,7 +7,7 @@ setcookie('mobileNoPrompt','noPrompt',time() + 7200); // 7200 = 2 hours
 <!DOCTYPE html>
 <html>
    <head>
-      <title>True North PHP Conference - November 2-3 - Toronto, Canada</title>
+      <title>True North PHP Conference - November 7-9, 2013 - Toronto, Canada</title>
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
        <link rel="stylesheet" href="css/mobile.css">
