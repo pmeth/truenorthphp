@@ -1,29 +1,30 @@
 True North PHP Sponsorship Prospectus
 =====================================
 
-Thanks so much for your interest in sponsoring the 2013 True North PHP conference! It’s been a long time since there has been a PHP focused conference in the Toronto area and none of this could be possible without the generous donations of supporters like you. We hope that we have sponsorship options that allow you to be a part of this year’s event. 
+Thanks so much for your interest in sponsoring the 2013 True North PHP conference. Last year we brought leading speakers from around the globe to Toronto. Everyone who attended had a great time and left with many new ideas.
 
-If you have any questions or would like to talk about other sponsorship options, please contact <conference@truenorthphp.ca> and Peter Meth will set up a phone call with you.
+With the help of generous donations from sponsors like you, this year's conference will be bigger and better. We are confident that we have sponsorship options that allow you to be a part of this year's event. 
 
 Here are our plans for the event:
 
-* 2 days 
+* a full day of tutorials
+* 2 full days of talks 
 * 3 tracks 
 * 38 sessions 
-* 250 tickets 
-* 300 attendees 
+* a themed hackathon
+* fantastic social events
 * Awesome time for everyone! 
 
 In addition to the sponsorship levels listed below, we are also looking for sponsors to cover the costs of:
 
-* rewards for speakers 
-* t-shirts for attendees 
-* unique giveaways 
-* catered lunch for attendees for both days 
+* coffee, beverages and pastries
+* catered lunches
+* social outings
+* unique giveaway
 
 If you have some unique ideas to combine your sponsorship with something unique, let us know. 
 
-In addition to this, should one of your employees get picked to speak and you can pay all their travel expenses, your company would automatically become a bronze level sponsor, allowing us to use the money that would’ve been allocated to their travel to bring in other exciting speakers!
+Further, should one of your employees get picked to speak and you can pay all their travel expenses, your company would automatically become a bronze level sponsor, allowing us to use the money that would have been allocated to their travel to bring in other exciting speakers!
 
 We are offering 5 levels of sponsorship this year:
 
@@ -94,3 +95,19 @@ Community
 * Tweet announcement
 
 **$100** (unlimited)
+
+* * *
+
+Contact Information
+-------------------
+For sponsorship information, please contact:
+
+**Peter Meth**  
+Phone: *416-677-6384*  
+Email: *<conference@truenorthphp.ca>*
+
+* * *
+
+**True North PHP**  
+Website: *<http://www.truenorthphp.ca>*  
+Twitter: *[@truenorthphp](https://twitter.com/truenorthphp)*
