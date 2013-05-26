@@ -7,12 +7,6 @@
                <li class="<?php echo $page == 'venue' ? 'active' : ''; ?>">
                   <a href="venue.php">Venue</a>
                </li>
-               <li class="<?php echo $page == 'schedule' ? 'active' : ''; ?>">
-                  <a href="schedule.php">Schedule</a>
-               </li>
-               <li class="<?php echo $page == 'speakers' ? 'active' : ''; ?>">
-                  <a href="speakers.php">Speakers</a>
-               </li>
                <li class="<?php echo $page == 'sponsors' ? 'active' : ''; ?>">
                   <a href="sponsors.php">Sponsors</a>
                </li>
