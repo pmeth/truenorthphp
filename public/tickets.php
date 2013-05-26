@@ -12,7 +12,12 @@ $page = 'tickets';
                </div>
                <div class="span12">
                   <p>There are only 250 tickets available for True North PHP, so buy your tickets early before they sell out.</p>
-                  <p>Tickets are just $200 until the day of the event.  Each tickets gives you access to all the events on both days.</p>
+									<?php if (time() < strtotime('2013-10-01')) : ?>
+									<p>Early bird tickets are just $175 until October 1.</p>
+									<?php else : ?>
+									<p>Tickets are just $250 until event day.</p>
+									<?php endif; ?>
+									<p>Each ticket gives you access to all the events on Friday November 8 and Saturday November 9.  Tutorial day tickets give you access to all sessions on Thursday, November 7.</p>
                   <p style="color:red; font-weight:bold">** Please note that all ticket sales are final and we are unable to offer refunds.</p>
                </div>
                <div class="span12">
