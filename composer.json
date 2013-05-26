@@ -1,0 +1,14 @@
+{
+    "name": "pmeth/truenorthphp",
+    "description": "Sources for the website of True North PHP located at http://www.truenorthphp.ca",
+    "require": {
+        "michelf/php-markdown": "1.3.*@dev",
+        "mobiledetect/mobiledetectlib": "2.6.*"
+    },
+    "authors": [
+        {
+            "name": "Peter Meth",
+            "email": "pmeth@rogers.com"
+        }
+    ]
+}
