@@ -1,0 +1,46 @@
+body {
+	font: 15px Helvetica, arial, freesans, clean, sans-serif;
+	line-height: 1.7;
+	color: #333333;
+}
+
+.container {
+	width: 878px;
+	padding: 0 40px 40px;
+	margin: auto;
+	border: 1px solid #ccc;
+}
+
+h1 {
+	font-size: 2.5em;
+	border-bottom: 1px solid #ddd;
+}
+
+h2 {
+	font-size: 2em;
+	border-bottom: 1px solid #eee;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 1em 0 15px;
+	padding: 0;
+	font-weight: bold;
+	-webkit-font-smoothing: antialiased;
+	cursor: text;
+	position: relative;
+}
+
+hr {
+	background: transparent url("img/hr_shade.png") repeat-x 0 0;
+	border: 0 none;
+	color: #ccc;
+	height: 4px;
+	padding: 0;
+	margin: 15px 0;
+}
+sponsorship_prospectus.mdmedia="all"
+.rule, hr {
+	clear: both;
+	overflow: hidden;
+	border-bottom: 1px solid #ddd;
+}

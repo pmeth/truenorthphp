@@ -39,7 +39,7 @@ Platinum
 * Logo on entry banner
 * Logo on website
 * Promotion via Twitter every week leading up to the event
-* Sponsor “feature” section on conference web site
+* Sponsor "feature" section on conference web site
 * 30% off the price of 4 additional tickets
 
 **$3500** (3 available)
@@ -55,7 +55,7 @@ Gold
 * Logo on entry banner
 * Logo on website
 * Social media promotion via Twitter every other week
-* Sponsor “feature” section on website
+* Sponsor "feature" section on website
 * 20% off the price of 3 additional tickets
 
 **$2200** (6 available)
@@ -81,7 +81,7 @@ Bronze
 
 * Logo on website
 * Tweet announcement
-* Sponsor “feature” section on website
+* Sponsor "feature" section on website
 * 10% off the price of 1 additional ticket
 
 **$600** (unlimited)
