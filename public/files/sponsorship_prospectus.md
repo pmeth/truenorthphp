@@ -42,7 +42,7 @@ Platinum
 * Sponsor “feature” section on conference web site
 * 30% off the price of 4 additional tickets
 
-**$5000** (3 available)
+**$3500** (3 available)
 
 * * *
 
@@ -58,7 +58,7 @@ Gold
 * Sponsor “feature” section on website
 * 20% off the price of 3 additional tickets
 
-**$2500** (6 available)
+**$2200** (6 available)
 
 * * *
 
@@ -72,7 +72,7 @@ Silver
 * Sponsor "feature" section on conference web site
 * 15% off the price of 2 additional tickets
 
-**$1000** (unlimited)
+**$1200** (unlimited)
 
 * * *
 
@@ -84,7 +84,7 @@ Bronze
 * Sponsor “feature” section on website
 * 10% off the price of 1 additional ticket
 
-**$500** (unlimited)
+**$600** (unlimited)
 
 * * *
 
