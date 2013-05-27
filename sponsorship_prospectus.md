@@ -50,7 +50,7 @@ Gold
 ----
 
 * Shared or dedicated table based on availability
-* 2 conference passes include
+* 2 conference passes included
 * Logo on attendee badge
 * Logo on entry banner
 * Logo on website
