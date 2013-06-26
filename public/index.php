@@ -47,7 +47,7 @@ $extra_css = array('css/index.css');
                   <div id="twitter2" class="twitter" style="background-color: rgb(243, 243, 243); padding: 19px; border: 1px solid rgb(221, 221, 221); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
                      <div class="twitterSearchTitle"><span>Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&amp;src=typd">@truenorthphp / #tnphp</a></span></div>
                      <div class="twitterSearchContainter" style="overflow: hidden; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); height: 460px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
-                        <a width="260" height="462" class="twitter-timeline" data-chrome="noheader" href="https://twitter.com/search?q=truenorthphp+OR+tnphp" data-widget-id="349723122125131776">Tweets about truenorthphp</a>
+                        <a width="260" height="462" class="twitter-timeline" data-chrome="noheader nofooter" href="https://twitter.com/search?q=truenorthphp+OR+tnphp" data-widget-id="349723122125131776">Tweets about truenorthphp</a>
                         <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                      </div>
                   </div>
