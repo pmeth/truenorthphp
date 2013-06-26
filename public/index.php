@@ -19,7 +19,7 @@ $extra_css = array('css/index.css');
                         Part of our mission is to bring you a great lineup of speakers.  To accomplish that we are reaching out to PHP experts from Toronto and around the world.  We are sure you will recognize many of them as being leaders of the PHP community, respected authors and renowned public speakers.  We also want to give newer speakers the opportunity to showcase their expertise.  All-in-all True North PHP promises to feature a spectacular lineup of engaging and high quality talks that you won't soon forget.
                      </div>
                   </div>
-									<?php if (time() > strtotime('2013-10-01')) : ?>
+                           <?php if (time() > strtotime('2013-10-01')) : ?>
                   <div class="row">
                      <hr>
                      <div class="span8 centered-text">
@@ -44,7 +44,13 @@ $extra_css = array('css/index.css');
                   </div>
                </div>
                <div class="span4">
-                  <div id="twitter2" class="twitter"></div>
+                  <div id="twitter2" class="twitter" style="background-color: rgb(243, 243, 243); padding: 19px; border: 1px solid rgb(221, 221, 221); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
+                     <div class="twitterSearchTitle"><span>Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&amp;src=typd">@truenorthphp / #tnphp</a></span></div>
+                     <div class="twitterSearchContainter" style="overflow: hidden; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); height: 460px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
+                        <a width="260" height="462" class="twitter-timeline" data-chrome="noheader" href="https://twitter.com/search?q=truenorthphp+OR+tnphp" data-widget-id="349723122125131776">Tweets about truenorthphp</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+                     </div>
+                  </div>
                   <div style="margin-top: 20px;" class="fb-like-box" data-href="http://www.facebook.com/pages/True-North-PHP-Conference/354963517930838?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
                </div>
             </div>
@@ -65,21 +71,5 @@ $extra_css = array('css/index.css');
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
       <script type="text/javascript" src="http://malsup.github.com/jquery.corner.js"></script>
       <script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>
-      <script type="text/javascript" src="js/jquery.twitter.search.js"></script>
-      <script type="text/javascript">
-
-         $(document).ready(function() {
-            $('#twitter2').twitterSearch({
-               term: 'truenorthphp OR tnphp',
-               title: 'Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&src=typd">@truenorthphp / #tnphp</a>',
-               bird: false,
-               css: {
-                  img: { width: '30px', height: '30px' }
-               }
-            });
-
-         });
-
-      </script>
    </body>
 </html>
