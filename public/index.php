@@ -48,7 +48,6 @@ $extra_css = array('css/index.css');
                      <div class="twitterSearchTitle"><span>Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&amp;src=typd">@truenorthphp / #tnphp</a></span></div>
                      <div class="twitterSearchContainter" style="overflow: hidden; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); height: 460px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
                         <a width="260" height="462" class="twitter-timeline" data-chrome="noheader nofooter" href="https://twitter.com/search?q=truenorthphp+OR+tnphp" data-widget-id="349723122125131776">Tweets about truenorthphp</a>
-                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
                      </div>
                   </div>
                   <div style="margin-top: 20px;" class="fb-like-box" data-href="http://www.facebook.com/pages/True-North-PHP-Conference/354963517930838?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
@@ -59,15 +58,9 @@ $extra_css = array('css/index.css');
 <?php include '../footer.php'; ?>
 <div id="fb-root"></div>
       <!-- start: for facebook like box -->
-      <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=11696639907";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-      <!-- end: for facebook like box -->
 
+      <script type="text/javascript" id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=11696639907"></script>
+      <script type="text/javascript" id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script>
       <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
       <script type="text/javascript" src="http://malsup.github.com/jquery.corner.js"></script>
       <script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>
