@@ -10,6 +10,9 @@
                <li class="<?php echo $page == 'sponsors' ? 'active' : ''; ?>">
                   <a href="sponsors.php">Sponsors</a>
                </li>
+               <li id="cfp">
+                  <a href="http://cfp.truenorthphp.ca">Call for Papers</a>
+               </li>
                <li id="buy-tickets" class="<?php echo $page == 'tickets' ? 'active' : ''; ?>">
                   <a href="tickets.php">Buy Tickets</a>
                </li>

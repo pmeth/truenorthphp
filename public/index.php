@@ -30,6 +30,13 @@ $extra_css = array('css/index.css');
                   <?php endif; ?>
                   <div class="row">
                      <hr>
+                     <div class="span8 centered-text">
+                        <h1 style="margin-bottom: 10px;">Call for Papers is Now Open</h1>
+                        <a href="http://cfp.truenorthphp.ca" class="btn btn-giant btn-warning">Submit Your Talk</a>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <hr>
                   </div>
                   <div class="row">
                      <div class="span8 centered-text">

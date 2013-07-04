@@ -169,6 +169,7 @@ h6 {
    padding-bottom: 20px;
 }
 
+#cfp,
 #buy-tickets {
    background-color: #ABE876;
 }
@@ -177,6 +178,7 @@ h6 {
    color: #80F5FF;
 }
 
+#cfp a,
 #buy-tickets a {
    color: #7C5134;
 }
