@@ -51,9 +51,8 @@ $page = 'venue';
             <div class="row hotels">
                <div class="span8">
                   We have negotiated a preferred rate of $90/night at the Four Points Sheraton.<br>
-                  If calling, you can request the True North PHP rate.<br>
-                  If you prefer to book online, please book via the following link:
-                  <a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1208249393&key=498AD">Book Now</a><br>
+                  Reservations at this rate can only be made by phone.<br>
+                  When calling, be sure to request the True North PHP rate.<br>
                   <br>
                   <h3>Four Points by Sheraton</h3>
                   2501 Argentia Road,<br>
