@@ -31,7 +31,7 @@ $page = 'sponsors';
                   <h2>Current sponsors</h2>
                </div>
             </div>
-            <div class="row">
+            <div class="row" style="margin-bottom: 20px">
                <div class="span12">
                   <h3>Gold Level</h3>
                </div>
@@ -49,6 +49,12 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Silver Level</h3>
                </div>
+                <div class="thumbnail span3">
+                     <a href="http://www.mercatustechnologies.com/"><img alt="Mercatus" src="img/mercatus_logo.jpg" width="220" height="46"></a>
+                </div>
+                <div class="span8">
+                     <b><a href="http://www.mercatustechnologies.com/">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
+                </div>
             </div>
             <div class="row">
                <hr>
