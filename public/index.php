@@ -31,8 +31,8 @@ $extra_css = array('css/index.css');
                   <div class="row">
                      <hr>
                      <div class="span8 centered-text">
-                        <h1 style="margin-bottom: 10px;">Call for Papers is Now Open</h1>
-                        <a href="http://cfp.truenorthphp.ca" class="btn btn-giant btn-warning">Submit Your Talk</a>
+                        <h1 style="margin-bottom: 10px;">Speakers have been announced</h1>
+                        <a href="speakers.php" class="btn btn-giant btn-warning">View the List</a>
                      </div>
                   </div>
                   <div class="row">
