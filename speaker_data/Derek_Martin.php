@@ -4,9 +4,9 @@ $speakers[] = array (
   'name' => 'Derek Martin',
   'city' => 'London, ON',
   'country' => 'Canada',
-  'twitter' => '',
+  'twitter' => 'lo_fye',
   'image' => 'http://www.gravatar.com/avatar/71c2d2b4bfbff15d5a423a67eb8d2a55?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => 'twitter: @lo_fye
+  'bio' => '
 blog: http://www.derekmartin.ca
 http://ca.linkedin.com/in/misterderekmartin
 http://careers.stackoverflow.com/derek-martin',

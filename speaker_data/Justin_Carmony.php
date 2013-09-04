@@ -4,11 +4,9 @@ $speakers[] = array (
   'name' => 'Justin Carmony',
   'city' => 'Salt Lake City, UT',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'JustinCarmony',
   'image' => 'http://www.gravatar.com/avatar/42e57550044496027f9a3a4303f13362?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Website: http://www.justincarmony.com/
-Twitter: @JustinCarmony
-Here is my bio:
 Justin Carmony has been programming professionally in PHP since 2005. He lives in Ogden, Utah where he currently is the Director of Development for Deseret Digital Media, a local media company that runs some of Utah\'s largest websites. In the past he has worked for CEVO, a video game company that runs hosted online tournaments for companies like Dell, nVidia, DirectTV, and others. He currently is the President of the Utah PHP Usergroup and helps the Utah Open Source Foundation.',
   'talks' => array (
     array (

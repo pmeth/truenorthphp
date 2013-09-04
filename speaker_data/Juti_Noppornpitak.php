@@ -4,12 +4,12 @@ $speakers[] = array (
   'name' => 'Juti Noppornpitak',
   'city' => 'Toronto',
   'country' => 'Canada',
-  'twitter' => '',
+  'twitter' => 'shiroyuki',
   'image' => 'http://www.gravatar.com/avatar/cb2cb2fbb0ac209ef967ee6e74ef84be?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'I am a mathematician, a software developer and a documentary photographer, living in Toronto and frequently traveling to Thailand and Japan.
 Currently, I work as a senior PHP developer at Instaclick in Toronto during the daytime and a Python developer at night.
 Homepage: http://shiroyuki.com
-Twitter: @shiroyuki',
+',
   'talks' => array (
     array (
       'title' => 'Understanding Doctrine',

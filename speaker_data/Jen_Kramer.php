@@ -4,9 +4,9 @@ $speakers[] = array (
   'name' => 'Jen Kramer',
   'city' => 'Boston, MA',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'jen4web',
   'image' => 'http://www.gravatar.com/avatar/03e76f7e3c503908b6cf79ceb0ca4041?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => 'Twitter: @jen4web
+  'bio' => '
 Website: www.jenkramer.org
 Facebook: www.facebook.com/webdesignjen',
   'talks' => array (

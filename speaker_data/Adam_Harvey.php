@@ -4,10 +4,9 @@ $speakers[] = array (
   'name' => 'Adam Harvey',
   'city' => 'Vancouver, BC',
   'country' => 'Canada',
-  'twitter' => '',
+  'twitter' => 'LGnome',
   'image' => 'http://www.gravatar.com/avatar/600722fc9662ebf3018d6c4237bb01f2?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'I\'m a long time Web developer who has grappled with challenges both on the front and backend at various times over the years. In my spare time, I contribute to the PHP project, a smattering of repositories on GitHub, and play cricket very badly.
-Twitter: https://twitter.com/LGnome
 GitHub: https://github.com/LawnGnome',
   'talks' => array (
     array (

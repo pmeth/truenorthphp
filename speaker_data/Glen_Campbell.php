@@ -4,7 +4,7 @@ $speakers[] = array (
   'name' => 'Glen Campbell',
   'city' => 'San Antonio, TX',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'glenc',
   'image' => 'http://www.gravatar.com/avatar/5bb6071aabc72f0a8e2236ddd078b3f0?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'I\'m the manager of Rackspace\'s Developer Relations Group and the lead developer on http://php-opencloud.com. My blog is at http://glen-campbell.com and my Twitter is @glenc. I\'ve been developing in PHP since 2000; my first major project was http://siteframe.org (now deprecated because of security concerns).',
   'talks' => array (

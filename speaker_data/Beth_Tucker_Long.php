@@ -4,7 +4,7 @@ $speakers[] = array (
   'name' => 'Beth Tucker Long',
   'city' => 'Chicago, IL',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'e3betht',
   'image' => 'http://www.gravatar.com/avatar/b6b6d94f7cc0a47b2217f3749b9c3d8b?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Beth Tucker Long is the Editor-In-Chief of php|architect magazine (http://www.phparch.com) as well as teaching PHP courses and freelancing. You can find her on Twitter (@e3betht) or on her blog (http://www.alittleofboth.com). She runs Treeline Design - http://www.treelinedesign.com, a web development company, and Playlist Event Music - http://www.playlisteventmusic.com, a DJ company, along with her husband, Chris.',
   'talks' => array (

@@ -4,10 +4,9 @@ $speakers[] = array (
   'name' => 'Mark Story',
   'city' => 'Toronto',
   'country' => 'Canada',
-  'twitter' => '',
+  'twitter' => 'mark_story',
   'image' => 'http://www.gravatar.com/avatar/9a3df9bd81e0a9462bcc72d312fe6f51?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Developer at FreshBooks and contributor to a number of open source projects including CakePHP, Twig, Xhgui2 and more.
-Twitter: @mark_story
 Github: markstory
 Web: http://mark-story.com',
   'talks' => array (

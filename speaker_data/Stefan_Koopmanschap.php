@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Amsterdam',
   'country' => 'Netherlands',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/fc7ad3f79206bf093c1fb3e3a7aa8b5b?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => 'http://www.gravatar.com/avatar/a8f72e32766355f12a56ede9aaa0ee78?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Stefan Koopmanschap is a PHP fanatic. He runs his company Ingewikkeld, does development, consulting and training. Stefan is a community person and has been active with several usergroups in The Netherlands since the 90s, currently involved in the event team of the PFZ.nl usergroup.',
   'talks' => array (
     array (

@@ -4,10 +4,9 @@ $speakers[] = array (
   'name' => 'Sara Golemon',
   'city' => 'San Jose, CA',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'SaraMG',
   'image' => 'http://www.gravatar.com/avatar/a132babf5c3ca52a2570cb120986cabf?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Sara is a long-time contributor to PHP, originator of several PECL extensions, creator of libssh2, and author of "Extending and Embedding PHP". Currently, she is the OSS coordinator and a contributor to the HipHop for PHP project.
-http://twitter.com/SaraMG
 http://facebook.com/SaraMG',
   'talks' => array (
     array (

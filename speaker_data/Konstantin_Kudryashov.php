@@ -4,10 +4,9 @@ $speakers[] = array (
   'name' => 'Konstantin Kudryashov',
   'city' => 'London',
   'country' => 'UK',
-  'twitter' => '',
+  'twitter' => 'everzet',
   'image' => 'http://www.gravatar.com/avatar/f742011db78e0c681ed4bc885bfee982?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'BDD practice manager in Inviqa Group, UK. Proud father of Behat, Mink, Prophecy, PhpSpec 2.
-@everzet
 http://everzet.com
 http://github.com/everzet',
   'talks' => array (

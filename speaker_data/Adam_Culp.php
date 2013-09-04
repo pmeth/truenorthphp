@@ -4,9 +4,9 @@ $speakers[] = array (
   'name' => 'Adam Culp',
   'city' => 'FL',
   'country' => 'USA',
-  'twitter' => '',
+  'twitter' => 'adamculp',
   'image' => 'http://www.gravatar.com/avatar/983cfd6fcfd42fc2417dbf131201bc3e?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => 'Adam Culp (@adamculp), organizer of the SunshinePHP Developer Conference and South Florida PHP Users Group (SoFloPHP) where he speaks regularly, is a Zend Certified PHP 5.3 Engineer.  Adam is passionate about developing with PHP and enjoys helping others write good code, implement standards, refactor efficiently, and incorporate unit and functional tests into their projects.  When he is not coding or contributing to various developer communities, and he can be found hiking around the United States National Parks, teaching judo, or participating in long distance running.',
+  'bio' => 'Adam Culp, organizer of the SunshinePHP Developer Conference and South Florida PHP Users Group (SoFloPHP) where he speaks regularly, is a Zend Certified PHP 5.3 Engineer.  Adam is passionate about developing with PHP and enjoys helping others write good code, implement standards, refactor efficiently, and incorporate unit and functional tests into their projects.  When he is not coding or contributing to various developer communities, and he can be found hiking around the United States National Parks, teaching judo, or participating in long distance running.',
   'talks' => array (
     array (
       'title' => 'Essential Git for Developers',
