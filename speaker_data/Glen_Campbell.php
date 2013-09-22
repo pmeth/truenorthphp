@@ -1,5 +1,5 @@
 <?php
-
+/*
 $speakers[] = array (
   'name' => 'Glen Campbell',
   'city' => 'San Antonio, TX',
@@ -14,3 +14,4 @@ $speakers[] = array (
     ),
   ),
 );
+ */

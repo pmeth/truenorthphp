@@ -1,5 +1,5 @@
 <?php
-
+/*
 $speakers[] = array (
   'name' => 'Konstantin Kudryashov',
   'city' => 'London',
@@ -20,3 +20,4 @@ http://github.com/everzet',
     ),
   ),
 );
+ */
