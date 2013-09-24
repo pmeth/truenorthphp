@@ -95,6 +95,12 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Community Level</h3>
                </div>
+               <div class="span2">
+                  <a href="http://meetup.gtaphp.org"><img alt="GTA PHP User Group" style="border:1px solid black" src="http://photos3.meetupstatic.com/photos/event/8/d/0/4/highres_14496100.jpeg" width="120" height="120"></a>
+               </div>
+               <div class="span3">
+									<a href="http://www.atlantaphp.org"><img alt="Atlanta PHP" src="/img/atlantaphp_logo.png" width="210" height="73"></a>
+               </div>
             </div>
          </div>
       </div>

@@ -1,8 +1,8 @@
 <?php
-ini_set('date.timezone','America/Toronto');
+ini_set('date.timezone', 'America/Toronto');
 $css = array('bootstrap/css/bootstrap.css', 'css/truenorth.css');
 if (isset($extra_css)) {
-	$css = array_merge($css, $extra_css);
+  $css = array_merge($css, $extra_css);
 }
 //Check for Mobile Browser
 
@@ -17,15 +17,18 @@ if (isset($extra_css)) {
 //    exit;
 //  }
 //}
+
+header('Content-Type: text/html; charset=UTF-8');
 ?>
 <!DOCTYPE html>
 <html>
-	 <head>
-			<title>True North PHP Conference - November 7-9, 2013 - Toronto, Canada</title>
-			<?php foreach ($css as $name) { ?>
-			<link rel="stylesheet" href="<?php echo $name ?>">
-			<?php } ?>
-			<link href='http://fonts.googleapis.com/css?family=Buenard|Muli' rel='stylesheet' type='text/css'>
-	 </head>
-	 <body>
+   <head>
+      <meta charset="UTF-8">
+      <title>True North PHP Conference - November 7-9, 2013 - Toronto, Canada</title>
+      <?php foreach ($css as $name): ?>
+      <link rel="stylesheet" href="<?php echo $name ?>">
+      <?php endforeach; ?>
+      <link href='http://fonts.googleapis.com/css?family=Buenard|Muli' rel='stylesheet' type='text/css'>
+   </head>
+   <body>
 <?php include 'navigation.php'; ?>
