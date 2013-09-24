@@ -10,7 +10,11 @@ class WebTest extends PHPUnit_Framework_TestCase
 
     function setUp()
     {
-        $this->kernel = new CgiHttpKernel(realpath(__DIR__.'/../public'));
+        $this->kernel = new CgiHttpKernel(
+            realpath(__DIR__.'/../public'),
+            null,
+            getenv('CGI_HTTP_KERNEL_BIN')
+        );
         $this->client = new Client($this->kernel);
     }
 
