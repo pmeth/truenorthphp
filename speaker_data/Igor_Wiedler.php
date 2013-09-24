@@ -2,18 +2,16 @@
 
 $speakers[] = array (
   'name' => 'Igor Wiedler',
-  'city' => 'Zurich',
+  'city' => 'Winterthur',
   'country' => 'Switzerland',
-  'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/5c3574f2bc642a635d09b000c8b3daf0?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'twitter' => 'igorwesome',
+  'image' => 'http://www.gravatar.com/avatar/eb42ff31986f5ed1d97580819134d702?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Independent Researcher.',
   'talks' => array (
     array (
       'title' => 'The HttpKernelInterface is a lie',
       'text' => 'This talk will explore the evolution of HTTP abstractions. We will take a look at inetd at the TCP level, CGI and FCGI at the HTTP level, language level abstractions like Rack for Ruby and WSGI for Python. Finally we will arrive at the Symfony2 HttpKernelInterface. The PHP community can take many ideas from Rack. We should be building composable stacks of re-usable middlewares.
-Learn about unix philosophy, understand where PHP\'s CGI-like I/O mechanism ($_SERVER, header, echo) comes from, how it can be improved, and how the HTTP boundary allows for truly framework-agnostic code sharing!
-Note to organizers:
-I gave this talk at symfony live portland: https://joind.in/8666',
+Learn about unix philosophy, understand where PHP\'s CGI-like I/O mechanism ($_SERVER, header, echo) comes from, how it can be improved, and how the HTTP boundary allows for truly framework-agnostic code sharing!',
     ),
     array (
       'title' => 'Silex: An implementation detail',
