@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit backupGlobals="false"
+         colors="true"
+         bootstrap="vendor/autoload.php"
+>
+    <php>
+        <env name="CGI_HTTP_KERNEL_BIN" value="php-cgi"/>
+    </php>
+
+    <testsuites>
+        <testsuite>
+            <directory>./tests/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
