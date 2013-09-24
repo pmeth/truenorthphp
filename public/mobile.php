@@ -1,4 +1,5 @@
 <?php
+die('This page has been disabled');
   //Mobile Redirect Message screen
 
 //set cookie so they aren't bugged again for 2 hours
