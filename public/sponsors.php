@@ -64,6 +64,17 @@ $page = 'sponsors';
                   <h3>Bronze Level</h3>
                </div>
             </div>
+<!-- template
+            <div class="row" style="margin-bottom: 20px">
+                <div class="thumbnail span3">
+                    <a href="http://example.com/"><img alt="Example" src="img/example_logo.png" style="margin: 10px 0;" width="220" height="78"></a>
+                </div>
+                <div class="span8">
+                    Lorem ipsum met a pieman going to the fair.
+                </div>
+            </div>
+-->
+
             <div class="row" style="margin-bottom: 20px">
                <div class="thumbnail span3">
                   <a href="http://servergrove.com/"><img alt="Servergrove" src="http://servergrove.com/images/logos/sg230x35_p.png" style="margin: 10px 0;" width="220" height="33"></a>
@@ -80,12 +91,20 @@ $page = 'sponsors';
                     In February it's cold in most areas of the world, but it's always warm and sunny in Florida.  Take a break from the freezing snow and enjoy a bit of warm sunshine, while talking about PHP in Miami, Florida this coming February 2014.  This year we will feature a full day of tutorials and 2 additional days of awesome talk topics, and to top it off one of the three tracks will be dedicated to PHP frameworks.  That's 10 talks specific to frameworks and 20 talks on other areas relevant to PHP.  So please come join us at <a href="http://sunshinephp.com/">http://sunshinephp.com</a>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" style="margin-bottom: 20px">
                 <div class="thumbnail span3">
                     <a href="http://gurulink.ca/"><img alt="GuruLink" src="http://gurulink.ca/_include/images/logo.png" style="margin: 10px 0;" width="148" height="80"></a>
                 </div>
                 <div class="span8">
                     <a href="http://www.gurulink.ca">GuruLink Inc.</a> is a recruitment services and software company with offices in Toronto and Montreal that specializes in Information Technology.  GuruLink connects great talent with great opportunities.
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 20px">
+                <div class="thumbnail span3">
+                    <a href="http://www.constantcontact.com/"><img alt="Constant Contact" src="img/constant_contact_logo_176x176.jpg" style="margin: 10px 0;" width="176" height="176"></a>
+                </div>
+                <div class="span8">
+                    Constant Contact is revolutionizing the success formula for small organizations through affordable, easy-to-use <em>Engagement Marketing<em>&tm; tools that help create and grow customer relationships. More than 500,000 small businesses, nonprofits, and associations worldwide rely on Constant Contact to drive ongoing customer dialogs through email marketing, social media marketing, event marketing, and online surveys. All Constant Contact products come with unrivaled KnowHow, education, and free coaching with a personal touch, including award-winning customer support.  You can check out their new API at <a href="http://developer.constantcontact.com">http://developer.constantcontact.com</a>.
                 </div>
             </div>
             <div class="row">
@@ -99,7 +118,7 @@ $page = 'sponsors';
                   <a href="http://meetup.gtaphp.org"><img alt="GTA PHP User Group" style="border:1px solid black" src="http://photos3.meetupstatic.com/photos/event/8/d/0/4/highres_14496100.jpeg" width="120" height="120"></a>
                </div>
                <div class="span3">
-									<a href="http://www.atlantaphp.org"><img alt="Atlanta PHP" src="/img/atlantaphp_logo.png" width="210" height="73"></a>
+                  <a href="http://www.atlantaphp.org"><img alt="Atlanta PHP" src="/img/atlantaphp_logo.png" width="210" height="73"></a>
                </div>
             </div>
          </div>
