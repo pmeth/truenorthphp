@@ -271,7 +271,7 @@ use it for a chatroom, and how Redis manages a billion data points for
 our dating matching system. Finally, we’ll discuss some of the upcoming 
 features in the near future, such as clustering and scripting.
 "
-Glenn Campbell,The cloud from 40k feet,"I didn't understand ""the cloud"" for several years until I started to have to use it. Many of my misconceptions, I'm sure, are common to other new users of the Cloud and cloud services. This talk is a high-level overview of the various types of services available in ""the Cloud,"" targeted specifically at PHP developers. "
+Glen Campbell,The cloud from 40k feet,"I didn't understand ""the cloud"" for several years until I started to have to use it. Many of my misconceptions, I'm sure, are common to other new users of the Cloud and cloud services. This talk is a high-level overview of the various types of services available in ""the Cloud,"" targeted specifically at PHP developers. "
 Michelangelo van Dam,"PHP Azure, a bright new day!","Windows Azure provides many services that are very appealing for PHP 
 developers, especially if you need to get started quickly.
 
