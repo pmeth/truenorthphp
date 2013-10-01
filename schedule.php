@@ -267,12 +267,6 @@
 				</div>
 				<div class="talk_speaker">Matt Frost</div>
 			</td>
-			<td class="info" rowspan="3">
-				<div class="talk_title">
-					Unconference
-				</div>
-				<div class="talk_speaker"></div>
-			</td>
 		</tr>
 		<tr class="schedule_slot"><th>14:00</th>
 			<td class="success">
@@ -286,6 +280,12 @@
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Unit Testing Javascript with QUnit">Unit Testing Javascript with QUnit</a>
 				</div>
 				<div class="talk_speaker">Matthew Turland</div>
+			</td>
+			<td class="info" rowspan="2">
+				<div class="talk_title">
+					Unconference
+				</div>
+				<div class="talk_speaker"></div>
 			</td>
 		</tr>
 		<tr class="schedule_slot"><th>15:00</th>
