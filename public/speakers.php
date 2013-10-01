@@ -5,7 +5,7 @@ $speakers = array();
 $filenames = array();
 $iterator = new DirectoryIterator('../speaker_data');
 foreach ($iterator as $fileinfo) {
-   if ($fileinfo->isFile()) {
+   if ($fileinfo->isFile() && $fileinfo->getExtension() == 'php') {
       $filenames[] = $fileinfo->getFilename();
    }
 }
