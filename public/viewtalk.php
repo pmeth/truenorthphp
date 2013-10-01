@@ -1,28 +1,26 @@
 <?php
 
+
+// Now load in our talks
+$fp = fopen('../speaker_data/talks.csv', 'r');
+$talks = array();
+
+while (($data = fgetcsv($fp, 10000, ",")) !== false) {
+    $speaker[$data[1]] = $data[0];
+    $talks[$data[1]] = array(
+        'title' => $data[1],
+        'speaker' => str_replace(' ', '_', $data[0]),
+        'description' => $data[2]
+    );
+}
+
+$talk = $talks[$_GET['name']];
+
+// Find the speaker we want
 $speakers = array();
-
-$filenames = array();
-$iterator = new DirectoryIterator('../speaker_data');
-foreach ($iterator as $fileinfo) {
-   if ($fileinfo->isFile()) {
-      $filenames[] = $fileinfo->getFilename();
-   }
-}
-sort($filenames);
-
-foreach ($filenames as $filename) {
-  include '../speaker_data/' . $filename;
-}
-
-// I am aware this is sort of ridiculous, but I want to reuse the speaker data that is being forked on github.  If I planned it a bit better, I would have organized the talks separate from the speakers
-foreach ($speakers as $index => $speaker) {
-   foreach ($speaker['talks'] as $talk) {
-      if ($_GET['name'] == strtolower(preg_replace('/[^A-Za-z]/','_',$talk['title']))) {
-         break 2; // we should now have valid $speaker and $talk variables
-      }
-   }
-}
+include "../speaker_data/{$talk['speaker']}.php";
+$speaker = $speakers[0];
+    
 ?><!DOCTYPE html>
 <html>
    <head>
@@ -63,7 +61,7 @@ foreach ($speakers as $index => $speaker) {
                   </p>
                   <h3><?php echo $talk['title']; ?></h3>
                   <p>
-                     <?php echo preg_replace('|<br ?/?>|','</p><p>',nl2br($talk['text'])); ?>
+                     <?php echo preg_replace('|<br ?/?>|','</p><p>',nl2br($talk['description'])); ?>
                   <p>
                </div>
             </div>
