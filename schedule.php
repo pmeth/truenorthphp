@@ -261,6 +261,12 @@
 				</div>
 				<div class="talk_speaker">Justin Carmony</div>
 			</td>
+			<td class="success">
+				<div class="talk_title">
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Mocking Dependencies in PHPUnit">Mocking Dependencies in PHPUnit</a>
+				</div>
+				<div class="talk_speaker">Matt Frost</div>
+			</td>
 			<td class="info" rowspan="3">
 				<div class="talk_title">
 					Unconference
