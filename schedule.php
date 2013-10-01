@@ -11,7 +11,7 @@
 		<tr class="schedule_slot">
             <th>09:00 to 12:30</th>
             <td>Foundations of PHP</td>
-            <td>Continuous Integration in PHP</td>
+            <td>Bringing Order to the Chaos of your Server Management with Salt</td>
 		</tr>
 		<tr class="schedule_slot"><th>12:30-13:30</th>
             <td class="success" colspan=2>
@@ -21,7 +21,7 @@
 		<tr class="schedule_slot">
             <th>13:30 to 17:00</th>
             <td>Build your first Symfony2 Application</td>
-            <td>Bringing Order to the Chaos of your Server Management with Salt</td>
+            <td>Continuous Integration in PHP</td>
 		</tr>
 	</tbody>
 </table>
