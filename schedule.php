@@ -40,7 +40,9 @@
 		<tr class="schedule_slot">
 			<th>09:00</th>
 			<td class="error" colspan="3">
-                <div class="talk_title keynote">Distributed Teams, Distributed Tools, Distributed Apps</div>
+                <div class="talk_title keynote">
+                <a class="fancybox fancybox.iframe" href="viewtalk.php?name=Distributed Teams, Distributed Tools, Distributed Apps">Distributed Teams, Distributed Tools, Distributed Apps</a>
+            	</div>
                 <div class="talk_speaker">Sean Coates</div>
             </div>
 			</td>
