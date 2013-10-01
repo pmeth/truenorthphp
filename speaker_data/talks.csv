@@ -1,0 +1,345 @@
+Paul Reinheimer,"Bootstrapping my startup, 3 years in","I launched WonderProxy in 2009 on my American Express. Since then we've grown to having hundreds of active _paying_ users, operating in 50+ countries, all without ever having a full time paid employee. The world of startup buzz seems to reward companies that take huge investments, pull in thousands of users who never pay a dime, then fold a few years later. We're not that kind of business, and we don't want to be. This mostly non-technical talk will tell the story of the business, the major challenges we've faced, and a fair amount of advice for the non-vc-seeking startup crowd. "
+Derek Martin,Intro to Laravel,"Talk, heavy on code-samples, covering 2 major areas: 1) how Laravel works out of the box (feels full-stack like Cake/Rails) - how to get a basic site up and running - built-in support for multiple environment configurations - creating routes - resource controllers & restful controllers - eloquent ORM - making use of db migrations & seeding - how Laravel tries to encourage testing 2) how to make Laravel do your work (it's component based, using composer) - subbing in your own components for Laravel's (example: authenticating against an api instead of direct to the database) "
+Chris Boden,Introduction to AngularJS,"This talk will introduce you to the client side framework from Google: AngularJS. Yup, JavaScript. But wait! We'll learn how to run this on top of a PHP server as the API. AngularJS is a different framework with a wealth of features allowing you to make dynamic websites with that old technology HTML; with two unique features differentiating it from other JS frameworks with two way data-binding and dependency injection. By the end of this talk you'll have an idea what AngularJS is about and inspire you to learn moar! "
+Xavier Brand,Moving to a Service Oriented Architecture from tightly coupled applications,"Lessons from a year of rearchitecting tightly coupled 4-year-old applications to a SOA while keeping developers happy (for the most part). For a year, ExperiencePoint’s development team has been rebuilding its aging applications to a modern and highly available architecture. We have been able to spend more time on developing our new products while reducing our technological debt by building on top of standard technologies, separating concerns and automating our working environment. This talk will show the benefits of splitting omniscient applications to smaller independent modules and explain why your web applications should use HTTP RESTful API to communicate with each other. We’ll also explore a few strategies to deal with aging PHP applications or deprecated technologies. Trendy keywords: SOA, OAuth2, Symfony2, HTTP RESTful API, HATEOAS (yeah baby) "
+Mark Story,Nuts and bolts of profiling and optimization,"An overview and introduction to a variety of tools, guidelines and 
+techniques for profiling PHP/Javascript applications. I'll be discussing
+ some strategies for profiling, and improving performance. I'll be 
+taking a full stack approach in this talk starting with the browser and 
+Javascript runtime issues. Following that, we'll look at some simple but
+ rewarding HTTP optimizations around caching and reducing requests. 
+Lastly, we'll look at profiling PHP, what to look for and how to fix 
+things. Some tools I'll be discussing are: Chrome dev tools, siege, 
+XHprof and Xdebug. The talk will be given in the framework of some 
+simple rules/guidelines that will hopefully help people make decisions 
+in the future.
+"
+Adam Harvey,"PHP in 2013: generators, and password hashing, and finally (oh my!)","The release date may have slipped a bit, but 2012 saw the introduction of PHP 5.4. This added new features, but perhaps more importantly, removed a number of legacy “features” that had long since proved to be more problematic than useful. 2013 brings PHP 5.5 to the table, and where 5.4 looked backward to make PHP a more consistent language, 2013 sees PHP looking forward. In keeping with the trend over the last couple of years towards more frequent, smaller releases, this release is evolutionary rather than revolutionary, but a number of oft-requested language features such as generators and finally have been added, and a new password hashing API has been added which promises to finally sweep away the need for simplified wrapper libraries around crypt() and the hash functions. In this talk, I’ll discuss how 5.4 has matured, what 5.5 will bring, and how the formal release process adopted between 5.3 and 5.4 affects developers and sysadmins maintaining PHP installs and the best ways to keep an up-to-date, secure PHP install."
+Adrian Schneider,Practical Software Design,"This talk is the result of the last 100 applications I've built, and how
+ a ton of experimentation, many failures, and some success has made me 
+really appreciate good software design. Having worked from all angles 
+(stakeholder, team lead, PM, consultant, solo), I've come to realize how
+ much of an affect design has on the outcome of a project. We'll explore
+ the following topics...
+
+# Overview of Topics
+
+## Software Architecture
+
+- Thought leaders
+- My progressions / milestones over past 10 years / porting ideas to PHP
+- Framework as an implementation detail
+- As a lead/architect, how can I maximize my impact
+- As a stakeholder: how can I minimize my costs
+- As a developer: how can I build simpler applications
+
+## Domain Modeling
+
+- How to properly model what you're building
+- Domain driven design / Aggregates / Bounded Contexts
+- Business language vs. framework lingo (what is a Bundle?)
+
+## Types of Work
+
+- Agency work: fast-paced, abstract out ""modules"", framework-oriented 
+for efficiency
+- Maintenance: appreciate how much waste we create
+- Product development: Lasts a long time, potentially volatile at first
+- R&D / Conceptual: good for experimentation before building 
+critical systems
+- Balance in all areas is crucial
+
+## Quality & Testing
+
+- Testing, is it worth it? (types, granularity, investment/reward)
+- How it affects your architectural decisions (TDD)
+
+## Tools
+
+- Progression in technology
+- How dev/QA tools affect architecture
+- Build your own tools
+"
+Majid Fatemian,SQL or NoSQL that's the question,"With the emerge of new NoSQL databases, it's very important to 
+understand their abilities and the use-cases for a scalable web 
+application. Understanding what they provide and what sort of problems 
+they can solve is vital to successful usage of NoSQL databases in the 
+web architectures and infra structures.
+
+The key is that Relational Databases are not dead and they won't be. 
+They have specific abilities which would facilitate implementing a lot 
+of ideas in the data modelling. 
+
+By experience, we realized that using a Hybrid system is the best 
+solution. While you benefit from bests of the both worlds, you can 
+improve the quality of  product and availability of service to the 
+customers. 
+
+In this presentation, an example from game-industry would be provided. A
+ UbiSoft, Montreal game which was fully based on Relational databases, 
+has been restructured to a Hybrid system to benefit from both Relational
+ database and a NoSQL  database. 
+The major design decisions, and the benefits of each would be discussed 
+in details to give audience a perspective of what could be achieved 
+within a Hybrid system.
+
+The process of migrating the previous architecture to the new one in a 
+live system, without having any downtime would be explained as well, to 
+show how approachable and easy is this new Hybrid design.
+
+The new architecture has been beneficial for the community of players 
+and also for the development team, which they will be explained.
+
+The Hybrid system has been on Production since October.2012 with no 
+downtime since.
+"
+Juti Noppornpitak,Understanding Doctrine,"This talk briefly introduces the object-oriented mapping (ORM), how 
+Doctrine ORM is designed. Then, this talk will move on to discuss about 
+common misunderstanding about Doctrine, why we should care about 
+Doctrine, how to use it properly and when to use its ORM part or DBAL 
+(Database Abstract Layer).
+"
+Jen Kramer,Comparing Bootstrap and Foundation,"Twitter Bootstrap and Zurb Foundation are the most popular responsive 
+design frameworks today. As with most technology, although they look 
+very similar on the surface, they're designed with different 
+applications and target audiences in mind. Get a quick overview of 
+Bootstrap and Foundation, learn how to customize these for your 
+applications, and figure out which is right for your next project.
+"
+Sara Golemon,Didn't I just upgrade to 5.3?,"PHP's release schedule is picking up speed and 5.5 has already been out 
+for a few months.  According to the stats  though, your site's still 
+running 5.3.  This session will delve into all the new goodies along 
+with some examples of how PHP 5.5 can make your codebase more 
+maintainable, while executing faster.  Fast, Clean, Cheap: Pick all 
+three!
+
+Bonus material: Since PHP 5.6 development is already well underway, 
+we'll take a sneak peak at what's still to come.
+"
+Sara Golemon,Scaling PHP with HipHop,"HipHop is the Open Source PHP language compiler and runtime designed and
+ used by Facebook. HipHop offers a significant speed improvement over 
+the official PHP runtime and supports most of its core features. This 
+session will provide an introduction to how and why to use HipHop over 
+PHP, and the benefits it offers.
+"
+John Mertic,Four web technologies you should be looking at now!,"The pace of innovation is unparalleled over the past few years, with so many interesting trends emerging and technologies around with it. HTML5, REST, and a renewed focus on Javascript have laid the groundwork for solving some of the most important problems people looking to build scalable and easily integrate-able web apps. In this talk, we'll look at four technologies we are seeing as key to driving a whole new class of web applications; OpenGraph, Shadow DOM, Web Sockets, and Webhooks. "
+John Mertic,"Hack your team, your department, and your organization for the greater good","Many of us complain about how ""pointy hair bosses"", ridiculous IT 
+policies, and a culture of complacency make it difficult if not 
+impossible to function successfully as a developer. But how can the 
+person on the low end of the organizational hierarchy make a difference 
+for the better ( without being fired ) ?
+
+In this talk, I'll give you some ideas of what I've done in the past to 
+help be a positive agent of change in organizations I've been a part of,
+ and what lessons I've learned from it. We'll look at implementing 
+development tools incognito, engaging with higher-ups, and dealing with 
+the failures that go along the way.
+"
+Matt Frost,Mocking Dependencies in PHPUnit,"Writing good unit tests is nearly impossible with out being able to mock
+ your dependencies. This talk will cover how, when and why to mock and 
+touch on writing code that is 'mockable'. Learning to mock will add 
+value to your tests as well as your application.
+"
+Ed Finkler,Open Sourcing Mental Illness,"In the spirit of open source, I'd like to shine a spotlight on mental 
+illness. Not because it's easy, but because it's important. Mental 
+illness affects many of us, but the stigma attached to it dissuades most
+ people from talking about it openly. That's not how we make progress. 
+With this talk, I want to do my part.
+
+I was diagnosed with depression and anxiety when I was thirteen, and 
+I've been struggling with it my whole life. In this talk, I'll discuss 
+how it has impacted my work as a developer, husband, and father.
+
+By speaking openly about my own challenges and successes, I hope those 
+struggling with mental illness will learn how to be happier and more 
+productive, and others can better understand how to be helpful and 
+supportive.
+"
+Larry Garfield,"Open source, PHP, and PIE","Sharing is how Open Source works.
+
+Sucking at sharing is how Open Source dies.
+
+PHP has long sucked at sharing. Cross-project collaboration was almost 
+unheard of. Good reusable libraries were uncommon and hard to find. 
+Leveraging 3rd party code was a hassle. Strong communities were isolated
+ on their own islands.
+
+That has changed, however. Years of work have brought a new promised 
+land to PHP, and enabled cross-project cooperation like never before. 
+It's a new world, and one with new cultural expectations.
+
+This session will explore how the PHP industry has transitioned from a 
+series of gated communities to an integrated, collaborative environment 
+and how the cultural expectations around developing for PHP have 
+shifted, and what that means for your project.
+"
+Larry Garfield,Functional PHP,"Functional programming. Some see that term and think ""functions? You 
+mean procedural programming. I've been doing that for years."" Others see
+ it and think ""you mean that crazy academic nonsense that no one 
+understands? Pfft!""
+
+In truth, functional programming is fundamentally an approach to 
+software development, not a particular language or syntax. With PHP 5.3,
+ it is an approach that is now more readily available and powerful than 
+ever before. Even if you're not writing in Erlang or ML, there is still 
+much to learn from the principles of functional programming to help 
+write better code.
+
+This session will discuss the history of functional programming and how 
+it compares to other programming paradigms (procedural and 
+object-oriented). We will then discuss by example how functional 
+concepts and techniques, plus new language capabilities in PHP 5.3 such 
+as anonymous functions can make our code more robust, maintainable, and 
+bug-free. Even without a truly functional language, there is much we can
+ learn from functional programming as a technique.
+"
+Keith Casey,Shattering Secrets with Social Media,"Wouldn't you like to know about the things that *aren't* being talked 
+about? Professionally, how can you look at a ""stealth startup"" and 
+figure out what they're doing and how they're doing it? How can you 
+learn about their investors, products, and even potential customers? Who
+ are the Connectors?
+For years now, we've had sites like LinkedIn, Delicious, Facebook, and 
+Twitter making a stunning amount of private information available for 
+all to find, browse, explore, and combine. Previously getting at this 
+data often required screenscraping, esoteric agreements, and sacrificing
+ a goat. In the last year or two, things have changed. Thanks to the 
+explosion of APIs and good API design, we can collect and analyze this 
+information faster, easier, and better than ever before. This 
+conversation will cover some tips in collecting the data along with some
+ of the patterns discovered and suspected.
+"
+Matt Turland,Database testing for Fun and Profit,"You've built unit tests for your project complete with mock objects for 
+dependencies like database connections. You know that your code is 
+running the right database queries... or do you? Updating your unit 
+tests in tandem with your database schema really isn't enough. To be 
+certain that the queries executed by your code really work, you need to 
+run them against a real database. Enter database testing. This 
+presentation will introduce you to the Database extension for PHPUnit, 
+the de facto unit testing framework for PHP applications. You'll learn 
+about everything from generating various types of test data sets to 
+writing tests that prove your code does what you think it does to the 
+database.
+"
+Matt Turland,Unit Testing Javascript with QUnit,"The importance of quality assurance and best practices is only 
+increasing in web applications, especially on the evermore prominent 
+client side. As the complexity of client code grows, so too does the 
+important of ensuring that it is thoroughly tested across major 
+browsers. This presentation will cover the QUnit JavaScript unit testing
+ framework developed by lead jQuery developer John Resig and the 
+complementary Sinon mocking framework. It will include best practices 
+for implementing testable code, supplementing native QUnit functions 
+with a data provider implementation inspired by PHPUnit, and related 
+pitfalls such as testing asynchronous and time-dependent code and 
+mocking native browser and jQuery functionality.
+"
+Adam Culp,Essential Git for Developers,"You have been wanting to use the ""new shiny"", but there are too many 
+""Git how-tos"" out there and you don't know where to start. This is not 
+another one of those. Instead Adam Culp will give a practical walk 
+through the development cycle and how to use Git as the source control. 
+From initialization of a repository, adding, staging, cloning, and 
+checkout, we will walk through a sample project and how most developers 
+actually use Git to manage the workflow. Adam will also touch on how to 
+use Git repository hosting providers, and how to use them with PAAS 
+(Platform as a service) providers.
+"
+Beth Tucker Long,Continuous Integration in Real Life,"Continuous integration is a big picture idea for big projects, but what if your projects and pictures aren't big? Is continuous integration worthwhile for every day projects? Learn more about what continuous integration actually is, what tools are available to help you implement it, and how you can make it work for you, even in the small stuff. "
+Chris Cornutt,Auth*: Dispelling the Myths,"There's a lot of bad practices and myths floating around about 
+authentication and authorization these days. Using passwords just isn't 
+good enough anymore. Come with me as I explore and dispel some of these 
+common misconceptions and myths about these two important and often 
+misunderstood topics. I'll talk about some of the most common techniques
+ and look forward to tools and options that can help make your 
+applications even more secure."
+Chris Cornutt,Securing your REST API,"
+With APIs becoming the de-facto standard for getting things done on the 
+web, it's more important than ever to provide the right kind of security
+ for your application. The options can be overwhelming with things like 
+OAuth, signed queries, shared certificates and token authentication just
+ to name a few. I'll go through these and some of the questions you'll 
+need to ask as you think about protecting your API and the data that 
+lies within.
+
+"
+Justin Carmony,Blazing data with Redis,"There are many fast data stores, and then there is Redis. Learn about 
+this excellent NoSQL solution that is a powerful in-memory key-value 
+store. Learn how to solve traditionally difficult problems with Redis, 
+and how you can benefit from 100,000 reads/writes a second on commodity 
+hardware. We’ll discuss how and when to use the different datatypes and 
+commands to fit your needs. We’ll discuss the different PHP libraries 
+with their pros and cons. We’ll then show some live examples on how to 
+use it for a chatroom, and how Redis manages a billion data points for 
+our dating matching system. Finally, we’ll discuss some of the upcoming 
+features in the near future, such as clustering and scripting.
+"
+Glenn Campbell,The cloud from 40k feet,"I didn't understand ""the cloud"" for several years until I started to have to use it. Many of my misconceptions, I'm sure, are common to other new users of the Cloud and cloud services. This talk is a high-level overview of the various types of services available in ""the Cloud,"" targeted specifically at PHP developers. "
+Michelangelo van Dam,"PHP Azure, a bright new day!","Windows Azure provides many services that are very appealing for PHP 
+developers, especially if you need to get started quickly.
+
+In this talk I give my motivation to try out Windows Azure cloud 
+solutions, and discuss the main features like web sites, virtual 
+machines and cloud services. Combining these features with blob storage,
+ table storage, queues, WinCache, CDN and SSL you can build robust, 
+scalable and very performant web applications and deploy them in just a 
+few minutes.
+"
+Michelangelo van Dam,Community Works for business too,"Being part of the community is not just great to support the open-source
+ movement, but it also is great for business. 
+
+
+Why is it that big companies invest in open-source projects and how can 
+your business benefit from participation? 
+
+
+In this talk I explain the reasons why companies like to be associated 
+with the PHP community and how your business can benefit from it. Even 
+if you're working for a company, this talk will give enough arguments to
+ talk to your bosses and convince them to contribute to open-source.
+"
+Stefan Koopmanschap,How Silex and Cilex became the glue for a media transcoding application,"Symfony2 is awesome, but can be overkill for some applications. During 
+this talk, you will hear about a use case for using the Silex 
+microframework for web and the Cilex microframework for CLI, and how 
+these frameworks combined became the glue to the components of the media
+ transcoding application that powers the majority of on-demand adaptive 
+streaming for the Dutch public broadcasting organization NPO.
+"
+Konstantin Kudryashov,Design how your objects talk to each other through mocking,"What should you test with your unit tests? Some people will say that 
+unit behaviour is best tested through it's outcomes. But what if 
+communication between units itself is more important than the results of
+ it? This session will introduce you to two different ways of 
+unit-testing and show you a way to assert your object behaviours through
+ their communications.
+"
+Konstantin Kudryashov,Enabling Agile through enabling BDD in PHP projects,"Agile is a big thing nowadays. Almost every project wants to be agile, 
+but not all of them succeed. This talk will attempt to discover reasons 
+behind such failures. And more importantly, will show a solution to a 
+successful Agile adaptation through the integration of BDD methodology 
+and tools to development processes.
+"
+Igor Wiedler,The HttpKernelInterface is a lie,"This talk will explore the evolution of HTTP abstractions. We will take a
+ look at inetd at the TCP level, CGI and FCGI at the HTTP level, 
+language level abstractions like Rack for Ruby and WSGI for Python. 
+Finally we will arrive at the Symfony2 HttpKernelInterface. The PHP 
+community can take many ideas from Rack. We should be building 
+composable stacks of re-usable middlewares.
+
+Learn about unix philosophy, understand where PHP's CGI-like I/O 
+mechanism ($_SERVER, header, echo) comes from, how it can be improved, 
+and how the HTTP boundary allows for truly framework-agnostic code 
+sharing!
+"
+Igor Wiedler,Silex: An implementation detail,"Your framework is holding you hostage, and you are suffering from 
+Stockholm syndrome. Are you a PHP developer, a Symfony developer or a 
+Drupal developer? You should be a web developer. Frameworks are just 
+details, your business does not care about them.
+
+Silex is a library with a narrow and well defined scope, that allows you
+ to adapt it to work on top of your existing application and business 
+logic, not within it. Most ""full stack"" frameworks make a lot of 
+decisions for you, and changing them is usually quite hard. You should 
+be telling your framework what to do, not the other way round.
+
+I will show you some approaches to designing your application in a 
+framework-agnostic way, followed by how you can ease the delivery of 
+your application over the web with Silex using some custom event 
+listeners and middlewares.
+"
