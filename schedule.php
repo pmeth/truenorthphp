@@ -209,7 +209,7 @@
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=The cloud from 40k feet">The cloud from 40k feet</a>
 				</div>
-				<div class="talk_speaker">Glenn Campbell</div>
+				<div class="talk_speaker">Glen Campbell</div>
 			</td>
 			<td class="info">
 				<div class="talk_title">
