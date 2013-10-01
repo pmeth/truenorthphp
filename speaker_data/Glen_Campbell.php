@@ -1,6 +1,6 @@
 <?php
 $speakers[] = array (
-  'name' => 'Glenn Campbell',
+  'name' => 'Glen Campbell',
   'city' => 'San Antonio, TX',
   'country' => 'USA',
   'twitter' => 'glenc',
