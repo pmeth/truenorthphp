@@ -16,50 +16,13 @@ simple rules/guidelines that will hopefully help people make decisions
 in the future.
 "
 Adam Harvey,"PHP in 2013: generators, and password hashing, and finally (oh my!)","The release date may have slipped a bit, but 2012 saw the introduction of PHP 5.4. This added new features, but perhaps more importantly, removed a number of legacy “features” that had long since proved to be more problematic than useful. 2013 brings PHP 5.5 to the table, and where 5.4 looked backward to make PHP a more consistent language, 2013 sees PHP looking forward. In keeping with the trend over the last couple of years towards more frequent, smaller releases, this release is evolutionary rather than revolutionary, but a number of oft-requested language features such as generators and finally have been added, and a new password hashing API has been added which promises to finally sweep away the need for simplified wrapper libraries around crypt() and the hash functions. In this talk, I’ll discuss how 5.4 has matured, what 5.5 will bring, and how the formal release process adopted between 5.3 and 5.4 affects developers and sysadmins maintaining PHP installs and the best ways to keep an up-to-date, secure PHP install."
-Adrian Schneider,Practical Software Design,"This talk is the result of the last 100 applications I've built, and how
- a ton of experimentation, many failures, and some success has made me
-really appreciate good software design. Having worked from all angles
-(stakeholder, team lead, PM, consultant, solo), I've come to realize how
- much of an affect design has on the outcome of a project. We'll explore
- the following topics...
+Adrian Schneider,Practical Software Design,"After developing over 100 applications in the past 10 years, I've realized how dependent project success is on good design. Having worked from all angles (stakeholder, team lead, PM, consultant, solo), I've felt the pains and victories that I'd like to reflect and share. I'm going to discuss the following topics:
 
-# Overview of Topics
-
-## Software Architecture
-
-- Thought leaders
-- My progressions / milestones over past 10 years / porting ideas to PHP
-- Framework as an implementation detail
-- As a lead/architect, how can I maximize my impact
-- As a stakeholder: how can I minimize my costs
-- As a developer: how can I build simpler applications
-
-## Domain Modeling
-
-- How to properly model what you're building
-- Domain driven design / Aggregates / Bounded Contexts
-- Business language vs. framework lingo (what is a Bundle?)
-
-## Types of Work
-
-- Agency work: fast-paced, abstract out ""modules"", framework-oriented
-for efficiency
-- Maintenance: appreciate how much waste we create
-- Product development: Lasts a long time, potentially volatile at first
-- R&D / Conceptual: good for experimentation before building
-critical systems
-- Balance in all areas is crucial
-
-## Quality & Testing
-
-- Testing, is it worth it? (types, granularity, investment/reward)
-- How it affects your architectural decisions (TDD)
-
-## Tools
-
-- Progression in technology
-- How dev/QA tools affect architecture
-- Build your own tools
+- Why design matters & How it affects development
+- Design analysis using popular frameworks
+- Solutions for businesses
+- Writing quality software (testing, shelf life, etc.)
+- Evolution of tools
 "
 Majid Fatemian,SQL or NoSQL that's the question,"With the emerge of new NoSQL databases, it's very important to
 understand their abilities and the use-cases for a scalable web
