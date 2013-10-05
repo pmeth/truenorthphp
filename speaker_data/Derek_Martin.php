@@ -22,10 +22,9 @@ http://careers.stackoverflow.com/derek-martin',
    - eloquent ORM
    - making use of db migrations &amp; seeding
    - how Laravel tries to encourage testing
-2) how to make Laravel your bitch (it\'s component based, using composer)
+2) how to make Laravel work for you (it\'s component based, using composer)
 - subbing in your own components for Laravel\'s (example: authenticating against an api instead of direct to the database)
-Happy to provide more detail, or alter the talk based on feedback.
-This would be my first talk at a large conference, but I gave a well received 15 minute "intro to laravel" at a recent "Explode Code" in London, to an audience of approximately 70 people.',
+',
     ),
   ),
 );
