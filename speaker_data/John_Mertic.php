@@ -5,9 +5,8 @@ $speakers[] = array (
   'city' => 'Cleveland, OH',
   'country' => 'USA',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/5b0030e1a0f7d2d461a42cbf02a7c36c?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => 'John Mertic serves as Solutions Architect and Community Manager for SugarCRM, having several years of experience with PHP web applications and open source communities. A frequent conference speaker and an avid writer, he has been published in php|architect, IBM Developerworks, and in the Apple Developer Connection, and is the author of the book \'The Definitive Guide to SugarCRM: Better Business Applications\' and the book \'Building on SugarCRM: Creating Applications the Easy Way\'. He has also contributed to many open source projects, most notably the PHP project where is the creator and maintainer of the PHP Windows Installer. He also sits on the board of the OW2 Consortium, and serves as secretary of the OpenSocial foundation.
-',
+  'image' => 'http://www.truenorthphp.ca/img/john_mertic.jpg',
+  'bio' => 'John Mertic serves as Solutions Architect and Community Manager for SugarCRM, having several years of experience with PHP web applications and open source communities. A frequent conference speaker and an avid writer, he has been published in php|architect, IBM Developerworks, and in the Apple Developer Connection, and is the author of the book \'The Definitive Guide to SugarCRM: Better Business Applications\' and the book \'Building on SugarCRM: Creating Applications the Easy Way\'. He has also contributed to many open source projects, most notably the PHP project where is the creator and maintainer of the PHP Windows Installer. He also sits on the board of the OW2 Consortium, and serves as secretary of the OpenSocial foundation.',
   'talks' => array (
     array (
       'title' => 'Hack your team, your department, and your organization for the greater good',
