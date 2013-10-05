@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Chicago, IL',
   'country' => 'USA',
   'twitter' => 'Crell',
-  'image' => 'http://www.gravatar.com/avatar/621c389c46a307318e21d1b535790a5d?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => 'http://truenorthphp.ca/img/larry_garfield.jpg',
   'bio' => 'Larry Garfield has been building web sites since he was a sophomore in high school, which is longer ago than he\'d like to admit. As a freelancer he worked mostly for Chicago-area politicians before graduating to full time consulting with Palantir.net.
 At Palantir, Larry is a Senior Architect and Consultant, developing solutions for medium to large cultural institutions. He also helps manage Palantir\'s internal development infrastructure.
 Larry is an active Drupal core contributor, including the principle architect of the Drupal 7 database system and the Drupal 8 Web Services Lead. He is also a member of the Advisory Board of the Drupal Association. Larry holds a Master’s degree in Computer Science from DePaul University.

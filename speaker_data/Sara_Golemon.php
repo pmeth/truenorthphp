@@ -5,9 +5,9 @@ $speakers[] = array (
   'city' => 'San Jose, CA',
   'country' => 'USA',
   'twitter' => 'SaraMG',
-  'image' => 'http://www.gravatar.com/avatar/a132babf5c3ca52a2570cb120986cabf?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => 'http://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/p480x480/528223_10151712140803602_772771525_n.jpg',
   'bio' => 'Sara is a long-time contributor to PHP, originator of several PECL extensions, creator of libssh2, and author of "Extending and Embedding PHP". Currently, she is the OSS coordinator and a contributor to the HipHop for PHP project.
-http://facebook.com/SaraMG',
+http://fb.me/smg',
   'talks' => array (
     array (
       'title' => 'Scaling PHP with HipHop',
