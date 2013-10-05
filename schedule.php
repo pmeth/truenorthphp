@@ -110,12 +110,12 @@
 			</td>
 		</tr>
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Silex: An implementation detail"></a>
-		<tr class="schedule_slot"><th>14:00</th>
-			<td class="info">
+        <tr class="schedule_slot"><th>14:00</th>
+			<td class="warning">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Hack your team, your department, and your organization for the greater good">Hack your team, your department, and your organization for the greater good</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Practical Software Design">Practical Software Design</a>
 				</div>
-				<div class="talk_speaker">John Mertic</div>
+				<div class="talk_speaker">Adrian Schneider</div>
 			</td>
 			<td class="error">
 				<div class="talk_title">
@@ -248,12 +248,12 @@
 			<th>12:00</th>
 			<td colspan="3"><div class="talk_title">Lunch</div></td>
 		</tr>
-		<tr class="schedule_slot"><th>13:00</th>
-			<td class="warning">
+        <tr class="schedule_slot"><th>13:00</th>
+			<td class="info">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Practical Software Design">Practical Software Design</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Hack your team, your department, and your organization for the greater good">Hack your team, your department, and your organization for the greater good</a>
 				</div>
-				<div class="talk_speaker">Adrian Schneider</div>
+				<div class="talk_speaker">John Mertic</div>
 			</td>
 			<td class="success">
 				<div class="talk_title">
