@@ -131,12 +131,12 @@
 			</td>
 		</tr>
         <tr class="schedule_slot"><th>14:00</th>
-			<td class="warning">
+			<td class="info">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Practical Software Design">Practical Software Design</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Hack your team, your department, and your organization for the greater good">Hack your team, your department, and your organization for the greater good</a>
 				</div>
-				<div class="talk_speaker">Adrian Schneider</div>
-			</td>
+				<div class="talk_speaker">John Mertic</div>
+            </td>
 			<td class="error">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=comparing_bootstrap_and_foundation">Comparing Bootstrap and Foundation</a>
@@ -150,13 +150,13 @@
 				<div class="talk_speaker">Sara Golemon</div>
 			</td>
 		</tr>
-		<tr class="schedule_slot"><th>15:00</th>
-			<td class="warning">
+        <tr class="schedule_slot"><th>15:00</th>
+			<td class="success">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=open_sourcing_mental_illness">Open Sourcing Mental Illness</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=four_web_technologies_you_should_be_looking_at_now_">Four web technologies you should be looking at now!</a>
 				</div>
-				<div class="talk_speaker">Ed Finkler</div>
-			</td>
+				<div class="talk_speaker">John Mertic</div>
+            </td>
 			<td class="success">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=database_testing_for_fun_and_profit">Database testing for Fun and Profit</a>
@@ -269,12 +269,12 @@
 			<td colspan="3"><div class="talk_title">Lunch</div></td>
 		</tr>
         <tr class="schedule_slot"><th>13:00</th>
-			<td class="info">
+            <td class="warning">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Hack your team, your department, and your organization for the greater good">Hack your team, your department, and your organization for the greater good</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Practical Software Design">Practical Software Design</a>
 				</div>
-				<div class="talk_speaker">John Mertic</div>
-			</td>
+				<div class="talk_speaker">Adrian Schneider</div>
+            </td>
 			<td class="success">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=blazing_data_with_redis">Blazing data with Redis</a>
@@ -288,13 +288,13 @@
 				<div class="talk_speaker">Matt Frost</div>
 			</td>
 		</tr>
-		<tr class="schedule_slot"><th>14:00</th>
-			<td class="success">
+        <tr class="schedule_slot"><th>14:00</th>
+			<td class="warning">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=four_web_technologies_you_should_be_looking_at_now_">Four web technologies you should be looking at now!</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=open_sourcing_mental_illness">Open Sourcing Mental Illness</a>
 				</div>
-				<div class="talk_speaker">John Mertic</div>
-			</td>
+				<div class="talk_speaker">Ed Finkler</div>
+            </td>
 			<td class="error">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=unit_testing_javascript_with_qunit_and_sinon">Unit Testing Javascript with QUnit and Sinon</a>
