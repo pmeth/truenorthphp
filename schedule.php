@@ -133,7 +133,7 @@
         <tr class="schedule_slot"><th>14:00</th>
 			<td class="info">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Hack your team, your department, and your organization for the greater good">Hack your team, your department, and your organization for the greater good</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=hack_your_team__your_department__and_your_organization_for_the_greater_good">Hack your team, your department, and your organization for the greater good</a>
 				</div>
 				<div class="talk_speaker">John Mertic</div>
             </td>
@@ -271,7 +271,7 @@
         <tr class="schedule_slot"><th>13:00</th>
             <td class="warning">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=Practical Software Design">Practical Software Design</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=practical_software_design">Practical Software Design</a>
 				</div>
 				<div class="talk_speaker">Adrian Schneider</div>
             </td>
