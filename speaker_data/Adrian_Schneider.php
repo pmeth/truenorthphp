@@ -4,7 +4,7 @@ $speakers[] = array (
   'name' => 'Adrian Schneider',
   'city' => 'Kelowna, BC',
   'country' => 'Canada',
-  'twitter' => '',
+  'twitter' => 'AdrianSchneider',
   'image' => 'http://www.gravatar.com/avatar/56f141bfcfcb7388e70789560a31c83b?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
   'bio' => 'Software architect with 10 years experience designing and creating software systems. Experience in everything from building start-ups, managing/coaching teams, to getting in the trenches with TDD.',
   'talks' => array (
