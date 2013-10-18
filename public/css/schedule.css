@@ -34,6 +34,10 @@
   margin-bottom: 50px;
 }
 
+.juice_bar, .hackathon {
+	font-weight: bold;
+}
+
 .talk_title {
   width: 279px;
 }

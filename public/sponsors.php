@@ -35,11 +35,21 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Gold Level</h3>
                </div>
+            </div>
+            <div class="row" style="margin-bottom: 20px">
                <div class="thumbnail span3">
                   <a href="http://www.github.com/"><img alt="Github" src="img/github-logo.png" width="220" height="58"></a>
                </div>
                <div class="span8">
-                  <b><a href="http://www.github.com/">GitHub</a> is the best place to share code<b> with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together.
+                  <b><a href="http://www.github.com/">GitHub</a> is the best place to share code</b> with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together.
+                </div>
+            </div>
+            <div class="row" style="margin-bottom: 20px">
+                <div class="thumbnail span3">
+                    <a href="http://www.synacor.com/"><img alt="Synacor" src="img/synacor_logo.png" style="margin: 10px 0;" width="220" height="44"></a>
+                </div>
+                <div class="span8">
+									<b><a href="http://www.synacor.com/">Synacor</a></b> (Nasdaq: SYNC), a software technology company at the intersection of Hollywood and Madison Avenue, trades in consumers' favorite digital media: their TV shows, movies, music, games, and more. Consumers want all the content they can imagine, any time, anywhere and on mobile devices of their choosing. Synacor makes it possible. With a footprint in over 30 million homes, our cloud-based solutions are enjoyed by over 20 million users. Founded in 2001, we're now more than 300 team members and maintain a startup culture encouraging ideas and entrepreneurial spirit to develop products that change the way consumers live digitally. We have offices in Toronto, Buffalo, Boston, and New York City.
                 </div>
             </div>
             <div class="row">
@@ -49,11 +59,31 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Silver Level</h3>
                </div>
+						</div>
+						<div class="row" style="margin-bottom: 20px">
+								<div class="thumbnail span3">
+										<a href="http://www.myplanetdigital.com/"><img alt="myplanet digital" src="img/myplanet_logo.png" style="margin: 10px 0;" width="220" height="78"></a>
+								</div>
+								<div class="span8">
+									<b><a href="http://www.myplanetdigital.com/">Myplanet</a></b> is a rapidly growing design &amp; technology company specializing in the process and practice of envisioning, designing and building digital products. Our expertise rests on three key pillars: lean user experience design, agile product development, and open source software. Based in Toronto, our team of 90 represents a full complement of designers, user researchers, developers, QA specialists, and business analysts.
+								</div>
+            </div>
+            <div class="row" style="margin-bottom: 20px;">
+               <div class="thumbnail span3">
+                  <a href="http://www.eventmobi.com/"><img alt="EventMobi" src="img/eventmobi_logo.png" width="210" height="40"></a>
+               </div>
+               <div class="span8">
+                  The internet is being reborn on mobile and we at EventMobi are using it to revolutionize the events industry. <b><a href="http://www.eventmobi.com/">EventMobi</a></b> is the leading mobile platform for the largest and coolest shows and conferences. Clients like Disney and Intel have used EventMobi to disrupt and enhance the attendee experience at their events. Our mobile event guides, interactive mapping, real­time audience response and the first ever social / gaming layer customized for conferences and tradeshows have been used by over 900 events, 2 Million users, and are served in 6 languages across 5 continents.<br>
+                  <br>
+                  We are also <a href="http://www.eventmobi.com/about/careers/">hiring PHP developers</a> to push the boundaries of the mobile web!
+               </div>
+            </div>
+						<div class="row" style="margin-bottom: 20px">
                 <div class="thumbnail span3">
                      <a href="http://www.mercatustechnologies.com/"><img alt="Mercatus" src="img/mercatus_logo.jpg" width="220" height="46"></a>
                 </div>
                 <div class="span8">
-                     <b><a href="http://www.mercatustechnologies.com/">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
+                     <b><a href="http://www.mercatustechnologies.com/">Mercatus</a></b> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
                 </div>
             </div>
             <div class="row">
@@ -104,7 +134,7 @@ $page = 'sponsors';
                     <a href="http://www.constantcontact.com/"><img alt="Constant Contact" src="img/constant_contact_logo_176x176.jpg" style="margin: 10px 0;" width="176" height="176"></a>
                 </div>
                 <div class="span8">
-                    Constant Contact is revolutionizing the success formula for small organizations through affordable, easy-to-use <em>Engagement Marketing</em>&trade; tools that help create and grow customer relationships. More than 500,000 small businesses, nonprofits, and associations worldwide rely on Constant Contact to drive ongoing customer dialogs through email marketing, social media marketing, event marketing, and online surveys. All Constant Contact products come with unrivaled KnowHow, education, and free coaching with a personal touch, including award-winning customer support.  You can check out their new API at <a href="http://developer.constantcontact.com">http://developer.constantcontact.com</a>.
+                    <b><a href="http://www.constantcontact.com">Constant Contact</a></b> is revolutionizing the success formula for small organizations through affordable, easy-to-use <em>Engagement Marketing</em>&trade; tools that help create and grow customer relationships. More than 500,000 small businesses, nonprofits, and associations worldwide rely on Constant Contact to drive ongoing customer dialogs through email marketing, social media marketing, event marketing, and online surveys. All Constant Contact products come with unrivaled KnowHow, education, and free coaching with a personal touch, including award-winning customer support.  You can check out their new API at <a href="http://developer.constantcontact.com">http://developer.constantcontact.com</a>.
                 </div>
             </div>
             <div class="row">

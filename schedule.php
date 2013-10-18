@@ -9,6 +9,14 @@
 	</thead>
 	<tbody>
 		<tr class="schedule_slot">
+			<th>08:00</th>
+			<td colspan="2">
+				<div class="juice_bar">
+					JUICE Bar - sponsored by <img src="img/juice_logo_111x25.png" alt="JUICE Mobile - Putting Brands in Hands">
+				</div>
+			</td>
+		</tr>
+		<tr class="schedule_slot">
 			<th>09:00</th>
 			<td class="warning">
 				<div class="talk_title">
@@ -25,7 +33,7 @@
 		</tr>
 		<tr class="schedule_slot">
 			<th>12:30</th>
-			<td colspan="3"><div class="talk_title">Lunch</div></td>
+			<td colspan="2"><div class="talk_title">Lunch</div></td>
 		</tr>
 		<tr class="schedule_slot">
 			<th>13:30<br>to<br>17:00</th>
@@ -41,7 +49,6 @@
 				</div>
 				<div class="talk_speaker">Keith Casey</div>
 			</td>
-			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -57,6 +64,14 @@
 		</tr>
 	</thead>
 	<tbody>
+		<tr class="schedule_slot">
+			<th>08:00</th>
+			<td colspan="3">
+				<div class="juice_bar">
+					JUICE Bar - sponsored by <img src="img/juice_logo_111x25.png" alt="JUICE Mobile - Putting Brands in Hands">
+				</div>
+			</td>
+		</tr>
 		<tr class="schedule_slot">
 			<th>09:00</th>
 			<td class="error" colspan="3">
@@ -113,9 +128,8 @@
 		<tr class="schedule_slot"><th>13:00</th>
 			<td class="error">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=design_how_your_objects_talk_to_each_other_through_mocking">Design how your objects talk to each other through mocking</a>
+					TBD
 				</div>
-				<div class="talk_speaker">Konstantin Kudryashov</div>
 			</td>
 			<td class="warning">
 				<div class="talk_title">
@@ -170,7 +184,7 @@
 				<div class="talk_speaker">Adam Harvey</div>
 			</td>
 		</tr>
-		<tr class="schedule_slot"><th>16:00</th>
+		<tr class="schedule_slot"><th>16:00<br>to<br>17:00</th>
 			<td class="error">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=open_source__php__and_pie">Open source, PHP, and PIE</a>
@@ -190,6 +204,15 @@
 				<div class="talk_speaker">Juti Noppornpitak</div>
 			</td>
 		</tr>
+		<tr class="schedule_slot">
+			<th>18:00<br>to<br>22:00</th>
+			<td colspan="3">
+				<div class="hackathon">
+					"Iron Elephant" Hackathon<br><div style="padding-left: 150px;">... sponsored by <img src="img/myplanet_logo_small.png" alt="myplanet digital"></div>
+				</div>
+			</td>
+		</tr>
+		<tr><td colspan="4"></td></tr>
 	</tbody>
 </table>
 
@@ -204,6 +227,14 @@
 		</tr>
 	</thead>
 	<tbody>
+		<tr class="schedule_slot">
+			<th>08:00</th>
+			<td colspan="3">
+				<div class="juice_bar">
+					JUICE Bar - sponsored by <img src="img/juice_logo_111x25.png" alt="JUICE Mobile - Putting Brands in Hands">
+				</div>
+			</td>
+		</tr>
 		<tr class="schedule_slot"><th>09:00</th>
 			<td class="error">
 				<div class="talk_title">
@@ -311,9 +342,8 @@
 		<tr class="schedule_slot"><th>15:00</th>
 			<td class="error">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=enabling_agile_through_enabling_bdd_in_php_projects">Enabling Agile through enabling BDD in PHP projects</a>
+					TBD
 				</div>
-				<div class="talk_speaker">Konstantin Kudryashov</div>
 			</td>
 			<td class="warning">
 				<div class="talk_title">
@@ -323,8 +353,19 @@
 			</td>
 		</tr>
 		<tr class="schedule_slot">
-			<th>16:00</th>
-			<td class="success" colspan="3"><div class="talk_title"></div><div class="talk_speaker">Chris Hartjes</div></td>
+			<th>16:00<br>to<br>17:00</th>
+			<td class="success" colspan="3"><div class="talk_title">Closing Keynote</div><div class="talk_speaker">Chris Hartjes</div></td>
 		</tr>
+		<tr class="schedule_slot">
+			<th>18:00<br>to<br>close</th>
+			<td colspan="3">
+				<div class="hackathon">
+					True North PHP Social<br>
+					at the <a href="http://www.facebook.com/drakeandfirkin">Drake and Firkin</a>
+				</div>
+				</div>
+			</td>
+		</tr>
+		<tr><td colspan="4"></td></tr>
 	</tbody>
 </table>
