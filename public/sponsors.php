@@ -137,6 +137,14 @@ $page = 'sponsors';
                     <b><a href="http://www.constantcontact.com">Constant Contact</a></b> is revolutionizing the success formula for small organizations through affordable, easy-to-use <em>Engagement Marketing</em>&trade; tools that help create and grow customer relationships. More than 500,000 small businesses, nonprofits, and associations worldwide rely on Constant Contact to drive ongoing customer dialogs through email marketing, social media marketing, event marketing, and online surveys. All Constant Contact products come with unrivaled KnowHow, education, and free coaching with a personal touch, including award-winning customer support.  You can check out their new API at <a href="http://developer.constantcontact.com">http://developer.constantcontact.com</a>.
                 </div>
             </div>
+            <div class="row" style="margin-bottom: 20px">
+                <div class="thumbnail span3">
+                    <a href="http://developer.rackspace.com"><img alt="Rackspace" src="img/Rackspace_Cloud_Company_Logo_clr.png" style="margin: 10px 0;" width="220" height="65"></a>
+                </div>
+                <div class="span8">
+                    Rackspace Hosting (NYSE: RAX) is the open cloud company, delivering open technologies and powering more than 197,000 customers worldwide. Rackspace provides its renowned Fanatical Support&reg; across a broad portfolio of IT products, including Public Cloud, Private Cloud, Hybrid Hosting and Dedicated Hosting. The company offers choice, flexibility and freedom from vendor lock-in. Rackspace has been recognized by Bloomberg BusinessWeek as a Top 100 Performing Technology Company and is featured on Fortune's list of 100 Best Companies to Work For. Rackspace was positioned in the Leaders Quadrant by Gartner Inc. in the "2011 Magic Quadrant for Managed Hosting." Rackspace is headquartered in San Antonio with offices and data centers around the world. For more information for developers, visit <a href="http://developer.rackspace.com">http://developer.rackspace.com</a>.
+                </div>
+            </div>
             <div class="row">
                <hr>
             </div>
