@@ -354,7 +354,7 @@
 		</tr>
 		<tr class="schedule_slot">
 			<th>16:00<br>to<br>17:00</th>
-			<td class="success" colspan="3"><div class="talk_title">Closing Keynote</div><div class="talk_speaker">Chris Hartjes</div></td>
+			<td class="success" colspan="3"><div class="talk_title"><a class="fancybox fancybox.iframe" href="viewtalk.php?name=programming_for_1_year_15_times">Programming For 1 Year 15 Times</a></div><div class="talk_speaker">Chris Hartjes</div></td>
 		</tr>
 		<tr class="schedule_slot">
 			<th>18:00<br>to<br>close</th>
