@@ -128,7 +128,9 @@
 		<tr class="schedule_slot"><th>13:00</th>
 			<td class="error">
 				<div class="talk_title">
-					TBD
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_agile_&_scrum">Introduction to Agile &amp; Scrum</a>
+				</div>
+				<div class="talk_speaker">Jack Milunsky</div>
 				</div>
 			</td>
 			<td class="warning">
