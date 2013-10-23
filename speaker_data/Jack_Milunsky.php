@@ -14,7 +14,7 @@ Jack\'s experience spans Mobile, Web, Desktop and Enterprise Application develop
   'talks' => array (
     array (
       'title' => 'Introduction to Agile & Scrum',
-			'text' => 'In this talk I will introduce you to Agile, and more specifically Scrum.  I will cover topics such as <ul> <li> What does it mean to be Agile </li> <li> What Agile methodologies exist </li> <li> What are the sited benefits Agile brings </li> <li> How Agile evolved </li> <li> Scrum\'s evolution </li> <li> Scrum process defined </li> <ul> <li> Roles </li> <li> Artifacts </li> <li> Process </li> </ul> <li> Stories, Story points and estimation </li> </ul>',
+			'text' => 'In this talk I will introduce you to Agile, and more specifically Scrum.  I will cover topics such as <ul> <li> What does it mean to be Agile </li> <li> What Agile methodologies exist </li> <li> What are the cited benefits Agile brings </li> <li> How Agile evolved </li> <li> Scrum\'s evolution </li> <li> Scrum process defined </li> <ul> <li> Roles </li> <li> Artifacts </li> <li> Process </li> </ul> <li> Stories, Story points and estimation </li> </ul>',
     ),
   ),
 );
