@@ -209,7 +209,7 @@
 			<th>18:00<br>to<br>22:00</th>
 			<td colspan="3">
 				<div class="hackathon">
-					"Iron Elephant" Hackathon<br><div style="padding-left: 150px;">... sponsored by <img src="img/myplanet_logo_small.png" alt="myplanet digital"></div>
+					Hackathon<br><div style="padding-left: 150px;">... sponsored by <img src="img/myplanet_logo_small.png" alt="myplanet digital"></div>
 				</div>
 			</td>
 		</tr>
