@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Milton, ON',
   'country' => 'Canada',
   'twitter' => '',
-  'image' => 'http://www.truenorthphp.ca/images/chris_hartjes.png',
+  'image' => 'http://www.truenorthphp.ca/img/chris_hartjes.png',
   'bio' => 'Chris Hartjes has been building web applications of all shapes and sizes since 1998, ranging from catalogs for CD compilations for professional DJ’s to large-scale dating web sites.
 
   A huge consumer of open-source software, Chris tries to give back to the community via his blog, by speaking at conferences, and by co-organizing TrueNorthPHP. He is also a big believer in the power of testing and automation as secret weapons for organizations to deliver high quality applications quickly.
