@@ -281,7 +281,7 @@
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=moving_to_a_service_oriented_architecture_from_tightly_coupled_applications">Moving to a Service Oriented Architecture from tightly coupled applications</a>
 				</div>
-				<div class="talk_speaker">Xavier Brand</div>
+				<div class="talk_speaker">Xavier Briand</div>
 			</td>
 			<td class="success">
 				<div class="talk_title">
