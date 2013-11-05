@@ -90,8 +90,9 @@
 			</td>
 			<td class="success">
 				<div class="talk_title">
-					TBD
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_angularjs">Introduction to AngularJS</a>
 				</div>
+				<div class="talk_speaker">Nick Van Weerdenburg</div>
 			</td>
 			<td class="warning">
 				<div class="talk_title">
