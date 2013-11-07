@@ -65,7 +65,7 @@ $page = 'venue';
                            width="550">
                      </li>
                      <li>
-                        <h3><a href="http://www4.mississauga.ca/ClickNRide/TimetableQuery.aspx?moniker=Vmlld1RpbWV0YWJsZTpUaW1ldGFibGVPcHRpb25zOjYxNjMwYjljLWU3MDctNDYxZC05NWY4LTMxNzYyZjk5OTFjOA==" title="MiWay Route Planner">Go Transit (Ontario) Milton Route</a></h3>
+                        <h3><a href="http://www.gotransit.com/timetables/en/schedules/sysmap.aspx" title="MiWay Route Planner">Go Transit (Ontario) Milton Route</a></h3>
                         <div>Via the Milton Go Transit route, Meadowvale Station is nearest to the venue. See the above graphic (centre&ndash;left section) for more.</div>
                      </li>
                   </ul>              
