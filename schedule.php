@@ -146,13 +146,14 @@
 				<div class="talk_speaker">Stefan Koopmanschap</div>
 			</td>
 		</tr>
-        <tr class="schedule_slot"><th>14:00</th>
+        <tr class="schedule_slot">
+			<th>14:00</th>
 			<td class="info">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=hack_your_team__your_department__and_your_organization_for_the_greater_good">Hack your team, your department, and your organization for the greater good</a>
 				</div>
 				<div class="talk_speaker">John Mertic</div>
-            </td>
+			</td>
 			<td class="error">
 				<div class="talk_title">
 					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=comparing_bootstrap_and_foundation">Comparing Bootstrap and Foundation</a>
@@ -314,11 +315,11 @@
 				</div>
 				<div class="talk_speaker">Justin Carmony</div>
 			</td>
-			<td class="success">
+			<td class="info" rowspan="3">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=mocking_dependencies_in_phpunit">Mocking Dependencies in PHPUnit</a>
+					Unconference
 				</div>
-				<div class="talk_speaker">Matt Frost</div>
+				<div class="talk_speaker"></div>
 			</td>
 		</tr>
         <tr class="schedule_slot"><th>14:00</th>
@@ -334,18 +335,13 @@
 				</div>
 				<div class="talk_speaker">Matthew Turland</div>
 			</td>
-			<td class="info" rowspan="2">
-				<div class="talk_title">
-					Unconference
-				</div>
-				<div class="talk_speaker"></div>
-			</td>
 		</tr>
 		<tr class="schedule_slot"><th>15:00</th>
 			<td class="error">
 				<div class="talk_title">
-					TBD
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=mocking_dependencies_in_phpunit">Mocking Dependencies in PHPUnit</a>
 				</div>
+				<div class="talk_speaker">Matt Frost</div>
 			</td>
 			<td class="warning">
 				<div class="talk_title">
