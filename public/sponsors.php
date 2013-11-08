@@ -125,7 +125,7 @@ $page = 'sponsors';
 
          <div class="row" style="margin-bottom: 20px">
             <div class="thumbnail span3">
-               <a href="http://servergrove.com/"><img alt="Servergrove" src="http://servergrove.com/images/logos/sg230x35_p.png" style="margin: 10px 0;" width="220" height="33"></a>
+               <a href="http://servergrove.com/"><img alt="Servergrove" src="img/servergrove_logo.png" style="margin: 10px 0;" width="220" height="33"></a>
             </div>
             <div class="span8">
                <a href="http://servergrove.com/">ServerGrove</a> provides hosting solutions for sites and web applications built using PHP, PHP Frameworks and MongoDB. Since its inception in 2005, ServerGrove has been dedicated to the advancement of PHP having backed countless conferences and meetups and contributed code and resources to open-source projects.  ServerGrove is one of the few hosting companies in the world that can boast of a state of the art infrastructure sitting atop of one of the most connected points in the globe, with a staff dedicated to providing support for PHP software and a solid commitment to the PHP community.
@@ -141,7 +141,7 @@ $page = 'sponsors';
          </div>
          <div class="row" style="margin-bottom: 20px">
             <div class="thumbnail span3">
-               <a href="http://gurulink.ca/"><img alt="GuruLink" src="http://gurulink.ca/_include/images/logo.png" style="margin: 10px 0;" width="148" height="80"></a>
+               <a href="http://gurulink.ca/"><img alt="GuruLink" src="img/gurulink_logo.png" style="margin: 10px 0;" width="148" height="80"></a>
             </div>
             <div class="span8">
                <a href="http://www.gurulink.ca">GuruLink Inc.</a> is a recruitment services and software company with offices in Toronto and Montreal that specializes in Information Technology.  GuruLink connects great talent with great opportunities.
@@ -171,7 +171,7 @@ $page = 'sponsors';
                <h3>Community Level</h3>
             </div>
             <div class="span2">
-               <a href="http://meetup.gtaphp.org"><img alt="GTA PHP User Group" style="border:1px solid black" src="http://photos3.meetupstatic.com/photos/event/8/d/0/4/highres_14496100.jpeg" width="120" height="120"></a>
+               <a href="http://meetup.gtaphp.org"><img alt="GTA PHP User Group" style="border:1px solid black" src="img/gtaphp_logo.jpg" width="120" height="120"></a>
             </div>
             <div class="span3">
                <a href="http://www.atlantaphp.org"><img alt="Atlanta PHP" src="/img/atlantaphp_logo.png" width="210" height="73"></a>
