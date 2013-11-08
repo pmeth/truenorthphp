@@ -54,14 +54,15 @@ h6 {
    z-index: 9999;
 }
 
-.header-wrapper,
-  .forkme-ribbon {
+.forkme-ribbon {
    overflow: hidden;
 }
 
 .header-wrapper {
    background-image: url(../img/interiorpagebackground_wrapper.jpg);
    background-repeat: repeat-x;
+   position: relative;
+   z-index: 1;
 }
 
 .header-wrapper .container {
@@ -198,13 +199,15 @@ h6 {
   /* top left corner */
   position: fixed;
   right: -3.2em;
-  top: 3.5em;
-  /* 45 deg ccw rotation */
-  -moz-transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
+  bottom: 3.5em;
+  /* -45 deg ccw rotation */
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
   /* shadow */
   -moz-box-shadow: 0 0 1em #888;
   -webkit-box-shadow: 0 0 1em #888;
+  z-index: 3;
 }
 
 .forkme-ribbon a {
@@ -219,4 +222,8 @@ h6 {
   text-decoration: none;
   /* shadow */
   text-shadow: 0 0 0.5em #444;
+}
+
+.navbar-fixed-top {
+  z-index: 2;
 }
