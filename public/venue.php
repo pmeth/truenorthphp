@@ -45,6 +45,34 @@ $page = 'venue';
             </div>
             <div class="row">
                <div class="span12">
+                  <h2>Public Transit</h2>
+               </div>
+            </div>
+            <div class="row hotels">
+               <div class="span8">
+                  The venue may be reached via public transit in the following ways:
+               </div>
+            </div>
+            <div class="row hotels">
+               <div class="span8">
+                  <ul>
+                     <li>
+                        <h3><a href="http://www.mississauga.ca/portal/miway/routesschedules" title="MiWay Route Planner">TTC (Toronto) &amp; MiWay (Mississauga) Route 108 North</a> and</h3>
+                        <div>Via MiWay, the venue may be reached on the 108 (Meadowvale Business Express North). In turn, the TTC has provided a MiWay transit hub at Islington Station.</div>
+                        <img alt="MiWay Route 108: Meadowvale Business Express (North)
+                           height="502"
+                           src="img/miway.gif"
+                           width="550">
+                     </li>
+                     <li>
+                        <h3><a href="http://www.gotransit.com/timetables/en/schedules/sysmap.aspx" title="MiWay Route Planner">Go Transit (Ontario) Milton Route</a></h3>
+                        <div>Via the Milton Go Transit route, Meadowvale Station is nearest to the venue. See the above graphic (centre&ndash;left section) for more.</div>
+                     </li>
+                  </ul>              
+               </div>
+            </div>
+            <div class="row">
+               <div class="span12">
                   <h2>Conference Hotel</h2>
                </div>
             </div>

@@ -4,19 +4,20 @@ $css = array('bootstrap/css/bootstrap.css', 'css/truenorth.css');
 if (isset($extra_css)) {
   $css = array_merge($css, $extra_css);
 }
-//Check for Mobile Browser
 
-//if (!isset($_COOKIE['mobileNoPrompt'])){
+// Check for Mobile Browser
 
-//  require_once 'vendor/mobiledetect/mobiledetectlib/Mobile_Detect.php';
-//  $detect = new Mobile_Detect();
-//  if ($detect->isMobile()) {
-//    // if mobile Device move to mobile prompt page
+if (!isset($_COOKIE['mobileNoPrompt'])){
 
-//    header('Location: mobile.php');
-//    exit;
-//  }
-//}
+  require_once 'vendor/mobiledetect/mobiledetectlib/Mobile_Detect.php';
+  $detect = new Mobile_Detect();
+  if ($detect->isMobile()) {
+    // if mobile Device move to mobile prompt page
+
+    header('Location: mobile.php');
+    exit;
+  }
+}
 
 header('Content-Type: text/html; charset=UTF-8');
 ?>
