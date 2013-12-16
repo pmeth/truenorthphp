@@ -15,18 +15,7 @@ $page = 'tickets';
                      Well, the 2013 edition of True North PHP is over, but you can still relive the event by purchasing Video on Demand (VoD) tickets.
                   </p>
                   </p>
-                     We are still going through the footage that we captured, so we do not have a full inventory of which videos are part of the package, however a Video on Demand ticket will give you full access to all videos that were captured as soon as they are available.
-                  </p>
-                  </p>
-                     Click the <b>Buy Now</b> button below to start the purchase of VoD tickets.
-                  </p>
-                  <p>
-                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                     <input type="hidden" name="cmd" value="_s-xclick">
-                     <input type="hidden" name="hosted_button_id" value="9AJ5D4HPNQJRE">
-                     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-                  </form>
+                     Access to the videos is exclusively offered through our Pivotshare channel which can be accessed at:<br><a href="https://truenorthphp.pivotshare.com">https://truenorthphp.pivotshare.com</a>.
                   </p>
                </div>
                <!-- disabled until ticket sales start

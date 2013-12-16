@@ -90,7 +90,7 @@
 			</td>
 			<td class="success">
 				<div class="talk_title">
-					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_angularjs">Introduction to AngularJS</a>
+					<a class="fancybox fancybox.iframe" href="viewtalk.php?name=angularjs-fundamentals-for-rapid-html5-development">AngularJS Fundamentals for Rapid HTML5 Development</a>
 				</div>
 				<div class="talk_speaker">Nick Van Weerdenburg</div>
 			</td>
