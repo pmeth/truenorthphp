@@ -17,7 +17,7 @@
                   <a href="sponsors.php">Sponsors</a>
                </li>
                <li id="buy-tickets" class="<?php echo $page == 'tickets' ? 'active' : ''; ?>">
-                  <a href="tickets.php">Buy Tickets</a>
+                  <a href="tickets.php">Videos</a>
                </li>
             </ul>
          </div>
@@ -28,7 +28,7 @@
 <?php if ($page == 'index') : ?>
             <div class="ribbon-wrapper">
                <div class="ribbon-front">
-                   <h2>Toronto, Canada :: November 7 - 9, 2013 :: <a href="tickets.php"><span class="earlybird"><?php if (time() < strtotime('2013-10-01')) echo 'Early Bird ';?>Tickets on Sale Now</span></a></h2>
+                   <h2>Toronto, Canada :: November 7 - 9, 2013 :: <a href="tickets.php"><span class="earlybird">Videos on Sale Now</span></a></h2>
                </div>
                <div class="ribbon-edge-topleft"></div>
                <div class="ribbon-edge-topright"></div>
