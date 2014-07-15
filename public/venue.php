@@ -43,6 +43,7 @@ $page = 'venue';
                   <hr>
                </div>
             </div>
+<!--
             <div class="row">
                <div class="span12">
                   <h2>Conference Hotel</h2>
@@ -61,6 +62,7 @@ $page = 'venue';
                   (905) 858-2424
                </div>
             </div>
+-->
          </div>
       </div>
 <?php include '../footer.php'; ?>

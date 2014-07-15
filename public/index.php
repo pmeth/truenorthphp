@@ -48,7 +48,9 @@ $extra_css = array('css/index.css');
                         <?php else : ?>
                            <h1 style="float:left">Tickets just $250 for 2 days</h1>
                         <?php endif; ?>
+<!--
                         <a href="tickets.php" class="btn btn-large btn-success pull-right">Order Your Tickets Now</a>
+-->
                      </div>
                   </div>
                </div>
