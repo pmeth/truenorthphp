@@ -21,7 +21,7 @@ if (!isset($_COOKIE['mobileNoPrompt'])){
 <!DOCTYPE html>
 <html>
    <head>
-      <title>True North PHP Conference - November 7-9, 2013 - Toronto, Canada</title>
+      <title>True North PHP Conference - November 6-8, 2014 - Toronto, Canada</title>
       <?php foreach ($css as $name) { ?>
       <link rel="stylesheet" href="<?php echo $name ?>">
       <?php } ?>

@@ -1,4 +1,4 @@
-<div class="day_number">Day #1 - Thursday, November 7, 2013</div>
+<div class="day_number">Day #1 - Thursday, November 6, 2014</div>
 <table class="table schedule_day">
 	<thead>
 		<tr>
@@ -143,7 +143,7 @@
 	</tbody>
 </table>
 
-<div class="day_number">Day #2 - Friday, November 8, 2013</div>
+<div class="day_number">Day #2 - Friday, November 7, 2014</div>
 <table class="table schedule_day">
 	<thead>
 		<tr>
@@ -288,7 +288,7 @@
 	</tbody>
 </table>
 
-<div class="day_number">Day #3 - Saturday, November 9, 2013</div>
+<div class="day_number">Day #3 - Saturday, November 8, 2014</div>
 <table class="table schedule_day">
 	<thead>
 		<tr>

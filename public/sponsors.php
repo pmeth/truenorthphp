@@ -36,11 +36,11 @@ $page = 'sponsors';
                   <h3>Gold Level</h3>
                </div>
                <div class="thumbnail span3">
-                  <a href="http://www.github.com/"><img alt="Github" src="img/github-logo.png" width="220" height="58"></a>
+                  <a href="http://www.example.com/"><img alt="Company" src="http://www.dummyimage.com/210x94/000/fff&text=Your+Name+Here" width="210" height="94"></a>
                </div>
                <div class="span8">
-                  <b>GitHub is the best place to share code<b> with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together.
-							 </div>
+                  Coming soon...
+               </div>
             </div>
             <div class="row" style="margin-top: 30px;">
                <div class="thumbnail span3">
