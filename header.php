@@ -17,14 +17,17 @@ if (!isset($_COOKIE['mobileNoPrompt'])){
         exit;
     }
 }
+
+header('Content-Type: text/html; charset=UTF-8');
 ?>
 <!DOCTYPE html>
 <html>
    <head>
+      <meta charset="UTF-8">
       <title>True North PHP Conference - November 6-8, 2014 - Toronto, Canada</title>
-      <?php foreach ($css as $name) { ?>
+      <?php foreach ($css as $name): ?>
       <link rel="stylesheet" href="<?php echo $name ?>">
-      <?php } ?>
+      <?php endforeach; ?>
       <link href='http://fonts.googleapis.com/css?family=Buenard|Muli' rel='stylesheet' type='text/css'>
    </head>
    <body>

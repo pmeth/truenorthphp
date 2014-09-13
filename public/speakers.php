@@ -5,7 +5,7 @@ $speakers = array();
 $filenames = array();
 $iterator = new DirectoryIterator('../speaker_data');
 foreach ($iterator as $fileinfo) {
-   if ($fileinfo->isFile()) {
+   if ($fileinfo->isFile() && $fileinfo->getExtension() == 'php') {
       $filenames[] = $fileinfo->getFilename();
    }
 }
@@ -61,7 +61,7 @@ foreach ($filenames as $filename) {
                   </p>
                   <h3>Talks</h3>
    <?php foreach ($speaker['talks'] as $talk) : ?>
-                    <h4><?php echo $talk['title']; ?></h4>
+                    <h4><?php echo htmlentities($talk['title']); ?></h4>
                     <p>
                       <?php echo preg_replace('|<br ?/?>|','</p><p>',nl2br($talk['text'])); ?>
                     <p>

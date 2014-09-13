@@ -34,6 +34,10 @@
   margin-bottom: 50px;
 }
 
+.hackathon {
+  font-weight: bold;
+}
+
 .talk_title {
   width: 279px;
 }

@@ -43,7 +43,34 @@ $page = 'venue';
                   <hr>
                </div>
             </div>
-<!--
+            <div class="row">
+               <div class="span12">
+                  <h2>Public Transit</h2>
+               </div>
+            </div>
+            <div class="row hotels">
+               <div class="span8">
+                  The venue may be reached via public transit in the following ways:
+               </div>
+            </div>
+            <div class="row hotels">
+               <div class="span8">
+                  <ul>
+                     <li>
+                        <h3><a href="http://www.mississauga.ca/portal/miway/routesschedules" title="MiWay Route Planner">TTC (Toronto) &amp; MiWay (Mississauga) Route 108 North</a> and</h3>
+                        <div>Via MiWay, the venue may be reached on the 108 (Meadowvale Business Express North). In turn, the TTC has provided a MiWay transit hub at Islington Station.</div>
+                        <img alt="MiWay Route 108: Meadowvale Business Express (North)"
+                           height="502"
+                           src="img/miway.gif"
+                           width="550">
+                     </li>
+                     <li>
+                        <h3><a href="http://www.gotransit.com/timetables/en/schedules/sysmap.aspx" title="MiWay Route Planner">Go Transit (Ontario) Milton Route</a></h3>
+                        <div>Via the Milton Go Transit route, Meadowvale Station is nearest to the venue. See the above graphic (centre&ndash;left section) for more.</div>
+                     </li>
+                  </ul>              
+               </div>
+            </div>
             <div class="row">
                <div class="span12">
                   <h2>Conference Hotel</h2>
@@ -51,10 +78,8 @@ $page = 'venue';
             </div>
             <div class="row hotels">
                <div class="span8">
-                  We have negotiated a preferred rate of $90/night at the Four Points Sheraton.<br>
-                  If calling, you can request the True North PHP rate.<br>
-                  If you prefer to book online, please book via the following link:
-                  <a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1208249393&key=498AD">Book Now</a><br>
+                  We have negotiated a preferred rate of $95/night at the Four Points Sheraton.<br>
+                  When calling, be sure to request the True North PHP rate.<br>
                   <br>
                   <h3>Four Points by Sheraton</h3>
                   2501 Argentia Road,<br>
@@ -62,7 +87,6 @@ $page = 'venue';
                   (905) 858-2424
                </div>
             </div>
--->
          </div>
       </div>
 <?php include '../footer.php'; ?>

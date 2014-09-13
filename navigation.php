@@ -10,14 +10,9 @@
                <li class="<?php echo $page == 'sponsors' ? 'active' : ''; ?>">
                   <a href="sponsors.php">Sponsors</a>
                </li>
-               <li id="cfp">
-                  <a href="http://cfp.truenorthphp.ca">Call for Papers</a>
-               </li>
-<!--
                <li id="buy-tickets" class="<?php echo $page == 'tickets' ? 'active' : ''; ?>">
                   <a href="tickets.php">Buy Tickets</a>
                </li>
--->
             </ul>
          </div>
       </div>
@@ -27,7 +22,7 @@
 <?php if ($page == 'index') : ?>
             <div class="ribbon-wrapper">
                <div class="ribbon-front">
-                   <h2>Toronto, Canada :: November 6 - 8, 2014 :: <a href="tickets.php"><span class="earlybird"><?php if (time() < strtotime('2014-10-01')) echo 'Early Bird ';?>Tickets on Sale Soon</span></a></h2>
+                   <h2>Toronto, Canada :: November 6 - 8, 2014 :: <a href="tickets.php"><span class="earlybird"><?php if (time() < strtotime('2014-10-01')) echo 'Early Bird ';?>Tickets on Sale Now</span></a></h2>
                </div>
                <div class="ribbon-edge-topleft"></div>
                <div class="ribbon-edge-topright"></div>
