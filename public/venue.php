@@ -59,7 +59,7 @@ $page = 'venue';
                      <li>
                         <h3><a href="http://www.mississauga.ca/portal/miway/routesschedules" title="MiWay Route Planner">TTC (Toronto) &amp; MiWay (Mississauga) Route 108 North</a> and</h3>
                         <div>Via MiWay, the venue may be reached on the 108 (Meadowvale Business Express North). In turn, the TTC has provided a MiWay transit hub at Islington Station.</div>
-                        <img alt="MiWay Route 108: Meadowvale Business Express (North)
+                        <img alt="MiWay Route 108: Meadowvale Business Express (North)"
                            height="502"
                            src="img/miway.gif"
                            width="550">
