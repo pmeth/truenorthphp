@@ -30,10 +30,16 @@ $page = 'sponsors';
             <div class="span12">
                <h2>Current sponsors</h2>
             </div>
-         </div>
-         <div class="row" style="margin-bottom: 20px">
-            <div class="span12">
-               <h3>Platinum Level</h3>
+            <div class="row">
+               <div class="span12">
+                  <h3>Gold Level</h3>
+               </div>
+               <div class="thumbnail span3">
+                  <a href="http://www.example.com/"><img alt="Company" src="http://www.dummyimage.com/210x94/000/fff&text=Your+Name+Here" width="210" height="94"></a>
+               </div>
+               <div class="span8">
+                  Coming soon...
+               </div>
             </div>
          </div>
          <div class="row" style="margin-bottom: 20px">

@@ -31,9 +31,9 @@ $page = 'venue';
                      </p>
                      <h3>Dates</h3>
                      <p>
-                        Thursday, November 7<br>
-                        Friday, November 8<br>
-                        Saturday, November 9
+                        Thursday, November 6<br>
+                        Friday, November 7<br>
+                        Saturday, November 8
                      </p>
                   </div>
                </div>
@@ -68,7 +68,7 @@ $page = 'venue';
                         <h3><a href="http://www.gotransit.com/timetables/en/schedules/sysmap.aspx" title="MiWay Route Planner">Go Transit (Ontario) Milton Route</a></h3>
                         <div>Via the Milton Go Transit route, Meadowvale Station is nearest to the venue. See the above graphic (centre&ndash;left section) for more.</div>
                      </li>
-                  </ul>              
+                  </ul>
                </div>
             </div>
             <div class="row">
@@ -78,15 +78,13 @@ $page = 'venue';
             </div>
             <div class="row hotels">
                <div class="span8">
-                  We have negotiated a preferred rate of $90/night at the Four Points Sheraton.<br>
+                  We have negotiated a preferred rate of $95/night at the Four Points Sheraton.<br>
                   When calling, be sure to request the True North PHP rate.<br>
-                  If you prefer to book online, please book via the following link:
-                  <a href="https://www.starwoodmeeting.com/StarGroupsWeb/res?id=1309042784&key=6E00A">Book Now</a><br>
                   <br>
                   <h3>Four Points by Sheraton</h3>
                   2501 Argentia Road,<br>
                   Mississauga, ON L5N 4G8<br>
-                  (905) 858-2424
+                  1-800-368-7764
                </div>
             </div>
          </div>

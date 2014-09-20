@@ -22,8 +22,24 @@ $extra_css = array('css/index.css');
                   <div class="row">
                      <hr>
                      <div class="span8 centered-text">
-                        <h1 style="float: left;">Videos are posted</h1>
-                        <a href="tickets.php" class="btn btn-large btn-success">Watch Now</a>
+                        <h1 style="float: left;">Speakers have been announced</h1>
+                        <a href="speakers.php" class="btn btn-large btn-warning">View the List</a>
+                     </div>
+                  </div>
+                  <div class="row">
+                     <hr>
+                  </div>
+				  <div class="row">
+                     <div class="span8 centered-text">
+                        <?php if (time() < strtotime('2014-09-01')) : ?>
+                           <h1 style="float:left">Tickets on sale soon </h1>
+                        <?php elseif (time() < strtotime('2014-10-01')) : ?>
+                           <h1 style="float:left">Tickets from just $225</h1>
+                           <h6 class="pull-right">Hurry, prices go up Oct 1st!</h6>
+                        <?php else : ?>
+                           <h1 style="float:left">Tickets just $275 for 2 days</h1>
+                        <?php endif; ?>
+                        <a href="tickets.php" class="btn btn-large btn-success pull-right">Order Your Tickets Now</a>
                      </div>
                   </div>
                </div>

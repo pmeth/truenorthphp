@@ -34,8 +34,12 @@
   margin-bottom: 50px;
 }
 
-.juice_bar, .hackathon {
-	font-weight: bold;
+.sponsored, .hackathon {
+  font-weight: bold;
+}
+
+.tutorial_day .talk_title {
+  width: 428px;
 }
 
 .talk_title {
