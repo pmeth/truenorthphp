@@ -17,7 +17,7 @@
                   <a href="sponsors.php">Sponsors</a>
                </li>
                <li id="buy-tickets" class="<?php echo $page == 'tickets' ? 'active' : ''; ?>">
-                  <a href="tickets.php">Videos</a>
+                  <a href="tickets.php">Buy Tickets</a>
                </li>
             </ul>
          </div>
