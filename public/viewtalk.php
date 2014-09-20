@@ -15,10 +15,24 @@ foreach ($filenames as $filename) {
   include '../speaker_data/' . $filename;
 }
 
+$speaker = array(
+    'name' => 'Unknown Speaker',
+    'image' => 'http://www.truenorthphp.ca/img/no-pic.jpg',
+    'city' => '',
+    'country' => 'Canada',
+    'bio' => '',
+);
+
+$talk = array(
+    'title' => 'Whoooops',
+    'text' => "It seems we've made a bit of a boo boo and forgotten to include this speaker's information and talk description",
+);
 // I am aware this is sort of ridiculous, but I want to reuse the speaker data that is being forked on github.  If I planned it a bit better, I would have organized the talks separate from the speakers
-foreach ($speakers as $index => $speaker) {
-   foreach ($speaker['talks'] as $talk) {
+foreach ($speakers as $speaker_profile) {
+   foreach ($speaker_profile['talks'] as $speaker_talk) {
       if ($_GET['name'] == strtolower(preg_replace('/[^A-Za-z0-9]/','_',$talk['title']))) {
+         $speaker = $speaker_profile;
+         $talk = $speaker_talk;
          break 2; // we should now have valid $speaker and $talk variables
       }
    }
