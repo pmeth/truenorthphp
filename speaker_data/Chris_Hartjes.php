@@ -13,8 +13,8 @@ $speakers[] = array (
   He lives in Milton, Ontario, Canada with his long-suffering wife, two daughters, a furry pig masquerading as a cat, and the reincarnation of the Roman god of the underworld in feline form.',
   'talks' => array (
     array (
-      'title' => 'Programming For 1 Year 15 Times',
-      'text' => 'Reinventing yourself is becoming a necessary skill for a programmer who wants to not only remain employable but also stay interested in programmer as a career instead of a steady paycheque. Join the Grumpy Programmer for an entertaining closing talk where Chris talks about how he keeps changing who and what he is to stay grumpy.',
+      'title' => 'Closing Keynote',
+      'text' => '',
     ),
   ),
 );

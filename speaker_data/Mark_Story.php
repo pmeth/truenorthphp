@@ -2,7 +2,7 @@
 
 $speakers[] = array (
   'name' => 'Mark Story',
-  'city' => 'Toronto',
+  'city' => 'Toronto, ON',
   'country' => 'Canada',
   'twitter' => 'mark_story',
   'image' => 'http://mark-story.com/files/mark_story_web.jpg',
@@ -11,8 +11,9 @@ Github: markstory
 Web: http://mark-story.com',
   'talks' => array (
     array (
-      'title' => 'Nuts and bolts of profiling and optimization',
-      'text' => 'An overview and introduction to a variety of tools, guidelines and techniques for profiling PHP/Javascript applications. I\'ll be discussing some strategies for profiling, and improving performance. I\'ll be taking a full stack approach in this talk starting with the browser and Javascript runtime issues. Following that, we\'ll look at some simple but rewarding HTTP optimizations around caching and reducing requests. Lastly, we\'ll look at profiling PHP, what to look for and how to fix things. Some tools I\'ll be discussing are: Chrome dev tools, siege, XHprof and Xdebug. The talk will be given in the framework of some simple rules/guidelines that will hopefully help people make decisions in the future.',
+      'title' => 'CakePHP: The Yum and the Yuck',
+      'text' => 'CakePHP is part of the old guard in the framework space. Throughout its life many things have been added/removed and changed. I’ll be taking a look at some of the mistakes we made, how things went wrong, and how we’ve tried to resolve those problems.
+In addition to the framework code itself, I’ll be discussing some of the tooling around the project that people may not have considered, but are vitally important for a successful project like CakePHP.',
     ),
   ),
 );

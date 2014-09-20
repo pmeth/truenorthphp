@@ -2,17 +2,16 @@
 
 $speakers[] = array (
   'name' => 'Paul Reinheimer',
-  'city' => 'Toronto',
+  'city' => 'Toronto, ON',
   'country' => 'Canada',
   'twitter' => '',
   'image' => 'http://www.gravatar.com/avatar/7a15cc3b03fe7e914a5261d38a0442d8?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
-  'bio' => NULL,
+  'bio' => '',
   'talks' => array (
     array (
-      'title' => 'Bootstrapping my startup, 3 years in',
-      'text' => 'I launched WonderProxy in 2009 on my American Express. Since then we\'ve grown to having hundreds of active _paying_ users, operating in 50+ countries, all without ever having a full time paid employee.
-The world of startup buzz seems to reward companies that take huge investments, pull in thousands of users who never pay a dime, then fold a few years later. We\'re not that kind of business, and we don\'t want to be.
-This mostly non-technical talk will tell the story of the business, the major challenges we\'ve faced, and a fair amount of advice for the non-vc-seeking startup crowd.',
+      'title' => 'The technology powering WonderProxy',
+      'text' => 'Yesterday WonderProxy routed 6.5TB of traffic for it\'s customers. The proxies run squid, but: sign up, sever selection, authentication management, administration, and cancellation are all managed in PHP or bash scripts.
+This talk will present how the technology has changed over time, what\'s worked, what\'s failed. Come to poke holes in our database design, and to hear about the times we updated the users table without a `where` clause.',
     ),
   ),
 );
