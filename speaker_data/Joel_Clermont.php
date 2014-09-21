@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Milwaukee, WI',
   'country' => 'USA',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/2fe1b2866cfd498a513295d60d5cad0f?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => '/img/speakers/joel_clermont.jpg',
   'bio' => 'PHP and C# developer living in the Milwaukee area. Organizer of Milwaukee PHP and Milwaukee Functional Programming user groups. Addicted to learning, teaching and growing the developer community. Currently obsessed with functional programming.',
   'talks' => array (
     array (

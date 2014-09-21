@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Manchester',
   'country' => 'UK',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/a298fade27a9c2ebe7bea8f93997b5c6?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => '/img/speakers/emma_jane_westby.jpg',
   'bio' => '',
   'talks' => array (
     array (

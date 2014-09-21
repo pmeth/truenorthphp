@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Albuquerque, NM',
   'country' => 'USA',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/6a23644e178a695f7bcfb9fbdc28f6e6?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => '/img/speakers/gemma_anible.jpg',
   'bio' => '',
   'talks' => array (
     array (

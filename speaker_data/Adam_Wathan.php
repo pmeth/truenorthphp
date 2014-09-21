@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Toronto, ON',
   'country' => 'Canada',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/34147b9eecf59779b777eb68a1805113?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => '/img/speakers/adam_wathan.jpg',
   'bio' => 'Adam is a full-stack developer at Vehikl in Waterloo, ON and has worked with PHP for over 12 years. He\'s passionate about software design, test-driven development and building great products. He is an active open-source contributor and co-organizes the Laravel KW user group. When he\'s not writing code, he\'s winning gold medals at Canadian powerlifting competitions.',
   'talks' => array (
     array (

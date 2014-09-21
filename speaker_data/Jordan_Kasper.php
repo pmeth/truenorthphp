@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'Washington DC - National ',
   'country' => 'USA',
   'twitter' => '',
-  'image' => 'http://www.gravatar.com/avatar/f441bc8d508101ba0a1eac95d6cd52c6?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => '/img/speakers/jordan_kasper.jpg',
   'bio' => 'Shortly after it arrived at his home in 1993, Jordan began disassembling his first computer - his mother was not happy. She breathed more easily when he moved from hardware into programming, starting with BASIC. Jordan\'s experience includes multiple startups, companies large and small, and one large university. He contributes to a few open source projects and participates in local user groups, barcamps, and hackathons. Jordan\'s primary mission for over 10 years has been to use JavaScript, HTML, and CSS to elevate web applications above their desktop rivals. He currently works as a Sr. JavaScript Engineer and Team lead for appendTo, a leader in front-end software solutions, specializing in JavaScript, jQuery, HTML5 and mobile development. In his down time he enjoys puzzles of all sorts and board games.',
   'talks' => array (
     array (
