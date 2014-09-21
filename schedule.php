@@ -323,11 +323,32 @@
                      </td>
         </tr>
         <tr class="schedule_slot">
-            <th>16:00<br>to<br>17:00</th>
+            <th>16:00</th>
+            <td class="info">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=pimping_zend_framework_applications_with_apigility">Pimping Zend Framework Applications with Apigility</a>
+                </div>
+                <div class="talk_speaker">Michelangelo Van Dam</div>
+            </td>
+            <td class="warning">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=writing_code_that_lasts">Writing Code That Lasts</a>
+                </div>
+                <div class="talk_speaker">Rafael Dohms</div>
+            </td>
+             <td class="error">
+                <div class="talk_title">
+
+                </div>
+                <div class="talk_speaker"></div>
+             </td>
+        </tr>
+        <tr class="schedule_slot">
+            <th>17:15<br>to<br>18:00</th>
             <td class="success" colspan="3"><div class="talk_title"><a class="fancybox fancybox.iframe" href="viewtalk.php?name=closing_keynote">Closing Keynote</a></div><div class="talk_speaker">Chris Hartjes</div></td>
         </tr>
         <tr class="schedule_slot">
-            <th>18:00<br>to<br>close</th>
+            <th>18:30<br>to<br>close</th>
             <td colspan="3">
                 <div class="hackathon">
                     True North PHP Social<br>
