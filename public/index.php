@@ -50,7 +50,7 @@ $extra_css = array('css/index.css');
                         <a width="260" height="462" class="twitter-timeline" data-chrome="noheader nofooter" href="https://twitter.com/search?q=truenorthphp+OR+tnphp" data-widget-id="349723122125131776">Tweets about truenorthphp</a>
                      </div>
                   </div>
-                  <div style="margin-top: 20px;" class="fb-like-box" data-href="http://www.facebook.com/pages/True-North-PHP-Conference/354963517930838?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
+                  <div style="margin-top: 20px;" class="fb-like-box" data-href="https://www.facebook.com/TrueNorthConference?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
                </div>
             </div>
          </div>
