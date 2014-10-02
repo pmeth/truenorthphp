@@ -152,7 +152,7 @@
             <th>14:45</th>
             <td class="info">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=zero_to_the_php_league__the_story_of_how_plates_became_a_thing">Zero to The PHP League: The story of how Plates became a thing</a>
+                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=zero_to_the_php_league__the_story_of_plates">Zero to The PHP League: The story of Plates</a>
                         </div>
                         <div class="talk_speaker">Jonathan Reinink</div>
             </td>
