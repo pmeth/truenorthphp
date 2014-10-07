@@ -13,8 +13,8 @@ if (!isset($_COOKIE['mobileNoPrompt'])){
   if ($detect->isMobile()) {
     // if mobile Device move to mobile prompt page
 
-    header('Location: mobile.php');
-    exit;
+    //header('Location: mobile.php');
+    //exit;
   }
 }
 
