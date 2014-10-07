@@ -36,26 +36,20 @@ $page = 'sponsors';
                   <h3>Gold Level</h3>
                </div>
                <div class="thumbnail span3">
-                  <a href="http://www.github.com/"><img alt="Github" src="img/github-logo.png" width="220" height="58"></a>
+                  <a href="http://www.github.com/"><img alt="Github" src="img/sponsors/github-logo.png" width="220" height="58"></a>
                </div>
                <div class="span8">
-                  <b>GitHub is the best place to share code<b> with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together.
-							 </div>
-            </div>
-            <div class="row" style="margin-top: 30px;">
-               <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="Company" src="http://www.dummyimage.com/210x94/000/fff&text=Your+Name+Here" width="210" height="94"></a>
-               </div>
-               <div class="span8">
-                  Coming soon...
+                  <b><a href="http://www.github.com">GitHub</a> is the best place to share code<b> with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together.
                </div>
             </div>
             <div class="row" style="margin-top: 30px;">
-               <div class="thumbnail span3">
-                  <a href="http://www.truenorthphp.com/"><img alt="Le Company" src="http://www.dummyimage.com/210x40/000/fff&text=Your+Name+Here" width="210" height="40"></a>
+               <div class="thumbnail span3" style="margin-top: 44px;">
+                  <a href="http://www.demacmedia.com/"><img alt="Demac Media" src="img/sponsors/demac-logo.png" width="210" height="82"></a>
                </div>
                <div class="span8">
-                  Coming soon...
+                  <a href="http://www.demacmedia.com/">Demac Media</a> is an award winning full service eCommerce agency with offices in Toronto, Montreal and New York City. As a Magento Gold Solutions Partner, our vast expertise makes us a strategic part of our customers’ online businesses. With a focus on delivering agile business solutions to digital merchants, we are responsible for much of the technology that powers the eCommerce operations of Ardene, Bench, and Mackage, to name a few. Our ideal merchant is one that values innovation and agility, someone not afraid to walk the bleeding edge of eCommerce. We’re a team of strategists; designers and developers who help merchants build and grow strong eCommerce businesses. It’s our undeterred focus on all things Commerce that has established Demac Media as an industry leader.<br>
+<br>
+We're excited to be a part of TrueNorthPHP this year, as we strongly believe in supporting not only our eCommerce community, but the open source community as well. We're looking forward to interacting and networking with everyone at this conference. Please stop by and say hello! We're always looking for great talent to join our ever expanding team.
                </div>
             </div>
             <div class="row">
@@ -66,27 +60,19 @@ $page = 'sponsors';
                   <h3>Silver Level</h3>
                </div>
                <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x105/000/fff&text=Your+Name+Here" width="210" height="105" /></a>
+                    <a href="http://www.mercatustechnologies.com/"><img alt="Mercatus" src="img/sponsors/mercatus-logo.jpg" width="220" height="46"></a>
                </div>
                <div class="span8">
-                  Coming soon...
+                    <b><a href="http://www.mercatustechnologies.com/">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
                </div>
             </div>
-            <div class="row" style="margin-top: 30px;">
-               <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x210/000/fff&text=Your+Name+Here" width="210" height="210" /></a>
-               </div>
-               <div class="span8">
-                  Coming soon...
-               </div>
-            </div>
-            <div class="row" style="margin-top: 30px;">
-               <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x61/000/fff&text=Your+Name+Here" width="210" height="61" /></a>
-               </div>
-               <div class="span8">
-                  Coming soon...
-               </div>
+            <div class="row" style="margin-top: 30px">
+                <div class="thumbnail span3">
+                    <a href="http://www.sunshinephp.com/"><img alt="Sunshine PHP" src="img/sponsors/sunshinephp-logo.png" style="margin: 10px 0;" width="220" height="78"></a>
+                </div>
+                <div class="span8">
+                    In February it's cold in most areas of the world, but it's always warm and sunny in Florida.  Take a break from the freezing snow and enjoy a bit of warm sunshine, while talking about PHP in Miami, Florida this coming February.<br><br>Find out more at <a href="http://www.sunshinephp.com/">www.sunshinephp.com</a>
+                </div>
             </div>
             <div class="row">
                <hr>
@@ -98,28 +84,10 @@ $page = 'sponsors';
             </div>
             <div class="row">
                <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x109/000/fff&text=Your+Name+Here" width="210" height="109" /></a>
+                  <a href="http://www.shootproof.com/"><img alt="Shootproof" src="img/sponsors/shootproof-logo.png" width="210" height="41" /></a>
                </div>
                <div class="span8">
-                  Coming soon...
-                </div>
-            </div>
-            <br>
-            <div class="row">
-               <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/220x33/000/fff&text=Your+Name+Here" width="220" height="33" /></a>
-               </div>
-               <div class="span8">
-                  Coming soon...
-                </div>
-            </div>
-            <br>
-            <div class="row">
-               <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/211x56/000/fff&text=Your+Name+Here" width="211" height="56" /></a>
-               </div>
-               <div class="span8">
-                  Coming soon...
+                  <a href="http://www.shootproof.com/">ShootProof</a> provides photographers all of the tools they need to easily share, sell, and print their work online. With beautiful online galleries, an easy-to-use shopping cart, integration with pro labs for print fulfillment, and free mobile apps for clients, ShootProof’s goal is to help photographers succeed.
                 </div>
             </div>
             <div class="row">
@@ -129,29 +97,11 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Community Level</h3>
                </div>
-               <div class="span2">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/120x120/000/fff&text=Your+Name+Here" width="120" height="120" /></a>
-               </div>
-               <div class="span2">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/110x165/000/fff&text=Your+Name+Here" width="110" height="165" /></a>
-               </div>
-               <div class="span2">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/165x165/000/fff&text=Your+Name+Here" width="165" height="165" /></a>
+               <div class="span2" style="padding-top: 10px;">
+                  <a href="http://gtaphp.org/"><img alt="GTA PHP Meetup Group" src="img/sponsors/gtaphp-logo.jpg" width="120" height="120" /></a>
                </div>
                <div class="span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x73/000/fff&text=Your+Name+Here" width="210" height="73" /></a>
-                  <br>
-                  <br>
-                  <br>
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x51/000/fff&text=Your+Name+Here" width="210" height="51"></a>
-               </div>
-               <div class="span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/180x180/000/fff&text=Your+Name+Here" width="180" height="180"></a>
-               </div>
-            </div>
-            <div class="row">
-               <div class="span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/205x124/000/fff&text=Your+Name+Here" width="205" height="124"></a>
+                  <a href="http://www.phparch.com/"><img alt="php[architect]" src="img/sponsors/phparchitect-logo.png" width="169" height="180"></a>
                </div>
             </div>
          </div>
