@@ -125,6 +125,9 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                <div class="span3">
                   <a href="http://www.phparch.com/"><img alt="php[architect]" src="img/sponsors/phparchitect-logo.png" width="169" height="180"></a>
                </div>
+               <div class="span3">
+                  <a href="http://www.wurstcon.com/"><img alt="WurstCon" src="img/sponsors/wurstcon-logo.png" width="180" height="180"></a>
+               </div>
             </div>
          </div>
       </div>
