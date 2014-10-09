@@ -33,13 +33,35 @@ $page = 'sponsors';
             </div>
             <div class="row">
                <div class="span12">
+                  <h3>Platinum Level</h3>
+               </div>
+               <div class="span5">
+                    <div class="thumbnail">
+                  <a href="http://www.redflagdeals.com/"><img alt="RedFlagDeals.com" src="img/sponsors/redflagdeals-logo.png" width="360" height="66"></a>
+                    </div>
+                    <div class="thumbnail" style="margin-top: 40px">
+                  <a href="http://www.yellowpages.ca/"><img alt="Yellow Pages" src="img/sponsors/yellowpages-logo.png" width="320" height="71"></a>
+                    </div>
+               </div>
+               <div class="span6">
+<a href="http://www.redflagdeals.com">RedFlagDeals.com</a> is a leading provider of online promotions and shopping tools to Canadians. The site provides thousands of deals and coupons across multiple categories to help Canadians in making smart purchasing decisions and finding the best deals and savings. RedFlagDeals.com is owned and operated by Yellow Pages.<br>
+<br>
+<a href="http://www.yellowpages.ca/">Yellow Pages</a> is a Canadian digital media and marketing solutions company helping businesses meet their key marketing objectives and providing consumers with platforms to access reliable local business information. By helping local businesses foster stronger relationships with their consumers through its various media, Yellow Pages encourages the growth of thriving neighbourhood economies. Yellow Pages holds some of Canada's leading local search properties and publications including YP.ca&trade;, Canada411.ca and RedFlagDeals.com&trade;, the YP, ShopWise andRedFlagDeals mobile applications and Yellow Pages&trade; print directories. Yellow Pages is also a leader in national digital advertising through Mediative, a division of Yellow Pages devoted to digital marketing and performance media services for agencies and consumers across the country.
+               </div>
+            </div>
+            <div class="row">
+               <hr>
+            </div>
+            <div class="row">
+               <div class="span12">
                   <h3>Gold Level</h3>
                </div>
                <div class="thumbnail span3">
                   <a href="http://www.github.com/"><img alt="Github" src="img/sponsors/github-logo.png" width="220" height="58"></a>
                </div>
                <div class="span8">
-                  <b><a href="http://www.github.com">GitHub</a> is the best place to share code<b> with friends, co-workers, classmates, and complete strangers. Over three million people use GitHub to build amazing things together.
+                  <b><a href="http://www.github.com">GitHub</a> is the best place to share code</b> with friends, co-workers, classmates, and complete strangers.
+                  Over three million people use GitHub to build amazing things together.
                </div>
             </div>
             <div class="row" style="margin-top: 30px;">
@@ -63,7 +85,7 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                     <a href="http://www.mercatustechnologies.com/"><img alt="Mercatus" src="img/sponsors/mercatus-logo.jpg" width="220" height="46"></a>
                </div>
                <div class="span8">
-                    <b><a href="http://www.mercatustechnologies.com/">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
+                    <a href="http://www.mercatustechnologies.com/">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
                </div>
             </div>
             <div class="row" style="margin-top: 30px">
