@@ -128,6 +128,9 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                <div class="span3">
                   <a href="http://www.wurstcon.com/"><img alt="WurstCon" src="img/sponsors/wurstcon-logo.png" width="180" height="180"></a>
                </div>
+               <div class="span3">
+                  <a href="http://www.phpconference.co.nz/"><img alt="New Zealand PHP Conference" src="img/sponsors/phpnz-logo.png" width="170" height="170"></a>
+               </div>
             </div>
          </div>
       </div>
