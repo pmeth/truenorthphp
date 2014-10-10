@@ -338,9 +338,9 @@
             </td>
              <td class="error">
                 <div class="talk_title">
-
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=new_dog__old_tricks__how_we_are_moving_from_a_legacy_framework_to_symfony2">New dog, old tricks; how we are moving from a legacy framework to Symfony2</a>
                 </div>
-                <div class="talk_speaker"></div>
+                <div class="talk_speaker">Tyler Lawson</div>
              </td>
         </tr>
         <tr class="schedule_slot">
