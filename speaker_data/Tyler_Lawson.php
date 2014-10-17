@@ -6,7 +6,7 @@ $speakers[] = array (
   'country' => 'Canada',
   'twitter' => '',
   'image' => '/img/speakers/tyler_lawson.jpg',
-  'bio' => 'Tyler Lawson has been developing in LAMP environments for over 10 years.  Currently he\'s attempting to break his long-held bad developer habits, applying SOLID and TDD principles in an uphill battle against his own code.',
+  'bio' => 'Tyler is a Senior Developer on the RedFlagDeals team, part of Yellow Pages Group.  Tyler has been developing in LAMP environments for over 10 years.  Currently he\'s attempting to break his long-held bad developer habits, applying SOLID and TDD principles in an uphill battle against his own code.',
   'talks' => array (
     array (
       'title' => 'New Dog, Old Tricks; How we are moving from a legacy framework to Symfony2',
