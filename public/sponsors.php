@@ -132,6 +132,20 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                   <a href="http://www.phpconference.co.nz/"><img alt="New Zealand PHP Conference" src="img/sponsors/phpnz-logo.png" width="170" height="170"></a>
                </div>
             </div>
+            <div class="row">
+               <hr>
+            </div>
+            <div class="row">
+               <div class="span12">
+                  <h3>Scholarship Providers</h3>
+               </div>
+               <div class="span4">
+                  <a href="http://www.phpwomen.org/"><img alt="PHP Women" src="img/sponsors/phpwomen-logo.png" width="249" height="113"></a>
+               </div>
+               <div class="span4">
+                  <a href="http://www.dflydev.com/"><img alt="Dragonfly Development" src="img/sponsors/dragonflydev-logo.png" width="300" height="113"></a>
+               </div>
+            </div>
          </div>
       </div>
 <?php require '../footer.php'; ?>
