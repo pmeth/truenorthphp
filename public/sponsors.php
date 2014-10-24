@@ -143,7 +143,7 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                   <a href="http://www.phpwomen.org/"><img alt="PHP Women" src="img/sponsors/phpwomen-logo.png" width="249" height="113"></a>
                </div>
                <div class="span4">
-                  <a href="http://www.dflydev.com/"><img alt="Dragonfly Development" src="img/sponsors/dragonflydev-logo.png" width="300" height="113"></a>
+                  <a href="http://dflydev.com/tnphp14/"><img alt="Dragonfly Development" src="img/sponsors/dragonflydev-logo.png" width="300" height="113"></a>
                </div>
             </div>
          </div>
