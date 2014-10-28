@@ -112,6 +112,14 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                   <a href="http://www.shootproof.com/">ShootProof</a> provides photographers all of the tools they need to easily share, sell, and print their work online. With beautiful online galleries, an easy-to-use shopping cart, integration with pro labs for print fulfillment, and free mobile apps for clients, ShootProof’s goal is to help photographers succeed.
                 </div>
             </div>
+            <div class="row" style="margin-top: 30px">
+               <div class="thumbnail span3">
+                  <a href="https://www.heroku.com/"><img alt="Heroku" src="img/sponsors/heroku-logo.png" width="220" height="58" /></a>
+               </div>
+               <div class="span8">
+                  <a href="https://www.heroku.com/">Heroku</a>, a <a href="http://www.salesforce.com">salesforce.com</a> company and industry pioneer in platform as a service, has enabled developers to build and run more than four million applications all entirely in the cloud, without the need to purchase or maintain any servers or software. With support for the most popular languages, an enterprise-class database service, and an add-ons ecosystem featuring over 150 cloud application services, Heroku provides companies from startups to Fortune 500 enterprises with a faster and more effective way to create, deploy and manage apps.
+                </div>
+            </div>
             <div class="row">
                <hr>
             </div>

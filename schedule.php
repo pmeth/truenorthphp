@@ -194,7 +194,7 @@
             <th>18:00<br>to<br>22:00</th>
             <td colspan="3">
                 <div class="hackathon">
-                    Hackathon
+                    Azure API Challenge
                 </div>
             </td>
         </tr>
