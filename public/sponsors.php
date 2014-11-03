@@ -89,11 +89,11 @@ We're excited to be a part of TrueNorthPHP this year, as we strongly believe in 
                </div>
             </div>
             <div class="row" style="margin-top: 30px">
-                <div class="thumbnail span3">
-                    <a href="http://www.sunshinephp.com/"><img alt="Sunshine PHP" src="img/sponsors/sunshinephp-logo.png" style="margin: 10px 0;" width="220" height="78"></a>
+                <div class="span3" style="width: 230px;">
+                    <a href="http://www.zend.com/"><img alt="Zend" class="thumbnail" src="img/sponsors/zend-logo.png" width="95" height="120"></a>
                 </div>
                 <div class="span8">
-                    In February it's cold in most areas of the world, but it's always warm and sunny in Florida.  Take a break from the freezing snow and enjoy a bit of warm sunshine, while talking about PHP in Miami, Florida this coming February.<br><br>Find out more at <a href="http://www.sunshinephp.com/">www.sunshinephp.com</a>
+                    <a href="http://www.zend.com/">Zend</a> provides an end-to-end solution for rapid delivery of PHP applications. We empower companies to deliver innovation faster. Our customers speed up their release cycles and improve application quality by using Zend Server, our platform for Continuous Delivery of PHP applications. Zend Server equips development and operations teams with the infrastructure and insight to support rapid application releases, and provides PHP applications with capabilities that ensure high levels of reliability, performance and security, both on-premise and in the cloud.
                 </div>
             </div>
             <div class="row">
