@@ -35,6 +35,8 @@ $page = 'sponsors';
                <div class="span12">
                   <h3>Platinum Level</h3>
                </div>
+            </div>
+            <div class="row">
                <div class="span5">
                     <div class="thumbnail">
                   <a href="http://www.redflagdeals.com/"><img alt="RedFlagDeals.com" src="img/sponsors/redflagdeals-logo.png" width="360" height="66"></a>
@@ -47,6 +49,18 @@ $page = 'sponsors';
 <a href="http://www.redflagdeals.com">RedFlagDeals.com</a> is a leading provider of online promotions and shopping tools to Canadians. The site provides thousands of deals and coupons across multiple categories to help Canadians in making smart purchasing decisions and finding the best deals and savings. RedFlagDeals.com is owned and operated by Yellow Pages.<br>
 <br>
 <a href="http://www.yellowpages.ca/">Yellow Pages</a> is a Canadian digital media and marketing solutions company helping businesses meet their key marketing objectives and providing consumers with platforms to access reliable local business information. By helping local businesses foster stronger relationships with their consumers through its various media, Yellow Pages encourages the growth of thriving neighbourhood economies. Yellow Pages holds some of Canada's leading local search properties and publications including YP.ca&trade;, Canada411.ca and RedFlagDeals.com&trade;, the YP, ShopWise andRedFlagDeals mobile applications and Yellow Pages&trade; print directories. Yellow Pages is also a leader in national digital advertising through Mediative, a division of Yellow Pages devoted to digital marketing and performance media services for agencies and consumers across the country.
+               </div>
+            </div>
+            <div class="row" style="margin-top: 40px;">
+               <div class="span5">
+                    <div class="thumbnail">
+                  <a href="http://blogs.msdn.com/b/cdndevs/archive/2014/10/31/its-all-about-being-open.aspx"><img alt="Microsoft Azure" src="img/sponsors/azure-logo.png" width="360" height="83"></a>
+                    </div>
+               </div>
+               <div class="span6">
+                    Microsoft Azure is open, flexible and a scalable platform which is a great choice for app creation. Azure supports virtual machines on several Linux flavors such as CentOS, Ubuntu, Suse. Not only does it support open platforms but also open development tools. Support for the various development tools is pretty exhaustive. For example, look into what we have in store for Azure and PHP at the <a href="http://azure.microsoft.com/en-us/develop/php/" target="_blank">PHP Development Centre</a>, a rich resource for tutorials and documentation, which will enable you to get started with development on the cloud. Also look into the support for <a href="https://visualstudiogallery.msdn.microsoft.com/6eb51f05-ef01-4513-ac83-4c5f50c95fb5" target="_blank">PHP tools for Visual Studio</a>, which provides a well known editor for PHP, HTML/JAVA/CSS support and most importantly integration with Azure itself.<br>
+                    <br>
+                    <a href="http://blogs.msdn.com/b/cdndevs/archive/2014/10/31/its-all-about-being-open.aspx">Read more...</a>
                </div>
             </div>
             <div class="row">
