@@ -14,7 +14,7 @@ $speakers[] = array (
 
 This workshop explores the benefits, characteristics, pitfalls and approaches of the platform, and walks the audience through the preparation and creation of applications, their configuration, and all the best practices and methodologies that will allow them to get the most out of Heroku upon their first deploy, from dependency management over development/production parity to scaling up (and down again).
 
-For the brave ones, we\'ll sprinkle in some advanced Web server configuration, performance tuning and even a round of HHVM and Hack. I\'m expecting people to be familiar with Composer and Git already. Should be no problem for me to bring some platform credit vouchers for everyone, but the platform is free for hobby users anyway.',
+For the brave ones, we\'ll sprinkle in some advanced Web server configuration, performance tuning and even a round of HHVM and Hack.',
     ),
     array (
       'title' => 'The Twelve-Factor App: Best Practices for PHP on Platforms-as-a-Service',
