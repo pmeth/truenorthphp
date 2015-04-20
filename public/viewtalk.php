@@ -64,8 +64,8 @@ foreach ($speakers as $speaker_profile) {
                      class="country-flag"
                      src="img/flags/<?php echo $speaker['country']; ?>.png"
                      width="24" height="24"
-                     alt="<?php echo ($speaker['city'] ? $speaker['city'] . ', ' : '') . $speaker['country']; ?>"
-                     title="<?php echo ($speaker['city'] ? $speaker['city'] . ', ' : '') . $speaker['country']; ?>"
+                     alt="<?php echo ($speaker['city'] ? $speaker['city'] . ', ' : '') , $speaker['country']; ?>"
+                     title="<?php echo ($speaker['city'] ? $speaker['city'] . ', ' : '') , $speaker['country']; ?>"
                   >
                      <?php echo $speaker['name']; ?>
    <?php if (!empty($speaker['twitter'])) : ?>
