@@ -31,9 +31,9 @@ $page = 'venue';
                      </p>
                      <h3>Dates</h3>
                      <p>
-                        Thursday, November 6<br>
-                        Friday, November 7<br>
-                        Saturday, November 8
+                        Thursday, November 5<br>
+                        Friday, November 6<br>
+                        Saturday, November 7
                      </p>
                   </div>
                </div>
@@ -71,6 +71,7 @@ $page = 'venue';
                   </ul>
                </div>
             </div>
+			<!--
             <div class="row">
                <div class="span12">
                   <h2>Conference Hotel</h2>
@@ -87,6 +88,7 @@ $page = 'venue';
                   1-800-368-7764
                </div>
             </div>
+			-->
          </div>
       </div>
 <?php include '../footer.php'; ?>
