@@ -1,7 +1,7 @@
 True North PHP Sponsorship Prospectus
 =====================================
 
-Thanks so much for your interest in sponsoring the 2014 True North PHP conference. For the past 2 years we have brought leading speakers from around the globe to Toronto. Everyone who attends has a great time and leaves with many new ideas.
+Thanks so much for your interest in sponsoring the 2015 True North PHP conference. For the past 2 years we have brought leading speakers from around the globe to Toronto. Everyone who attends has a great time and leaves with many new ideas.
 
 With the help of generous donations from sponsors like you, this year's conference will be bigger and better. We are confident that we have sponsorship options that allow you to be a part of this year's event. 
 
