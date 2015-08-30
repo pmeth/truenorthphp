@@ -5,18 +5,15 @@ $speakers[] = array (
   'city' => 'Toronto, ON',
   'country' => 'Canada',
   'twitter' => '',
-  'image' => '/img/speakers/adam_wathan.jpg',
-  'bio' => 'Adam is a full-stack developer at Vehikl in Waterloo, ON and has worked with PHP for over 12 years. He\'s passionate about software design, test-driven development and building great products. He is an active open-source contributor and co-organizes the Laravel KW user group. When he\'s not writing code, he\'s winning gold medals at Canadian powerlifting competitions.',
+  'image' => 'http://cfp.truenorthphp.ca/uploads/hmKzm7ueaOrde4vPH0YHqHIsTqgksI8Ua1S0vaBQ.jpeg',
+  'bio' => 'Adam is a senior developer at <a href="http://tighten.co">Tighten Co</a> and has worked with PHP for over 12 years. He\'s passionate about software design, test-driven development and building great products. He is an active open-source contributor and the host of the <a href="http://fullstackradio.com">Full Stack Radio</a> podcast. When he\'s not writing code, he\'s <a href="https://www.youtube.com/watch?v=2-J-DCbsQzo">winning gold medals</a> at Canadian powerlifting competitions.',
   'talks' => array (
     array (
-      'title' => 'TDD: The Good Parts',
-      'text' => 'Test-driven development can be hard, and a lot of the “rules” can often become a distraction from the real reasons you\'re writing tests in the first place. In this talk, you’ll find out what the real benefits of TDD are, what really makes code “good”, and why testability shouldn’t be your only yardstick for measuring code quality. I’ll also show you some of the pitfalls of a “purist” testing approach, and give you strategies you can use to test-first without sacrificing simplicity or expressiveness in your code.
-If you’ve ever given up on testing because it seemed so hard to do everything “by the book”, this talk will feel like a breath of fresh air and give you the tools you need to start writing tests that really matter.',
-    ),
-    array (
-      'title' => 'Decoupling your packages from your framework',
-      'text' => 'It\'s really fun to build a package that adds some awesome functionality to your favourite framework. If you\'re not careful however, you can end up releasing something that nobody could use outside of Framework-X no matter how hard they try.
-In this talk, I\'ll walkthrough building a framework agnostic package. You\'ll learn about important OO design principles like dependency injection, interfaces, and encapsulation, and see how we can integrate our package with a modern framework like Laravel, or the messiest legacy codebase you\'ve ever seen.',
+      'title' => 'Applying the 4 Rules of Simple Design',
+      'text' => 'You\'re starting a new project and this time you want to do it <b>right</b> Everything\'s going to be test-first, your domain model is going to be perfectly portable, and your framework will be nothing but a mere detail.
+But as soon as your fingers hit the keyboard you\'re paralyzed.
+Should I use a command for this? How can I test this piece without hitting the database? Should these two things happen in the same place or should I fire an event?
+This talk is about taking a step back and thinking about what really makes your code <b>good</b> Using Kent Beck\'s four simple rules, I\'ll teach you how to get unstuck and stop worrying about the future by embracing emergent design and writing great code <b>now</b>',
     ),
   ),
 );

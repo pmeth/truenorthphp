@@ -12,15 +12,18 @@ $page = 'tickets';
                </div>
                <div class="span12">
                   <p>There are only 250 tickets available for True North PHP, so buy your tickets early before they sell out.</p>
-<?php if (time() < strtotime('2015-10-01')) : ?>
-                  <p>Early bird tickets are just $225 until October 1.</p>
-<?php else : ?>
-                  <p>Tickets are just $275 until event day.</p>
+<?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>
+                  <p>Early bird tickets are on sale soon.</p>
+<?php elseif ($view->ticket->getSaleState() === Ticket::EARLY) : ?>
+                  <p>Early bird tickets are just $<?= $view->ticket->getEarlyPrice() ?> until <?= $view->ticket->getEarlyEnd()->format('F j') ?>.</p>
+<?php elseif ($view->ticket->getSaleState() === Ticket::OPEN) : ?>
+                  <p>Tickets are just $<?= $view->ticket->getRegularPrice() ?> until event day.</p>
+<?php elseif ($view->ticket->getSaleState() === Ticket::CLOSED) : ?>
+                  <p>Tickets sales have ended. See you next year.</p>
 <?php endif; ?>
                   <p>
-				      <ul>
-					      <li>Conference/Early Bird ticket gives you access to all the events on Friday November 6 and Saturday November 7.</li>
-				          <li>Tutorial day tickets give you access to all sessions on Thursday, November 5.</li>
+                      <ul>
+                          <li>Conference/Early Bird ticket gives you access to tutorial day on Thursday, November 5 plus all the sessions and events on Friday November 6 and Saturday November 7.</li>
                       </ul>
                   </p>
                   <p style="color:red; font-weight:bold">** Please note that all ticket sales are final and we are unable to offer refunds.</p>
@@ -28,10 +31,11 @@ $page = 'tickets';
                <div class="span12">
                   <hr>
                </div>
-			   <!--
+<?php if ($view->ticket->getSaleState() === Ticket::EARLY
+          || $view->ticket->getSaleState() === Ticket::OPEN) : ?>
                <div class="span12" >
                   <iframe
-                     src="//eventbrite.ca/tickets-external?eid=13016932997&ref=etckt"
+                     src="//eventbrite.ca/tickets-external?eid=18356486746&ref=etckt"
                      frameborder="0"
                      height="352"
                      width="100%"
@@ -41,15 +45,17 @@ $page = 'tickets';
                      marginwidth="5"
                      scrolling="auto"
                      allowtransparency="true"
-                     ></iframe>
+                  ></iframe>
                   <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
-                     <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.ca/r/etckt">Event registration</a>
-                     <span style="color:#ddd;">for</span>
-                     <a style="color:#ddd; text-decoration:none;" target="_blank" href="https://www.eventbrite.ca/e/true-north-php-conference-2014-tickets-13016932997?ref=etckt">True North PHP Conference 2014</a>
-                     <span style="color:#ddd;">powered by</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.ca?ref=etckt">Eventbrite</a>
+                     <a
+                         class="powered-by-eb"
+                         style="color: #dddddd; text-decoration: none;"
+                         target="_blank"
+                         href="http://www.eventbrite.ca/r/etckt"
+                     >Powered by Eventbrite</a>
                   </div>
                </div>
-			   -->
+<?php endif; ?>
             </div>
          </div>
       </div>

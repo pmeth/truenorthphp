@@ -11,9 +11,10 @@ Github: markstory
 Web: http://mark-story.com',
   'talks' => array (
     array (
-      'title' => 'CakePHP: The Yum and the Yuck',
-      'text' => 'CakePHP is part of the old guard in the framework space. Throughout its life many things have been added/removed and changed. I’ll be taking a look at some of the mistakes we made, how things went wrong, and how we’ve tried to resolve those problems.
-In addition to the framework code itself, I’ll be discussing some of the tooling around the project that people may not have considered, but are vitally important for a successful project like CakePHP.',
+      'title' => 'Freshbooks spaghetti to SOA',
+      'text' => 'I\'ve been a developer at FreshBooks for almost 6 years. Our technology stack was at one point a monolithic flying spaghetti monster. Today FreshBooks is built out of many small services.
+This talk will be about some of the strategies we used to increase test coverage, pay down technical debt and continue to deliver new features to customers. I\'ll also talk about some of the mistakes we made along the way and how you can hopefully avoid the same mistakes.
+',
     ),
   ),
 );

@@ -1,6 +1,9 @@
 <?php
 $page = 'index';
 $extra_css = array('css/index.css');
+
+$view->cfpOpen = false;
+
 ?>
 <?php include '../header.php'; ?>
       <div class="content-wrapper">
@@ -19,22 +22,23 @@ $extra_css = array('css/index.css');
                         Part of our mission is to bring you a great lineup of speakers.  To accomplish that we are reaching out to PHP experts from Toronto and around the world.  We are sure you will recognize many of them as being leaders of the PHP community, respected authors and renowned public speakers.  We also want to give newer speakers the opportunity to showcase their expertise.  All-in-all True North PHP promises to feature a spectacular lineup of engaging and high quality talks that you won't soon forget.
                      </div>
                   </div>
-<!--
-                  <div class="row">
-                     <hr>
-                     <div class="span8 centered-text">
-                        <h1 style="float: left;">Speakers have been announced</h1>
-                        <a href="speakers.php" class="btn btn-large btn-warning">View the List</a>
-                     </div>
-                  </div>
--->
+<?php if ($view->cfpOpen) : ?>
                   <div class="row">
                      <hr>
                      <div class="span8 centered-text">
                         <h1 style="margin-bottom: 10px;">Call for Papers is Now Open</h1>
-                        <a href="http://cfp.truenorthphp.ca" class="btn btn-giant btn-warning">Submit Your Talk</a>
+                        <a href="http://cfp.truenorthphp.ca" class="btn btn-giant btn-warning pull-right">Submit Your Talk</a>
                      </div>
                   </div>
+<?php elseif ($view->speakersAnnounced) : ?>
+                  <div class="row">
+                     <hr>
+                     <div class="span8 centered-text">
+                        <h1 style="float: left;">Speakers have been announced</h1>
+                        <a href="speakers.php" class="btn btn-large btn-warning pull-right">View the List</a>
+                     </div>
+                  </div>
+<?php endif; ?>
                   <div class="row">
                      <hr>
                   </div>
@@ -47,18 +51,18 @@ $extra_css = array('css/index.css');
                   <div class="row">
                      <hr>
                   </div>
-				  <div class="row">
+                  <div class="row">
                      <div class="span8 centered-text">
-                        <?php if (time() < strtotime('2015-09-01')) : ?>
+<?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>
                            <h1 style="float:left">Tickets on sale soon </h1>
-                        <?php elseif (time() < strtotime('2015-10-01')) : ?>
-                           <h1 style="float:left">Tickets from just $225</h1>
-                           <h6 class="pull-right">Hurry, prices go up Oct 1st!</h6>
+<?php elseif ($view->ticket->getSaleState() === Ticket::EARLY) : ?>
+                           <h1 style="float:left">Tickets from just $<?= $view->ticket->getEarlyPrice() ?></h1>
+                           <h6 class="pull-right">Hurry, prices go up <?= $view->ticket->getEarlyEnd()->format('M jS') ?>!</h6>
                            <a href="tickets.php" class="btn btn-large btn-success pull-right">Order Your Tickets Now</a>
-                        <?php else : ?>
-                           <h1 style="float:left">Tickets just $275 for 2 days</h1>
+<?php elseif ($view->ticket->getSaleState() === Ticket::OPEN) : ?>
+                           <h1 style="float:left">Tickets just $<?= $view->ticket->getRegularPrice() ?> for 3 days</h1>
                            <a href="tickets.php" class="btn btn-large btn-success pull-right">Order Your Tickets Now</a>
-                        <?php endif; ?>
+<?php endif; ?>
                      </div>
                   </div>
                </div>
