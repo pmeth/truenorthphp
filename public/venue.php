@@ -45,7 +45,28 @@ $page = 'venue';
             </div>
             <div class="row">
                <div class="span12">
-                  <h2>Public Transit</h2>
+                  <h2>Conference Hotel</h2>
+               </div>
+            </div>
+            <div class="row hotels">
+               <div class="span8">
+                  We have negotiated a preferred rate of $99/night at the Four Points Sheraton.<br>
+                  When calling, be sure to request the True North PHP rate.<br>
+                  <br>
+                  <h3>Four Points by Sheraton</h3>
+                  2501 Argentia Road,<br>
+                  Mississauga, ON L5N 4G8<br>
+                  1-800-368-7764
+               </div>
+            </div>
+            <div class="row">
+               <div class="span12">
+                  <hr>
+               </div>
+            </div>
+            <div class="row">
+               <div class="span12">
+                  <h2>Getting to the Venue by Public Transit</h2>
                </div>
             </div>
             <div class="row hotels">
@@ -71,24 +92,6 @@ $page = 'venue';
                   </ul>
                </div>
             </div>
-			<!--
-            <div class="row">
-               <div class="span12">
-                  <h2>Conference Hotel</h2>
-               </div>
-            </div>
-            <div class="row hotels">
-               <div class="span8">
-                  We have negotiated a preferred rate of $95/night at the Four Points Sheraton.<br>
-                  When calling, be sure to request the True North PHP rate.<br>
-                  <br>
-                  <h3>Four Points by Sheraton</h3>
-                  2501 Argentia Road,<br>
-                  Mississauga, ON L5N 4G8<br>
-                  1-800-368-7764
-               </div>
-            </div>
-			-->
          </div>
       </div>
 <?php include '../footer.php'; ?>
