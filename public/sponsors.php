@@ -123,10 +123,12 @@ We keep our engagement to the PHP community and do what we can to make things po
             <br>
             <div class="row">
                <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/211x56/000/fff&text=Your+Name+Here" width="211" height="56" /></a>
+                  <a href="http://www.mobilexco.com/"><img alt="The Mobile Experience Company" src="/img/sponsors/mobilexco-logo.png" width="210" height="49" /></a>
                </div>
                <div class="span8">
-                  Coming soon...
+                    MobileXCo - "The Mobile Experience Company" is made up of specialists with over 50 years of digital, marketing, social and mobile expertise. While we have a variety of backgrounds and experiences, we share a common belief.<br><br>
+                    "Marketing is about relationships. And relationships begin and end with people. People like you and me."<br><br>
+                    This is the guiding force behind everything we do – from the development of our technology, the data we capture, to the campaigns we execute.
                 </div>
             </div>
             <div class="row">
@@ -136,8 +138,8 @@ We keep our engagement to the PHP community and do what we can to make things po
                <div class="span12">
                   <h3>Community Level</h3>
                </div>
-               <div class="span2">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/120x120/000/fff&text=Your+Name+Here" width="120" height="120" /></a>
+               <div class="span2" style="padding-top: 10px;">
+                  <a href="http://gtaphp.org/"><img alt="GTA PHP Meetup Group" src="/img/sponsors/gtaphp-logo.jpg" width="120" height="120" /></a>
                </div>
                <div class="span2">
                   <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/110x165/000/fff&text=Your+Name+Here" width="110" height="165" /></a>
