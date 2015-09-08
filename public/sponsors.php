@@ -78,10 +78,14 @@ $page = 'sponsors';
                   <h3>Silver Level</h3>
                </div>
                <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x105/000/fff&text=Your+Name+Here" width="210" height="105" /></a>
+                  <a href="http://www.in2it.be/"><img alt="in2it" src="/img/sponsors/in2it-logo.png" width="210" height="149" /></a>
                </div>
                <div class="span8">
-                  Coming soon...
+                  In2it is the leading PHP consulting firm in the Benelux offering services to international enterprises, small to mid-sized businesses, governmental institutes, educational and non-profit organizations. We’re a market leader in consulting for PHP and Zend Framework application architectures, quality assurance on PHP projects and we provide training courses on-site and online.<br>
+<br>
+We are driven to face difficult challenges and turn them into success stories for our customers while coaching and training their development teams to operate at higher levels. This ensures knowledge stays inside the organisation and the whole team is more motivated.<br>
+<br>
+We keep our engagement to the PHP community and do what we can to make things possible.
                </div>
             </div>
             <div class="row" style="margin-top: 30px;">
@@ -110,19 +114,10 @@ $page = 'sponsors';
             </div>
             <div class="row">
                <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/210x109/000/fff&text=Your+Name+Here" width="210" height="109" /></a>
+                  <a href="http://www.pluralsight.com/"><img alt="Pluralsight" src="/img/sponsors/pluralsight-logo.png" width="220" height="18" /></a>
                </div>
                <div class="span8">
-                  Coming soon...
-                </div>
-            </div>
-            <br>
-            <div class="row">
-               <div class="thumbnail span3">
-                  <a href="http://www.example.com/"><img alt="A Sponsor" src="http://www.dummyimage.com/220x33/000/fff&text=Your+Name+Here" width="220" height="33" /></a>
-               </div>
-               <div class="span8">
-                  Coming soon...
+                  Founded in 2004, Pluralsight is the global leader in online learning for professional software developers, IT specialists and creative technologists. As the world’s largest curated professional development platform for professionals, the company offers instant access to over 4,000 courses authored by top experts. With customers in more than 150 countries, Pluralsight serves as a career catalyst, delivering hands-on, practical training for the most in-demand and understaffed jobs of today. For more information, visit <a href="http://www.pluralsight.com">Pluralsight.com</a>.
                 </div>
             </div>
             <br>
