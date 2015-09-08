@@ -1,4 +1,4 @@
-<div class="day_number">Day #1 (Tutorial Day) - Thursday, November 6, 2014</div>
+<div class="day_number">Day #1 (Tutorial Day) - Thursday, November 5, 2015</div>
 <table class="table schedule_day tutorial_day">
     <thead>
         <tr>
@@ -17,18 +17,18 @@
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>09:00</th>
+            <th>09:30</th>
             <td class="warning">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_javascript_testing">Introduction to JavaScript Testing</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=managing_dependencies_with_composer">Managing Dependencies with Composer</a>
                 </div>
-                <div class="talk_speaker">Jordan Kasper</div>
+                <div class="talk_speaker">Beau Simensen</div>
             </td>
             <td class="error">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=elephants_in_the_clouds__mastering_php_on_heroku">Elephants in the clouds: mastering PHP on Heroku</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=deploy_anything__control_everything__scale_effortlessly__deis">Deploy Anything, Control Everything, Scale Effortlessly: Deis</a>
                 </div>
-                <div class="talk_speaker">David Zuelke</div>
+                <div class="talk_speaker">Davey Shafik</div>
             </td>
         </tr>
         <tr class="schedule_slot">
@@ -36,24 +36,24 @@
             <td colspan="2"><div class="talk_title">Lunch</div></td>
         </tr>
         <tr class="schedule_slot">
-            <th>13:30<br>to<br>17:00</th>
+            <th>13:30<br>to<br>16:30</th>
             <td class="info">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=clean_application_development">Clean Application Development</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=zero_to_api_with_lumen">Zero to API with Lumen</a>
                 </div>
-                <div class="talk_speaker">Adam Culp</div>
+                <div class="talk_speaker">Amanda Folson</div>
             </td>
             <td class="success">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=git_for_teams_of_one_or_more">Git for Teams of One or More</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=is_your_api_misbehaving_">Is Your API Misbehaving?</a>
                 </div>
-                <div class="talk_speaker">Emma Jane Westby</div>
+                <div class="talk_speaker">Keith Casey</div>
             </td>
         </tr>
     </tbody>
 </table>
 
-<div class="day_number">Day #2 - Friday, November 7, 2014</div>
+<div class="day_number">Day #2 - Friday, November 6, 2015</div>
 <table class="table schedule_day">
     <thead>
         <tr>
@@ -73,128 +73,128 @@
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>09:00</th>
+            <th>10:00</th>
             <td class="error" colspan="3">
                 <div class="talk_title keynote">
                     <a class="fancybox fancybox.iframe" href="viewtalk.php?name=opening_keynote">Opening Keynote</a>
                 </div>
-                        <div class="talk_speaker">Emma Jane Westby</div>
+                <div class="talk_speaker">Christina Truong</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>10:15</th>
+            <th>11:15</th>
             <td class="warning">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=the_technology_powering_wonderproxy">The technology powering WonderProxy</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=freshbooks_spaghetti_to_soa">Freshbooks spaghetti to SOA</a>
                 </div>
-                <div class="talk_speaker">Paul Reinheimer</div>
+                <div class="talk_speaker">Mark Story</div>
             </td>
             <td class="success">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=beyond_mvc__from_model_to_domain">Beyond MVC: from Model to Domain</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=driving_quality_with_phpspec">Driving Quality with PhpSpec</a>
                 </div>
-                        <div class="talk_speaker">Jeremy Cook</div>
+                <div class="talk_speaker">Ciaran McNulty</div>
             </td>
             <td class="warning">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=contributing_to_core__my_journey_to_add_array_column___to_the_php_core">Contributing to Core: My Journey to Add array_column() to the PHP Core</a>
-                        </div>
-                        <div class="talk_speaker">Ben Ramsey</div>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=promises_and_generators_in_php_5_5">Promises and Generators in PHP 5.5</a>
+                </div>
+                <div class="talk_speaker">Evert Pot</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>11:30</th>
-            <td class="success">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=the_code_manifesto__empowering_our_community">The Code Manifesto: Empowering Our Community</a>
-                        </div>
-                        <div class="talk_speaker">Kayla Daniels</div>
-            </td>
-            <td class="error">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=cakephp__the_yum_and_the_yuck">CakePHP: The Yum and the Yuck</a>
-                        </div>
-                        <div class="talk_speaker">Mark Story</div>
-            </td>
-            <td class="info">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=multiple_elephpants__one_box__inside_virtphp">Multiple ElePHPants, One Box: Inside virtPHP</a>
-                        </div>
-                        <div class="talk_speaker">Jacques Woodcock</div>
-            </td>
-        </tr>
-        <tr class="schedule_slot">
-            <th>12:30</th>
+            <th>12:15</th>
             <td colspan="3"><div class="talk_title">Lunch</div></td>
         </tr>
-        <tr class="schedule_slot"><th>13:30</th>
-            <td class="error">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=building_software_fast">Building software fast</a>
-                        </div>
-                        <div class="talk_speaker">Juozas Kaziukenas</div>
-                </div>
-            </td>
-            <td class="warning">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=testing_spaghetti">Testing Spaghetti</a>
-                        </div>
-                        <div class="talk_speaker">Gemma Anible</div>
-            </td>
-            <td class="error">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=hack___why_should_i_care_">Hack - Why Should I Care?</a>
-                        </div>
-                        <div class="talk_speaker">Joel Clermont</div>
-            </td>
-        </tr>
         <tr class="schedule_slot">
-            <th>14:45</th>
+            <th>13:15</th>
+            <td class="success">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=owasp_top_10">OWASP Top 10</a>
+                </div>
+                <div class="talk_speaker">Ilia Alshanetsky</div>
+            </td>
+            <td class="error">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=puli__php_s_next_package_revolution">Puli: PHP's Next Package Revolution</a>
+                </div>
+                <div class="talk_speaker">Bernhard Schussek</div>
+            </td>
             <td class="info">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=zero_to_the_php_league__the_story_of_plates">Zero to The PHP League: The story of Plates</a>
-                        </div>
-                        <div class="talk_speaker">Jonathan Reinink</div>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=if_you_build_it__they_won_t_come">If You Build It, They Won't Come</a>
+                </div>
+                <div class="talk_speaker">Amanda Folson</div>
+            </td>
+        </tr>
+        <tr class="schedule_slot">
+            <th>14:30</th>
+            <td class="error">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=stop_making_the_user_wait__job_queues_to_the_rescue">Stop making the user wait! Job queues to the rescue</a>
+                </div>
+                <div class="talk_speaker">Mariano Iglesias</div>
+            </td>
+            <td class="warning">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=elm__a_new_approach_to_building_the_front_end">Elm: A new approach to building the front end</a>
+                </div>
+                <div class="talk_speaker">Joel Clermont</div>
             </td>
             <td class="error">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=why_you_should_know_how_php_works">Why you should know how PHP works</a>
-                        </div>
-                        <div class="talk_speaker">Elizabeth Smith</div>
-            </td>
-            <td class="success">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=how_to_be_a_great_developer">How To Be A Great Developer</a>
-                        </div>
-                        <div class="talk_speaker">Edward Finkler</div>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=docker__contain_all_the_things">Docker: Contain All The Things</a>
+                </div>
+                <div class="talk_speaker">Davey Shafik</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>16:00<br>to<br>17:00</th>
-            <td class="warning">
+            <th>15:45</th>
+            <td class="info">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=symfony2___getting_started">Symfony2 - Getting Started</a>
-                        </div>
-                        <div class="talk_speaker">Margaret Staples</div>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=adventures_in_symfony2___building_an_mmo_rpg">Adventures in Symfony2 - Building an MMO-RPG</a>
+                </div>
+                <div class="talk_speaker">Margaret Staples</div>
+            </td>
+            <td class="error">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=mysql__3_json">MySQL &lt;3 JSON</a>
+                </div>
+                <div class="talk_speaker">Morgan Tocker</div>
             </td>
             <td class="success">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=tdd__the_good_parts">TDD: The Good Parts</a>
-                        </div>
-                        <div class="talk_speaker">Adam Wathan</div>
-            </td>
-            <td class="warning">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=how_the_police_use_php">How the Police use PHP</a>
-                        </div>
-                        <div class="talk_speaker">Joseph Ryan Glover</div>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=voodoo_php">Voodoo PHP</a>
+                </div>
+                <div class="talk_speaker">Marco Pivetta</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>18:00<br>to<br>22:00</th>
+            <th>17:00<br>to<br>18:00</th>
+            <td class="warning">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=an_open_source_story__bringing_sculpin_to_life">An Open Source Story: Bringing Sculpin to Life</a>
+                </div>
+                <div class="talk_speaker">Beau Simensen</div>
+            </td>
+            <td class="success">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=the_neuroscience___psychology_behind_open_source_communities">The Neuroscience & Psychology Behind Open Source Communities</a>
+                </div>
+                <div class="talk_speaker">Elizabeth Naramore Barron</div>
+            </td>
+            <td class="warning">
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=reduce_the_grump__a_tech_writing_primer_for_reluctant_developers">Reduce the Grump: A Tech Writing Primer for Reluctant Developers</a>
+                </div>
+                <div class="talk_speaker">Allison Moore</div>
+            </td>
+        </tr>
+        <tr class="schedule_slot">
+            <th>19:00<br>to<br>22:00</th>
             <td colspan="3">
                 <div class="hackathon">
-                    Azure API Challenge
+                    Coding With Friends Social
                 </div>
             </td>
         </tr>
@@ -202,7 +202,7 @@
     </tbody>
 </table>
 
-<div class="day_number">Day #3 - Saturday, November 8, 2014</div>
+<div class="day_number">Day #3 - Saturday, November 7, 2015</div>
 <table class="table schedule_day">
     <thead>
         <tr>
@@ -214,146 +214,112 @@
     </thead>
     <tbody>
         <tr class="schedule_slot">
-            <th>09:00</th>
-            <td class="error">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=object_oriented_javascript__yes__it_really_exists_">Object-Oriented JavaScript (yes, it really exists)</a>
+            <th>10:00</th>
+            <td class="error" colspan="3">
+                <div class="talk_title keynote">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=stronger_than_fear__mental_health_in_the_developer_community">Stronger Than Fear: Mental Health in the Developer Community</a>
                 </div>
-                        <div class="talk_speaker">Jordan Kasper</div>
-            </td>
-            <td class="success">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=upcoming_changes_in_mysql_5_7">Upcoming Changes in MySQL 5.7</a>
-                </div>
-                        <div class="talk_speaker">Morgan Tocker</div>
-            </td>
-            <td class="info">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=reframing_the_problem__how_to_think_like_a_computer_scientist">Reframing The Problem: How To Think Like A Computer Scientist</a>
-                </div>
-                        <div class="talk_speaker">Daniel Cousineau</div>
+                <div class="talk_speaker">Edward Finkler</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>10:15</th>
+            <th>11:15</th>
             <td class="warning">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=decoupling_your_packages_from_your_framework">Decoupling your packages from your framework</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=couchbase_and_nosql_use_cases">Couchbase and NoSQL Use-cases</a>
                 </div>
-                        <div class="talk_speaker">Adam Wathan</div>
+                <div class="talk_speaker">Don Pinto</div>
             </td>
             <td class="info">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=security_is_not_a_feature__it_s_a_state_of_mind">Security Is Not a Feature, It's a State of Mind</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=action_domain_responder__a_web_specific_refinement_of_mvc">Action-Domain-Responder: A Web-Specific Refinement of MVC</a>
                 </div>
-                        <div class="talk_speaker">Elizabeth Smith</div>
+                <div class="talk_speaker">Paul Jones</div>
             </td>
             <td class="error">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=for_php_devs_with_mixed_feelings_about_javascript">For PHP devs with mixed feelings about JavaScript</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=building_great_apis">Building Great APIs</a>
                 </div>
-                        <div class="talk_speaker">Brian Graham</div>
+                <div class="talk_speaker">Ben Ramsey</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>11:30</th>
-            <td class="info">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=open_sourcing_mental_illness">Open Sourcing Mental Illness</a>
-                </div>
-                        <div class="talk_speaker">Edward Finkler</div>
-            </td>
-            <td class="success">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=refactoring_101">Refactoring 101</a>
-                </div>
-                        <div class="talk_speaker">Adam Culp</div>
-            </td>
-            <td class="warning">
-                <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=continuous_testing_in_php">Continuous Testing In PHP</a>
-                </div>
-                        <div class="talk_speaker">Eric Hogue</div>
-            </td>
-        </tr>
-        <tr class="schedule_slot">
-            <th>12:30</th>
+            <th>12:15</th>
             <td colspan="3"><div class="talk_title">Lunch</div></td>
         </tr>
         <tr class="schedule_slot">
-            <th>13:30</th>
+            <th>13:15</th>
             <td class="warning">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_oauth">Introduction to OAuth</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=drinking_from_the_firehose___real_time_metrics">Drinking from the Firehose - Real-time Metrics</a>
                 </div>
-                        <div class="talk_speaker">Matt Frost</div>
+                <div class="talk_speaker">Samantha Qui&ntilde;ones</div>
             </td>
             <td class="success">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=an_introduction_to_amazon_web_services">An introduction to Amazon Web Services</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=property_based_testing__work_smarter__not_harder_">Property-based Testing: Work Smarter, Not Harder!</a>
                 </div>
-                        <div class="talk_speaker">Sean Coates</div>
+                <div class="talk_speaker">Joel Clermont</div>
             </td>
             <td class="info">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=beyond_the_php_mountain">Beyond the PHP Mountain</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=building_your_api_utility_belt">Building your API Utility Belt</a>
                 </div>
-                        <div class="talk_speaker">Juozas Kaziukenas</div>
+                <div class="talk_speaker">Keith Casey</div>
             </td>
         </tr>
         <tr class="schedule_slot">
-            <th>14:45</th>
+            <th>14:30</th>
             <td class="warning">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=composer_best_practices">Composer Best Practices</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=enough_about_classes__let_s_talk_templates">Enough about classes, let's talk templates</a>
                 </div>
-                        <div class="talk_speaker">Jordi Boggiano</div>
+                <div class="talk_speaker">Jonathan Reinink</div>
             </td>
             <td class="error">
                 <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=dependency_injection__dependency_inversion__and_you">Dependency Injection, Dependency Inversion, and You</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=debugging__past__present_and_future">Debugging: past, present and future</a>
                 </div>
-                        <div class="talk_speaker">Jeff Carouth</div>
+                <div class="talk_speaker">Derick Rethans</div>
             </td>
                      <td class="info">
-                        <div class="talk_title">
-                           <a class="fancybox fancybox.iframe" href="viewtalk.php?name=the_twelve_factor_app__best_practices_for_php_on_platforms_as_a_service">The Twelve-Factor App: Best Practices for PHP on Platforms-as-a-Service</a>
-                        </div>
-                        <div class="talk_speaker">David Zuelke</div>
-                     </td>
+                <div class="talk_title">
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=doctrine_orm_good_practices_and_tricks">Doctrine ORM Good Practices and Tricks</a>
+                </div>
+                <div class="talk_speaker">Marco Pivetta</div>
+            </td>
         </tr>
         <tr class="schedule_slot">
-            <th>16:00</th>
+            <th>15:45</th>
             <td class="info">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=pimping_zend_framework_applications_with_apigility">Pimping Zend Framework Applications with Apigility</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=applying_the_4_rules_of_simple_design">Applying the 4 Rules of Simple Design</a>
                 </div>
-                <div class="talk_speaker">Michelangelo Van Dam</div>
+                <div class="talk_speaker">Adam Wathan</div>
             </td>
             <td class="warning">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=writing_code_that_lasts">Writing Code That Lasts</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=payment_processing__you_are_doing_it_wrong">Payment processing: you are DOING IT WRONG</a>
                 </div>
-                <div class="talk_speaker">Rafael Dohms</div>
+                <div class="talk_speaker">Mariano Iglesias</div>
             </td>
-             <td class="error">
+            <td class="error">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=new_dog__old_tricks__how_we_are_moving_from_a_legacy_framework_to_symfony2">New dog, old tricks; how we are moving from a legacy framework to Symfony2</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=why_i_love_hate_angularjs">Why I love/hate AngularJS</a>
                 </div>
-                <div class="talk_speaker">Tyler Lawson</div>
-             </td>
+                <div class="talk_speaker">Chris Boden</div>
+            </td>
         </tr>
         <tr class="schedule_slot">
-            <th>17:15<br>to<br>18:00</th>
+            <th>17:00<br>to<br>17:30</th>
             <td class="success" colspan="3"><div class="talk_title"><a class="fancybox fancybox.iframe" href="viewtalk.php?name=closing_keynote">Closing Keynote</a></div><div class="talk_speaker">Chris Hartjes</div></td>
         </tr>
         <tr class="schedule_slot">
-            <th>18:30<br>to<br>close</th>
+            <th>18:00<br>to<br>close</th>
             <td colspan="3">
                 <div class="hackathon">
                     True North PHP Social<br>
                     at the <a href="http://www.facebook.com/drakeandfirkin">Drake and Firkin</a>
-                </div>
                 </div>
             </td>
         </tr>

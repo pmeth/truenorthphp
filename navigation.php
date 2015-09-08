@@ -1,7 +1,7 @@
 <?php
 
 $view->speakersAnnounced = true;
-$view->scheduleAnnounced = false;
+$view->scheduleAnnounced = true;
 ?>
       <div class="navbar navbar-fixed-top">
          <div class="container">
