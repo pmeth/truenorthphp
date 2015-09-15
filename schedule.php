@@ -158,7 +158,7 @@
             </td>
             <td class="error">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=mysql__3_json">MySQL &lt;3 JSON</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=mysql_5_7___json">MySQL 5.7 + JSON</a>
                 </div>
                 <div class="talk_speaker">Morgan Tocker</div>
             </td>
