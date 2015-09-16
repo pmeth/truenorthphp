@@ -37,6 +37,17 @@ $page = 'sponsors';
                </div>
             </div>
             <div class="row" style="margin-top: 40px;">
+                <div class="span5">
+                    <div class="thumbnail">
+                        <a href="http://www.techcomnet.com"><img alt="TECHCOM" src="img/sponsors/techcom-logo.png" width="360" height="67"></a>
+                    </div>
+                </div>
+                <div class="span6">
+                    Founded in 1994, <a href="http://www.techcomnet.com">TECHCOM</a> is 100% Canadian-owned and operated technology and services provider, servicing 120+ organizations across North America including Schedule I and II banks and credit unions, the Canadian federal government, municipality/regional offices, default management partners (e.g. collection agencies, law firms, trustees, etc.)  Our software solutions are designed to help clients solve business problems by streamlining operations, optimizing and simplifying processes and procedures, and ultimately deepening their financial results.
+                </div>
+            </div>
+            <div class="row"><hr></div>
+            <div class="row" style="margin-top: 40px;">
                <div class="span5">
                     <div class="thumbnail">
                   <a href="http://blogs.msdn.com/b/cdndevs/archive/2014/10/31/its-all-about-being-open.aspx"><img alt="Microsoft Azure" src="img/sponsors/azure-logo.png" width="360" height="83"></a>
