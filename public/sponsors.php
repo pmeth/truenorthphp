@@ -43,7 +43,7 @@ $page = 'sponsors';
                     </div>
                 </div>
                 <div class="span6">
-                    Founded in 1994, <a href="http://www.techcomnet.com">TECHCOM</a> is 100% Canadian-owned and operated technology and services provider, servicing 120+ organizations across North America including Schedule I and II banks and credit unions, the Canadian federal government, municipality/regional offices, default management partners (e.g. collection agencies, law firms, trustees, etc.)  Our software solutions are designed to help clients solve business problems by streamlining operations, optimizing and simplifying processes and procedures, and ultimately deepening their financial results.
+                    Founded in 1994, <a href="http://www.techcomnet.com">TECHCOM</a> is 100% Canadian-owned and operated technology and services provider, servicing 120+ organizations across North America including Schedule I and II banks and credit unions, the Canadian federal government, municipality/regional offices, default management partners (e.g. collection agencies, law firms, trustees, etc.)  Our software solutions are designed to help clients solve business problems by streamlining operations, optimizing and simplifying processes and procedures, and ultimately incrementally improving their financial results.
                 </div>
             </div>
             <div class="row"><hr></div>
