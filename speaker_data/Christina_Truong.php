@@ -6,9 +6,9 @@ $speakers[] = array (
   'country' => 'Canada',
   'twitter' => 'christinatruong',
   'image' => 'http://www.gravatar.com/avatar/b52cfd1b45ad255fc5afbd0d431485e7?s=200&d=http://truenorthphp.ca/img/no-pic.jpg.jpg',
-  'bio' => 'Over the years, I\'ve had the pleasure of working with brands such as Holt Renfrew, Home Depot, Globe & Mail and Bell as a front-end developer at top digital agencies, Teehan+Lax and Nurun. The projects ranged from creating front-end templates, mobile prototypes and web apps. My stint at a software company, Field ID, involved overhauling the in-house web app\'s front-end architecture and creating a customized framework.
+  'bio' => 'With a BA in Psychology & Communications and a certificate in web development, Christina has nearly a decade of experience in the tech industry as a developer and educator.
 
-These days I\'m independent but you can catch me at various Ladies Learning Code events around the country as lead instructor and now as Technical Lead. I also teach in Humber College\'s Web Design & Interactive Media Program.',
+She got her start working at digital agencies such as Teehan+Lax and Nurun (now Razorfish) and headed up the front-end development for software company, Field ID. She also taught at Humber College, HackerYou and participates in the initiative to encourage more women to join the technology field with Ladies Learning Code as a mentor, instructor and now as Director of Curriculum.',
   'talks' => array (
     array (
       'title' => 'Opening Keynote',
