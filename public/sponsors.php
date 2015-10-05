@@ -48,6 +48,17 @@ $page = 'sponsors';
             </div>
             <div class="row"><hr></div>
             <div class="row" style="margin-top: 40px;">
+                <div class="span5">
+                    <div class="thumbnail">
+                        <a href="http://www.vehikl.com"><img alt="Vehikl" src="img/sponsors/vehikl-logo.png" width="360" height="100"></a>
+                    </div>
+                </div>
+                <div class="span6">
+                    
+                </div>
+            </div>
+            <div class="row"><hr></div>
+            <div class="row" style="margin-top: 40px;">
                <div class="span5">
                     <div class="thumbnail">
                   <a href="http://blogs.msdn.com/b/cdndevs/archive/2014/10/31/its-all-about-being-open.aspx"><img alt="Microsoft Azure" src="img/sponsors/azure-logo.png" width="360" height="83"></a>
@@ -84,6 +95,14 @@ Delvia is proud to support and serve the PHP community. We are interested in for
                <div class="span12">
                   <h3>Silver Level</h3>
                </div>
+               <div class="thumbnail span3">
+                    <a href="http://www.mercatus.com/"><img alt="Mercatus" src="img/sponsors/mercatus-logo.jpg" width="220" height="46"></a>
+               </div>
+               <div class="span8">
+                    <a href="http://www.mercatus.com/">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
+               </div>
+            </div>
+            <div class="row" style="margin-top: 30px;">
                <div class="thumbnail span3">
                   <a href="http://www.in2it.be/"><img alt="in2it" src="/img/sponsors/in2it-logo.png" width="210" height="149" /></a>
                </div>
