@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'San Francisco, CA',
   'country' => 'USA',
   'twitter' => '',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/WIuTdEnlyYNqXcynFgtkhQPZ5gyChffNIdag8zba.jpeg',
+  'image' => '/img/speakers/amanda_folson.png',
   'bio' => 'From humble beginnings as a PHP4 web developer in grade school, Amanda now works as an Associate Product Manager / Developer Evangelist at PagerDuty where she gets to share her passion for technology with others. When she\'s not speaking, writing, or shooing cats off her keyboard, you\'ll find her consuming APIs and IPAs.',
   'talks' => array (
     array (

@@ -54,7 +54,9 @@ $page = 'sponsors';
                     </div>
                 </div>
                 <div class="span6">
-                    
+                    <a href="http://www.vehikl.com">Vehikl</a> is a team of passionate software artisans and believe in test-driven development with a focus on writing clean, maintainable code.<br>
+                    <br>
+                    We believe in user-centered design and work closely with clients and their customers to deliver an experience that is both intuitive and beautiful. We work with our clients to facilitate effective project management to deliver business value.
                 </div>
             </div>
             <div class="row"><hr></div>
