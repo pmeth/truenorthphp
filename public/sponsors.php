@@ -164,6 +164,8 @@ With headquarters in Prague, Czech Republic, we also have R&amp;D labs in Russia
                <div class="span12">
                   <h3>Community Level</h3>
                </div>
+            </div>
+            <div class="row">
                <div class="span3">
                   <a href="https://voicesoftheelephpant.com/"><img alt="Voices of the ElePHPant" src="/img/sponsors/voices-of-the-elephpant-logo.png" width="180" height="180"></a>
                </div>
@@ -180,6 +182,11 @@ With headquarters in Prague, Czech Republic, we also have R&amp;D labs in Russia
                </div>
                <div class="span3">
                   <a href="https://nomadphp.com/"><img alt="Nomad PHP" src="/img/sponsors/nomad-php-logo.png" width="180" height="180"></a>
+               </div>
+            </div>
+            <div class="row">
+               <div class="span3">
+                  <a href="http://www.meetup.com/_GPUG_/"><img alt="GPUG User Group" src="/img/sponsors/gpug-logo.png" width="180" height="180"></a>
                </div>
             </div>
          </div>
