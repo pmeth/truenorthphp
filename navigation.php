@@ -25,6 +25,9 @@ $view->scheduleAnnounced = true;
                <li class="<?php echo $page == 'sponsors' ? 'active' : ''; ?>">
                   <a href="sponsors.php">Sponsors</a>
                </li>
+               <li class="<?php echo $page == 'wurstcon' ? 'active' : ''; ?>">
+                  <a href="wurstcon.php">WurstCon Toronto</a>
+               </li>
                <li id="buy-tickets" class="<?php echo $page == 'tickets' ? 'active' : ''; ?>">
                   <a href="tickets.php">Buy Tickets</a>
                </li>
