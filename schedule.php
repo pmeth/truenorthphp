@@ -291,7 +291,7 @@
             <th>15:20</th>
             <td class="error">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=applying_the_4_rules_of_simple_design">Applying The Rules of Simple Design</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=applying_the_rules_of_simple_design">Applying The Rules of Simple Design</a>
                 </div>
                 <div class="talk_speaker">Adam Wathan</div>
             </td>
