@@ -338,7 +338,7 @@
             <td colspan="3">
                 <div class="hackathon">
                     True North PHP Social<br>
-                    at the <a href="http://www.facebook.com/drakeandfirkin">Drake and Firkin</a>
+                    at <a href="http://www.fourpointsmississaugameadowvale.com/mississauga-restaurant">Taza Grill &amp Bar (inside Four Points Sheraton Hotel)</a>
                 </div>
             </td>
         </tr>
