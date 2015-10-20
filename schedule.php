@@ -151,8 +151,9 @@
             <th>15:10</th>
             <td class="info">
                 <div class="talk_title">
-                    TBD
+                    <a class="fancybox fancybox.iframe" href="dont-ask.php">PHP Gameshow</a>
                 </div>
+                <div class="talk_speaker">Don't ask, just show up</div>
             </td>
             <td class="error">
                 <div class="talk_title">
