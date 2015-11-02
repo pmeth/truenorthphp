@@ -50,9 +50,11 @@ $page = 'venue';
             </div>
             <div class="row hotels">
                <div class="span8">
+<!--
                   We have negotiated a preferred rate of $99/night at the Four Points Sheraton.<br>
                   When calling, be sure to request the True North PHP rate.<br>
                   <br>
+-->
                   <h3>Four Points by Sheraton</h3>
                   2501 Argentia Road,<br>
                   Mississauga, ON L5N 4G8<br>
