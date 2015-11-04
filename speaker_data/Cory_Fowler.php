@@ -5,13 +5,12 @@ $speakers[] = array (
   'city' => 'Redmond, WA',
   'country' => 'USA',
   'twitter' => 'cfowlermsft',
-  'image' => 'http://www.gravatar.com/avatar/01d22c0e456468ae1bb16fd17795547f.png?s=200&d=http://truenorthphp.ca/img/no-pic.jpg',
+  'image' => '/img/speakers/cory_fowler.jpg',
   'bio' => '',
   'talks' => array (
     array (
-      'title' => 'Building PHP Applications on Windows Azure',
-      'text' => 'Looking to the Cloud for your next project? Why not consider Windows Azure?
-In this talk I\'ll highlight how to get your applications running in the Cloud on Windows Azure. There are three paths to deploying your application ranging from Simple Hosting to IaaS to full on PaaS, this session will give you an all up view on how to deploy your application regardless of the path you choose.',
+      'title' => 'Getting to know Azure App Service for PHP Developers',
+      'text' => 'When venturing into the Cloud there are many choices for delivering your applications to your customers, but did you know that Platform as a Service can greatly reduce the effort for deploying, testing and scaling your applications? Join Cory Fowler as he demonstrates Azure App Service and how you can leverage its features to Deploy, Test and Scale your way to better applications.',
     ),
   ),
 );

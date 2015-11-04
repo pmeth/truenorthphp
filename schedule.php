@@ -91,7 +91,7 @@
             </td>
             <td class="success">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=building_php_applications_on_windows_azure">Building PHP Applications on Windows Azure</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=getting_to_know_azure_app_service_for_php_developers">Getting to know Azure App Service for PHP Developers</a>
                 </div>
                 <div class="talk_speaker">Cory Fowler</div>
             </td>
