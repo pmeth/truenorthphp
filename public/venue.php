@@ -31,9 +31,9 @@ $page = 'venue';
                      </p>
                      <h3>Dates</h3>
                      <p>
-                        Thursday, November 5<br>
-                        Friday, November 6<br>
-                        Saturday, November 7
+                        Thursday, November 3<br>
+                        Friday, November 4<br>
+                        Saturday, November 5
                      </p>
                   </div>
                </div>

@@ -64,12 +64,16 @@ class View
 $view = new View;
 
 $view->ticket = new Ticket(
-    new DateTime('2015-08-01'),
-    new DateTime('2015-10-01'),
-    new DateTime('2015-11-07'),
+    new DateTime('2016-08-15'),
+    new DateTime('2016-10-01'),
+    new DateTime('2016-11-07'),
     250,
     300
 );
+
+$view->cfpOpen = false;
+$view->speakersAnnounced = false;
+$view->scheduleAnnounced = false;
 
 $css = array('bootstrap/css/bootstrap.css', 'css/truenorth.css');
 if (isset($extra_css)) {
@@ -95,7 +99,7 @@ header('Content-Type: text/html; charset=UTF-8');
 <html>
    <head>
       <meta charset="UTF-8">
-      <title>True North PHP Conference - November 5-7, 2015 - Toronto, Canada</title>
+      <title>True North PHP Conference - November 3-5, 2016 - Toronto, Canada</title>
       <?php foreach ($css as $name): ?>
       <link rel="stylesheet" href="<?php echo $name ?>">
       <?php endforeach; ?>

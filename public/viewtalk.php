@@ -40,7 +40,7 @@ foreach ($speakers as $speaker_profile) {
 ?><!DOCTYPE html>
 <html>
    <head>
-      <title>True North PHP Conference - November 6-8, 2014 - Toronto, Canada</title>
+      <title>True North PHP Conference - November 3-5, 2016 - Toronto, Canada</title>
          <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
          <link rel="stylesheet" href="css/truenorth.css">
          <link href="http://fonts.googleapis.com/css?family=Buenard|Muli" rel="stylesheet" type="text/css">

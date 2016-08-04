@@ -1,8 +1,3 @@
-<?php
-
-$view->speakersAnnounced = true;
-$view->scheduleAnnounced = true;
-?>
       <div class="navbar navbar-fixed-top">
          <div class="container">
             <ul class="nav pull-right">
@@ -25,9 +20,11 @@ $view->scheduleAnnounced = true;
                <li class="<?php echo $page == 'sponsors' ? 'active' : ''; ?>">
                   <a href="sponsors.php">Sponsors</a>
                </li>
+<!--
                <li class="<?php echo $page == 'wurstcon' ? 'active' : ''; ?>">
                   <a href="wurstcon.php">WurstCon Toronto</a>
                </li>
+-->
                <li id="buy-tickets" class="<?php echo $page == 'tickets' ? 'active' : ''; ?>">
                   <a href="tickets.php">Buy Tickets</a>
                </li>
@@ -42,7 +39,7 @@ $view->scheduleAnnounced = true;
             <div class="ribbon-front">
                 <h2>
                     Toronto, Canada ::
-                    November 5 - 7, 2015 ::
+                    November 3 - 5, 2016 ::
                     <span class="earlybird">
 <?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>
                             Early Bird Tickets on Sale Soon

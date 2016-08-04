@@ -23,7 +23,7 @@ $page = 'tickets';
 <?php endif; ?>
                   <p>
                       <ul>
-                          <li>Conference/Early Bird ticket gives you access to tutorial day on Thursday, November 5 plus all the sessions and events on Friday November 6 and Saturday November 7.</li>
+                          <li>Conference/Early Bird ticket gives you access to tutorial day on Thursday, November 3 plus all the sessions and events on Friday November 4 and Saturday November 5.</li>
                       </ul>
                   </p>
                   <p style="color:red; font-weight:bold">** Please note that all ticket sales are final and we are unable to offer refunds.</p>

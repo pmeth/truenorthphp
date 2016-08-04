@@ -2,10 +2,9 @@
 $page = 'index';
 $extra_css = array('css/index.css');
 
-$view->cfpOpen = false;
+include '../header.php';
 
 ?>
-<?php include '../header.php'; ?>
       <div class="content-wrapper">
          <div class="container">
             <div class="row marketing">
