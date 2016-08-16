@@ -35,7 +35,7 @@ $page = 'tickets';
           || $view->ticket->getSaleState() === Ticket::OPEN) : ?>
                <div class="span12" >
                   <iframe
-                     src="//eventbrite.ca/tickets-external?eid=18356486746&ref=etckt"
+                     src="//eventbrite.ca/tickets-external?eid=26990188380&ref=etckt"
                      frameborder="0"
                      height="352"
                      width="100%"
