@@ -9,11 +9,22 @@ $speakers[] = array (
   'bio' => 'Adam is a senior developer at <a href="http://tighten.co">Tighten Co</a> and has worked with PHP for over 12 years. He\'s passionate about software design, test-driven development and building great products. He is an active open-source contributor and the host of the <a href="http://fullstackradio.com">Full Stack Radio</a> podcast. When he\'s not writing code, he\'s <a href="https://www.youtube.com/watch?v=2-J-DCbsQzo">winning gold medals</a> at Canadian powerlifting competitions.',
   'talks' => array (
     array (
-      'title' => 'Applying The Rules of Simple Design',
-      'text' => 'You\'re starting a new project and this time you want to do it right. Everything\'s going to be test-first, your domain model is going to be perfectly portable, and your framework will be nothing but a mere detail.<br><br>
-But as soon as your fingers hit the keyboard you\'re paralyzed.<br><br>
-"I think I\'m supposed to use a repository here right? Does that work with a command oriented architecture? Maybe I should split this out into a whole separate service?"<br><br>
-Slow down! This talk is about taking a step back and forgetting about the big picture for a minute. There\'s a beautiful symmetry between architectural thinking and low level design, and by focusing on one small problem at a time, I\'ll teach you how to stop worrying about getting everything right up front and start writing great code now.'
+      'title' => 'Curing the Common Loop (with Collection Pipelines)',
+      'text' => 'Trying to understand a complex function full of nested loops and conditionals is like trying to read a "choose your own adventure" book from front to back.
+
+In this whirlwind tour of programming with collection pipelines, you\'ll learn how to use functional programming ideas to break down complex code and abstract hidden duplication behind expressive higher order functions.
+
+Together we\'ll refactor ugly, complicated spaghetti into a series of simple, elegant transformations; free of loops, complex conditionals, and temporary variables.
+
+Never write another loop again.'
     ),
+    array (
+        'title' => 'Test Driven Laravel',
+        'text' => 'Learning how to test your code can be overwhelming. Sure, building a calculator with TDD is easy, but when you\'re trying to build a real application, things get complicated fast.
+
+What\'s the difference between a mock and a stub? Are my tests allowed to hit the database? How do I test this billing code that interacts with Stripe?
+
+Together we\'ll TDD a fresh Laravel app from scratch, never writing a line of code without writing a test first. I\'ll show you how to get the ball rolling with your application\'s very first test, how to add new features with outside-in TDD, and how to design tests that make it easy to refactor with confidence.'
+    )
   ),
 );

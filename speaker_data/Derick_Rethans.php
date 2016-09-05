@@ -10,11 +10,30 @@ $speakers[] = array (
 He has contributed in a number of ways to the PHP project, including the Xdebug debugging tool, and various extensions and additions. He\'s a frequent lecturer at conferences, the author of php|architect\'s Guide to Date and Time Programming, and the co-author of PHP 5 Power Programming. He is now working at MongoDB to work on the PHP driver for MongoDB. ',
   'talks' => array (
     array (
-      'title' => 'Debugging: past, present and future',
-      'text' => 'In this talk I will go over all the past, present and future debugging techniques. The talk start by giving an overview on PHP\'s (ancient) standard features for debugging, additional (userland) libraries and functionality in frameworks.
-After the introductions we move on to the meatier stuff and I will talk about live-action debuggers, such as Xdebug and Zend\'s debugger. They both provide information while a script is being executed, in combination with IDEs.
-I am also unveiling a project that allows you to "step back" while debugging as well; introspect what your script\'s or application\'s exact execution paths was; and trace variable modifications.
-',
+      'title' => 'Grown-up MongoDB: Schema Design',
+      'text' => 'Although MongoDB is a non-relational database, it is still very important that
+you store your data in an optimal way. This presentation make you grow up from
+just starting with MongoDB, to a seasoned user, by teaching you how to design
+your data schema according to your application\'s needs. This requires a
+different mind set than designing for a relational database.
+
+Besides schema design techniques, I will also cover how to pick indexes,
+different types of indexes, and way to find out why queries are potentially not
+as fast as they could be.'
     ),
+    array(
+        'title' => 'Locate all the things',
+        'text' => 'n this talk you will learn how to effectively store, retrieve and display
+geospatial data, such as roads, points of interests and more.
+
+First we will be importing an OpenStreetMap dataset covering Toronto into
+MongoDB. This is not trivial due to the amount of data.
+
+After importing, we will look at which types of queries we can
+run to find things. Either by predicates, or with geospatial queries.
+
+And last we will have a look at how to display the data that we\'ve requested,
+through a website using the Leaflet mapping library.'
+    )
   ),
 );

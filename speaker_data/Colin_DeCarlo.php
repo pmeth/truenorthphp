@@ -11,11 +11,10 @@ $speakers[] = array (
 <pre>Picard &gt; Kirk, vim &gt; emacs<br  >// =&gt; true, true</pre>',
   'talks' => array (
     array (
-      'title' => 'Diving Deep into JavaScript Functions',
-      'text' => 'Functions being first-class citizens in JavaScript offers developers a tremendous amount power and flexibilty. However, what good is all this power if you don\'t know how to harness it?
-This talk will provide a thorough examination of JavaScript functions. Topics that will be covered in this talk are:
-<ul><li>Functions are objects</li><li>Execution Context and the Scope Chain</li><li>Closures</li><li>Modifying Context</li><li>The Various Forms of Functions</li></ul>
-Attendees will leave this talk understanding the power of JavaScript functions and the knowledge to apply new techiques that will make their JavaScript cleaner, leaner and more maintainable.',
+      'title' => 'Keeping Eloquent Eloquent',
+      'text' => 'Laravel\'s Eloquent ORM is an Active Record implementation that makes working with databases almost even fun. It\'s simple and intuitive API is honestly a breath of fresh air.
+
+But not everything is always roses, Eloquent can\'t protect you from using in ways it wasn\'t necessarily intended to be used. This presentation pulls examples from my own experiences and highlights some of the mistakes I\'ve made while working with it. Each example is then refactored in a way which keeps Eloquent eloquent.',
     ),
   ),
 );

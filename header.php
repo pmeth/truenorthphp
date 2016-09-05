@@ -72,8 +72,8 @@ $view->ticket = new Ticket(
 );
 
 $view->cfpOpen = false;
-$view->speakersAnnounced = false;
-$view->scheduleAnnounced = false;
+$view->speakersAnnounced = true;
+$view->scheduleAnnounced = true;
 
 $css = array('bootstrap/css/bootstrap.css', 'css/truenorth.css');
 if (isset($extra_css)) {
