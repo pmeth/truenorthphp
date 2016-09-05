@@ -192,9 +192,9 @@
                 </div>
                 <div class="talk_speaker">Nata Kasbergen</div>
             </td>
-            <td class="success">
+            <td class="info">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=x">TBD</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=">TBD</a>
                 </div>
                 <div class="talk_speaker"></div>
             </td>
@@ -333,7 +333,7 @@
                 </div>
                 <div class="talk_speaker"></div>
             </td>
-            <td class="success">
+            <td class="info">
                 <div class="talk_title">
                     <a class="fancybox fancybox.iframe" href="viewtalk.php?name=deep_dive_into_browser_performance">Deep Dive Into Browser Performance</a>
                 </div>
