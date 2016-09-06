@@ -12,7 +12,7 @@ $speakers[] = array (
 
   Ed's current passion is raising mental health awareness in the tech community with his Open Sourcing Mental Illness speaking campaign.
 
-  Ed writes at funkatron.com"
+  Ed writes at funkatron.com",
   'talks' => array(
     array(
         'title' => "Grumpy and Funky Change The World",
