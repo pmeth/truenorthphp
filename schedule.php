@@ -142,7 +142,7 @@
                 <div class="talk_title">
                     <a class="fancybox fancybox.iframe" href="viewtalk.php?name=making_css_fun_again_with_sass">Making CSS fun again with Sass</a>
                 </div>
-                <div class="talk_speaker">Evert Pott</div>
+                <div class="talk_speaker">Evert Pot</div>
             </td>
             <td class="info">
                 <div class="talk_title">
