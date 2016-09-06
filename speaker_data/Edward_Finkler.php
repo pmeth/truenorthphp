@@ -16,7 +16,7 @@ $speakers[] = array (
   'talks' => array(
     array(
         'title' => "Grumpy and Funky Change The World",
-        "text" => "In June of 2012, Episode 15 of the Development Hell Podcast was released. It started a movement in the tech industry. We tell the story of how it happend, the incredible response we received, and how it grew into a non-profit organization dedicated to changing and saving lives."
+        "text" => "In June of 2012, Episode 15 of the Development Hell Podcast was released. It started a movement in the tech industry. We tell the story of how it happened, the incredible response we received, and how it grew into a non-profit organization dedicated to changing and saving lives."
     ),
   ),
 );
