@@ -6,13 +6,17 @@ $speakers[] = array (
   'country' => 'USA',
   'twitter' => 'funkatron',
   'image' => 'http://cfp.truenorthphp.ca/uploads/VMSoLbITW41HyU6X4RH342ZBABUGNE01NWWissja.jpeg',
-  'bio' => 'With over 15 years of passionate web development experience and open source advocacy, <a href="http://funkatron.com">Ed Finkler</a> loves empowering people through technology. He\'s excited about creating things and sharing them with the world.
-He served as web lead and security researcher at The Center for Education and Research in Information Assurance and Security (CERIAS) at Purdue University for 9 years. More recently, he has been helping startup teams build exciting e-commerce, social sharing, and mapping systems. He\'s the CTO of GraphStory, a startup that helps people make the best use of graph databases.  Along with Chris Hartjes, Ed is co-host of the Development Hell podcast.
-Ed spends much of his free time creating and working on open source projects such as Spaz, a long-running, award winning microblogging client. Ed also created the PHP libraries like FUnit, Resty.php, PHPSecInfo, and Inspekt.',
-  'talks' => array (
-    array (
-      'title' => 'Stronger Than Fear: Mental Health in the Developer Community',
-      'text' => 'Mental disorders are the largest contributor to disease burden in North America, but the developer community and those who employ us are afraid to face the problem head-on. In this talk, we\'ll examine the state of mental health awareness in the developer workplace, why most developers feel it isn\'t safe to talk about mental health, and what we can do to change the culture and save lives. Attendees will leave with 5 things they can do to make their workplace safer for those dealing with mental health disorders.',
+  "bio" => "Ed Finkler, also known as Funkatron, started making web sites before browsers had frames. He does front-end and server-side work in Python, PHP, and JavaScript. He is the CTO at Graph Story.
+
+  He served as web lead and security researcher at The Center for Education and Research in Information Assurance (CERIAS) at Purdue University for 9 years. Along with Chris Hartjes, Ed is co-host of the Development Hell podcast.
+
+  Ed's current passion is raising mental health awareness in the tech community with his Open Sourcing Mental Illness speaking campaign.
+
+  Ed writes at funkatron.com"
+  'talks' => array(
+    array(
+        'title' => "Grumpy and Funky Change The World",
+        "text" => "In June of 2012, Episode 15 of the Development Hell Podcast was released. It started a movement in the tech industry. We tell the story of how it happend, the incredible response we received, and how it grew into a non-profit organization dedicated to changing and saving lives."
     ),
   ),
 );

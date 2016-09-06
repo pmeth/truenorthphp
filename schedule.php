@@ -76,7 +76,7 @@
             <th>9:00</th>
             <td class="error" colspan="3">
                 <div class="talk_title keynote">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=opening_keynote">Opening Keynote</a>
+                    <a class="fancybox fancybox.iframe" href="">Dispelling Five Untruths About Programming</a>
                 </div>
                 <div class="talk_speaker">Marco Tabini</div>
             </td>
@@ -131,7 +131,7 @@
             <th>13:00</th>
             <td class="error" colspan="3">
                 <div class="talk_title keynote">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=stronger_than_fear">Stronger Then Fear</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=grumpy_and_funky_change_the_world">Grumpy and Funky Change The World</a>
                 </div>
                 <div class="talk_speaker">Ed Finkler</div>
             </td>
