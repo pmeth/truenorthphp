@@ -28,7 +28,7 @@ foreach ($filenames as $filename) {
             </div>
             <div class="row">
                <div class="span12" >
-                  We are very excited to feature the following Speakers and Talks at the True North PHP Conference.
+                  We are very excited to feature the following speakers and talks at the True North PHP Conference.
                </div>
             </div>
             <hr>
