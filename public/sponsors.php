@@ -22,7 +22,7 @@ $page = 'sponsors';
             </div>
             <div class="row">
                <div class="span12 centered-text">
-                  <a href="/files/True%20North%20PHP%20Sponsorship%20Prospectus.pdf" class="btn btn-giant btn-success">Download the Sponsorship Prospectus</a>
+                  <a href="/files/TrueNorthPHP_Sponsorship-Prospectus.pdf" class="btn btn-giant btn-success">Download the Sponsorship Prospectus</a>
                    <hr>
                </div>
             </div>
