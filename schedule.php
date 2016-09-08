@@ -45,7 +45,7 @@
             </td>
             <td class="info">
                 <div class="talk_title">
-                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_event_sourcing_and_cqrs">Is Your API Misbehaving?</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=introduction_to_event_sourcing_and_cqrs">Introduction to Event Sourcing and CQRS</a>
                 </div>
                 <div class="talk_speaker">Beau Simensen</div>
             </td>
