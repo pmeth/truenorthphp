@@ -76,7 +76,7 @@
             <th>9:00</th>
             <td class="error" colspan="3">
                 <div class="talk_title keynote">
-                    <a class="fancybox fancybox.iframe" href="">Dispelling Five Untruths About Programming</a>
+                    <a class="fancybox fancybox.iframe" href="viewtalk.php?name=dispelling_five_untruths_about_programming">Dispelling Five Untruths About Programming</a>
                 </div>
                 <div class="talk_speaker">Marco Tabini</div>
             </td>
