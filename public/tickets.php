@@ -1,15 +1,20 @@
-<?php
-$page = 'tickets';
-?>
-<?php include '../header.php'; ?>
-      <div class="content-wrapper">
-         <div class="container">
-            <div class="row">
-               <div class="span12">
-                  <div class="page-header">
-                     <h1>Buy Tickets</h1>
-                  </div>
-               </div>
+<!doctype html>
+<html class="no-js" lang="en">
+<?php include '../page_header.php' ?>
+<?php include '../view.php' ?>
+	<body id="top">
+		<!--[if lt IE 9]>
+			<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+		<![endif]-->
+<?php include '../navigation.php' ?>
+<div class="key-visual">
+
+    <h1 class="page-title"><span>Tickets</span></h1>
+
+</div>
+<?php //include '../logo.php' ?>
+</header>
+<main role="main" class="content">
                <div class="span12">
                   <p>There are only 250 tickets available for True North PHP, so buy your tickets early before they sell out.</p>
 <?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>

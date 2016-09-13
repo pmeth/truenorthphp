@@ -1,90 +1,186 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<?php include '../page_header.php' ?>
+	<body id="top">
+		<!--[if lt IE 9]>
+			<p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+		<![endif]-->
+<?php include '../navigation.php' ?>
+<?php include '../logo.php' ?>
+</header>
+
+			<main role="main" class="content">
+
+
+<section class="section-default">
+
+	<h2 class="section-title">A 3-day community-driven conference for PHP developers featuring well known speakers from around the world</h2>
+
+	<div class="grid-50-50">
+		<div class="grid__item">
+			<h3>All About Community</h3>
+			<p>We are firm believers that the PHP community is second to none. We also believe that Toronto has an awesome PHP community and deserves an equally awesome conference. Those beliefs are what inspired us to create True North PHP, a conference designed to showcase Toronto's talent and give back to the community that has given us so much.</p>
+			<p><a href="http://www.confcodeofconduct.com/">Please read our Code of Conduct</a></p>
+		</div>
+		<div class="grid__item">
+			<h3>World Class Speakers</h3>
+			<p>Part of our mission is to bring you a great lineup of speakers. To accomplish that we are reaching out to PHP experts from Toronto and around the world. We are sure you will recognize many of them as being leaders of the PHP community, respected authors and renowned public speakers. We also want to give newer speakers the opportunity to showcase their expertise. All-in-all True North PHP promises to feature a spectacular lineup of engaging and high quality talks that you won't soon forget.</p>
+		</div>
+	</div>
+
+	<section class="section-highlight">
+
+	<h2 class="section-title">@truenorthphp  #tnphp</h2>
+	<p class="subline"><a href="https://twitter.com/truenorthphp">Follow us on Twitter</a> | <a href="https://www.facebook.com/TrueNorthConference/">Join us on Facebook</a></p>
+</section>
+
+
+</section>
+
+
+<section class="section-default">
+
+	<h2 class="section-title">Our Sponsors in 2016</h2>
+
+	<div class="swiper-container swiper--sponsor-widget">
+	<!-- Additional required wrapper -->
+	<div class="swiper-wrapper">
+		<!-- Slides -->
+		<div class="swiper-slide">
+			<img src="img/sponsors/azure-logo.png" alt="azure-logo">
+		</div>
+
+		<div class="swiper-slide">
+			<img src="img/sponsors/delvia-logo.png" alt="delvia-logo">
+		</div>
+
+        <div class="swiper-slide">
+            <img src="img/sponsors/grumpy-learning.png" alt="grumpy-learning-logo">
+        </div>
+	</div>
+	<!-- If we need pagination -->
+
+
+	<!-- If we need navigation buttons -->
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+
+</div>
+
+<script>
+var mySwiper = new Swiper ('.swiper-container', {
+	loop: true,
+
+	// If we need pagination
+	// pagination: '.swiper-pagination',
+
+	// Navigation arrows
+	nextButton: '.swiper-button-next',
+	prevButton: '.swiper-button-prev',
+
+	paginationClickable: true,
+	slidesPerView: 2,
+	// slidesPerGroup: 4,
+
+	breakpoints: {
+		1024: {
+			slidesPerView: 2,
+			// slidesPerGroup: 4
+		},
+		768: {
+			slidesPerView: 2,
+			// slidesPerGroup: 3
+		},
+		640: {
+			slidesPerView: 2,
+			// slidesPerGroup: 2
+		},
+		480: {
+			slidesPerView: 1,
+			// slidesPerGroup: 1
+		}
+	}
+
+})
+</script>
+
+
+	<p><a href="https://truenorthphp.ca/files/TrueNorthPHP_Sponsorship-Prospectus.pdf" class="btn">Download The Sponsorship Prospectus</a></p>
+</section>
+
+
+<section class="section-highlight">
 <?php
-$page = 'index';
-$extra_css = array('css/index.css');
-
-include '../header.php';
-
+// Load all our speakers details so we can view them
+foreach(glob("../speaker_data/*.php") as $filename) {
+    include $filename;
+}
 ?>
-      <div class="content-wrapper">
-         <div class="container">
-            <div class="row marketing">
-               <div class="span8">
-                  <div class="row">
-                     <div class="span4">
-                        <img class="bs-icon" src="img/glyphicons/png/glyphicons_244_conversation.png">
-                        <h2>All About Community</h2>
-                        We are firm believers that the PHP community is second to none.  We also believe that Toronto has an awesome PHP community and deserves an equally awesome conference.  Those beliefs are what inspired us to create True North PHP, a conference designed to showcase Toronto's talent and give back to the community that has given us so much.
-                     </div>
-                     <div class="span4">
-                        <img class="bs-icon" src="img/glyphicons/png/glyphicons_022_fire.png">
-                        <h2>World Class Speakers</h2>
-                        Part of our mission is to bring you a great lineup of speakers.  To accomplish that we are reaching out to PHP experts from Toronto and around the world.  We are sure you will recognize many of them as being leaders of the PHP community, respected authors and renowned public speakers.  We also want to give newer speakers the opportunity to showcase their expertise.  All-in-all True North PHP promises to feature a spectacular lineup of engaging and high quality talks that you won't soon forget.
-                     </div>
-                  </div>
-<?php if ($view->cfpOpen) : ?>
-                  <div class="row">
-                     <hr>
-                     <div class="span8 centered-text">
-                        <h1 style="margin-bottom: 10px;">Call for Papers is Now Open</h1>
-                        <a href="http://cfp.truenorthphp.ca" class="btn btn-giant btn-warning pull-right">Submit Your Talk</a>
-                     </div>
-                  </div>
-<?php elseif ($view->speakersAnnounced) : ?>
-                  <div class="row">
-                     <hr>
-                     <div class="span8 centered-text">
-                        <h1 style="float: left;">Speakers have been announced</h1>
-                        <a href="speakers.php" class="btn btn-large btn-warning pull-right">View the List</a>
-                     </div>
-                  </div>
-<?php endif; ?>
-                  <div class="row">
-                     <hr>
-                  </div>
-                  <div class="row">
-                     <div class="span8 centered-text">
-                         <h1 style="float: left">Please read our Code of Conduct</h1>
-                         <a href="http://www.confcodeofconduct.com" class="btn btn-large btn-warning pull-right">Code of Conduct</a>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <hr>
-                  </div>
-                  <div class="row">
-                     <div class="span8 centered-text">
-<?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>
-                           <h1 style="float:left">Tickets on sale soon </h1>
-<?php elseif ($view->ticket->getSaleState() === Ticket::EARLY) : ?>
-                           <h1 style="float:left">Tickets from just $<?= $view->ticket->getEarlyPrice() ?></h1>
-                           <h6 class="pull-right">Hurry, prices go up <?= $view->ticket->getEarlyEnd()->format('M jS') ?>!</h6>
-                           <a href="tickets.php" class="btn btn-large btn-success pull-right">Order Your Tickets Now</a>
-<?php elseif ($view->ticket->getSaleState() === Ticket::OPEN) : ?>
-                           <h1 style="float:left">Tickets just $<?= $view->ticket->getRegularPrice() ?> for 3 days</h1>
-                           <a href="tickets.php" class="btn btn-large btn-success pull-right">Order Your Tickets Now</a>
-<?php endif; ?>
-                     </div>
-                  </div>
-               </div>
-               <div class="span4">
-                  <div id="twitter2" class="twitter" style="background-color: rgb(243, 243, 243); padding: 19px; border: 1px solid rgb(221, 221, 221); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
-                     <div class="twitterSearchTitle"><span>Twitter: <a href="https://twitter.com/search?q=truenorthphp%20OR%20tnphp&amp;src=typd">@truenorthphp / #tnphp</a></span></div>
-                     <div class="twitterSearchContainter" style="overflow: hidden; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); height: 460px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px;">
-                        <a width="260" height="462" class="twitter-timeline" data-chrome="noheader nofooter" href="https://twitter.com/search?q=truenorthphp+OR+tnphp" data-widget-id="349723122125131776">Tweets about truenorthphp</a>
-                     </div>
-                  </div>
-                  <div style="margin-top: 20px;" class="fb-like-box" data-href="https://www.facebook.com/TrueNorthConference?ref=ts&amp;fref=ts" data-stream="false" data-width="300" data-show-faces="true" data-stream="true" data-header="true"></div>
-               </div>
-            </div>
-         </div>
-      </div>
-<?php include '../footer.php'; ?>
-<div id="fb-root"></div>
-      <!-- start: for facebook like box -->
 
-      <script type="text/javascript" id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&appId=11696639907"></script>
-      <script type="text/javascript" id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script>
-      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-      <script type="text/javascript" src="http://malsup.github.com/jquery.corner.js"></script>
-      <script type="text/javascript" src="http://malsup.github.com/chili-1.7.pack.js"></script>
-   </body>
+	<h2 class="section-title">We are very excited to feature the following Speakers and Talks at the True North PHP Conference</h2>
+
+	<!-- Slider main container -->
+	<div class="swiper-container swiper--speaker-widget">
+		<!-- Additional required wrapper -->
+		<div class="swiper-wrapper">
+<?php foreach ($speakers as $speaker) : ?>
+			<div class="swiper-slide">
+				<img class="speaker-widget__img" src="<?php echo $speaker['image'] ?>" alt="<?php echo $speaker['name']?>">
+				<h3 class="speaker-widget__name"><?php echo $speaker['name'] ?></h3>
+			</div>
+<?php endforeach; ?>
+		</div>
+		<!-- If we need pagination -->
+
+
+		<!-- If we need navigation buttons -->
+		<div class="swiper-button-prev"></div>
+		<div class="swiper-button-next"></div>
+
+	</div>
+
+	<script>
+	var mySwiper = new Swiper ('.swiper-container', {
+		loop: true,
+
+		// If we need pagination
+		// pagination: '.swiper-pagination',
+
+		// Navigation arrows
+		nextButton: '.swiper-button-next',
+		prevButton: '.swiper-button-prev',
+
+		paginationClickable: true,
+		slidesPerView: 4,
+		// slidesPerGroup: 4,
+
+		breakpoints: {
+			1024: {
+				slidesPerView: 4,
+				// slidesPerGroup: 4
+			},
+			768: {
+				slidesPerView: 3,
+				// slidesPerGroup: 3
+			},
+			640: {
+				slidesPerView: 2,
+				// slidesPerGroup: 2
+			},
+			480: {
+				slidesPerView: 1,
+				// slidesPerGroup: 1
+			}
+		}
+
+	})
+	</script>
+
+	<p><a href="speakers.php" class="btn">More About The Speakers</a> <a href="schedule.php" class="btn">Schedule Of All Talks</a></p>
+</section>
+
+
+			</main>
+<?php include '../footer.php' ?>
+	</body>
 </html>
