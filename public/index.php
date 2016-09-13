@@ -105,7 +105,7 @@ var mySwiper = new Swiper ('.swiper-container', {
 </script>
 
 
-	<p><a href="https://truenorthphp.ca/files/TrueNorthPHP_Sponsorship-Prospectus.pdf" class="btn">Download The Sponsorship Prospectus</a></p>
+	<p><a href="sponsors.php" class="btn">More About The Sponsors</a> <a href="https://truenorthphp.ca/files/TrueNorthPHP_Sponsorship-Prospectus.pdf" class="btn">Download The Sponsorship Prospectus</a></p>
 </section>
 
 
