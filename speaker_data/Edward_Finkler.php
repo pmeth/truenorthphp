@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'West Lafayette, IN',
   'country' => 'USA',
   'twitter' => 'funkatron',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/VMSoLbITW41HyU6X4RH342ZBABUGNE01NWWissja.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/VMSoLbITW41HyU6X4RH342ZBABUGNE01NWWissja.jpeg',
   "bio" => "Ed Finkler, also known as Funkatron, started making web sites before browsers had frames. He does front-end and server-side work in Python, PHP, and JavaScript. He is the CTO at Graph Story.
 
   He served as web lead and security researcher at The Center for Education and Research in Information Assurance (CERIAS) at Purdue University for 9 years. Along with Chris Hartjes, Ed is co-host of the Development Hell podcast.

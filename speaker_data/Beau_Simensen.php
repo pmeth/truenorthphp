@@ -5,8 +5,8 @@ $speakers[] = array (
   'city' => 'Madison, WI',
   'country' => 'USA',
   'twitter' => 'beausimensen',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/9I3Q7hw0lhSrSZZbjdyHr9PCht1nKEyvPj66dnR9.jpeg',
-  'bio' => 'Beau Simensen (<a href="https://beau.io">beau.io</a>) has been a professional polyglot programmer since 1998. He is co-host of <a href="http://thatpodcast.io">That Podcast</a>. An active open-sourcer, he created <a href="https://sculpin.io">Sculpin</a> and helped create <a href="http://stackphp.com">Stack PHP</a>. He is also the Sculpin representative to the PHP Framework Interoperability Group (PHP-FIG). Beau is a proponent of framework agnostic code. Unglue all the things!
+  'image' => 'https://cfp.truenorthphp.ca/uploads/9I3Q7hw0lhSrSZZbjdyHr9PCht1nKEyvPj66dnR9.jpeg',
+  'bio' => 'Beau Simensen (<a href="https://beau.io">beau.io</a>) has been a professional polyglot programmer since 1998. He is co-host of <a href="https://thatpodcast.io">That Podcast</a>. An active open-sourcer, he created <a href="https://sculpin.io">Sculpin</a> and helped create <a href="https://stackphp.com">Stack PHP</a>. He is also the Sculpin representative to the PHP Framework Interoperability Group (PHP-FIG). Beau is a proponent of framework agnostic code. Unglue all the things!
 ',
   'talks' => array (
     array(

@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'Canada',
   'twitter' => 'jkolez',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/KYekpg9CLt4Xw6LsEHc1XxIALXYNVEhzLgRyTvdc.png',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/KYekpg9CLt4Xw6LsEHc1XxIALXYNVEhzLgRyTvdc.png',
   'bio' => 'Jeff has been developing websites since 1999 when he launched his first website, made with Perl. Since then he’s used a bunch of other ancient technologies like vanilla ASP, PHP 4 and Java cough.
 
 Jeff is a senior developer at Allied Health Media, and built one of their products, Simucase, using websockets. Jeff works from his home near Toronto under the close eye of his manager; his cat Benny.',

@@ -5,8 +5,8 @@ $speakers[] = array (
   'city' => 'Guelph, ON',
   'country' => 'Canada',
   'twitter' => 'colindecarlo',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/2MLmFMNgPKLqRkwjypXGWmVMDmaeN1hY0okLuDT4.jpeg',
-  'bio' => 'Colin is a senior developer for <a href="http://vehikl.com">Vehikl</a>, a web application consultancy, based out of Waterloo, Ontario, Canada. While at his $dayJob, he tirelessly refactors, tests and indents with tabs. He has also been a co-organizer of the <a href="http://www.meetup.com/Guelph-PHP/">Guelph PHP Users Group</a> since its inception 4 years ago.
+  'image' => 'https://cfp.truenorthphp.ca/uploads/2MLmFMNgPKLqRkwjypXGWmVMDmaeN1hY0okLuDT4.jpeg',
+  'bio' => 'Colin is a senior developer for <a href="https://vehikl.com">Vehikl</a>, a web application consultancy, based out of Waterloo, Ontario, Canada. While at his $dayJob, he tirelessly refactors, tests and indents with tabs. He has also been a co-organizer of the <a href="https://www.meetup.com/Guelph-PHP/">Guelph PHP Users Group</a> since its inception 4 years ago.
 
 <pre>Picard &gt; Kirk, vim &gt; emacs<br  >// =&gt; true, true</pre>',
   'talks' => array (

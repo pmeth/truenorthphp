@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'Canada',
   'twitter' => 'stephboisvert',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/AFtP1SQfUOJ8fuNkXX9H6G63UtJvwyJxDCDZFDtD.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/AFtP1SQfUOJ8fuNkXX9H6G63UtJvwyJxDCDZFDtD.jpeg',
   'bio' => 'Stéphane Boisvert is a team lead for WordPress.com VIP, working on some of the world’s largest site time consulting clients on architectural decisions as well as helping review code for security and performance.',
   'talks' => array(
       array(

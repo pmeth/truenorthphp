@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'Canada',
   'twitter' => 'E2zin',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/iWgas4VrhBzcsZICDtIaefki3Q0D9MftMjxIo6Er.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/iWgas4VrhBzcsZICDtIaefki3Q0D9MftMjxIo6Er.jpeg',
   'bio' => 'After attending 6 conferences over the last 3 years, I worked up the courage to get up on stage and present my first talk. I\'ve been a professional web developer for the last 7 years and spent the last 3 years specializing as a Front-End Developer on projects for well-known brands with large user bases and high traffic. I recently worked on a project to convert a site from a monolithic application to a Single-Page Application and want to talk about it.',
   'talks' => array(
       array(

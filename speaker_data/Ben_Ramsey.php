@@ -5,8 +5,8 @@ $speakers[] = array (
   'city' => 'Nashville, TN',
   'country' => 'USA',
   'twitter' => 'ramsey',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/1fefm4ZPMdvNYi6zn8NYSebutaZyWbyN1LSQLAak.jpeg',
-  'bio' => 'Ben Ramsey is a web craftsman, author, and speaker. He is a software architect at <a href="https://www.shootproof.com">ShootProof</a>, where he builds a platform for professional photographers. He enjoys organizing user groups and contributing to open source software. Ben blogs at <a href="http://benramsey.com">benramsey.com</a>',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/1fefm4ZPMdvNYi6zn8NYSebutaZyWbyN1LSQLAak.jpeg',
+  'bio' => 'Ben Ramsey is a web craftsman, author, and speaker. He is a software architect at <a href="https://www.shootproof.com">ShootProof</a>, where he builds a platform for professional photographers. He enjoys organizing user groups and contributing to open source software. Ben blogs at <a href="https://benramsey.com">benramsey.com</a>',
   'talks' => array (
     array (
       'title' => 'Identify ALl The Things With UUIDs!',

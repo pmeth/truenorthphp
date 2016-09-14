@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'USA',
   'twitter' => 'auroraeosrose',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/6EuuaxYXzBBsAEv6MnfGcYmBKOEWjJ2iV1J6n1qz.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/6EuuaxYXzBBsAEv6MnfGcYmBKOEWjJ2iV1J6n1qz.jpeg',
   'bio' => 'Elizabeth has been using PHP since time immemorial (PHP 4 beta), but has used PHP 5.6 for so long now that she’s forgotten how she ever got by without traits and namespaces. She also plays far too much with C based languages and has the superpower of breaking things, like valgrind and gdb, on the same day. She went to college for dance which quickly became an English major after the first baby. If you see her in person, ask how she wound up with a career in computers.',
   'talks' => array(
       array(

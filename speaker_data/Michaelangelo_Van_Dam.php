@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'Belgium',
   'twitter' => 'DragonBe',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/UdKAggSK1DqgDd0O9NhUsZiJ7HwqsvHyhloWHuSc.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/UdKAggSK1DqgDd0O9NhUsZiJ7HwqsvHyhloWHuSc.jpeg',
   'bio' => 'Michelangelo van Dam works at in2it as a professional PHP consultant assisting businesses to automate their development processes, improve their code quality and train their development teams. Michelangelo is also president of the PHP user group PHPBenelux where he and a team organizes monthly meetups, development events and an annual conference. He\'s a devoted member of the global PHP community and contributes to open-source projects, mainly PHP related.
 In his spare time, Michelangelo likes to spend all his time with his wife and 3 sons.',
   'talks' => array(

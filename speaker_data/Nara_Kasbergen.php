@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'USA',
   'twitter' => 'xiehan',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/F3GHZrKy6l6pHIiXmuPj7RAqYep9eaeWVDyFCcSz.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/F3GHZrKy6l6pHIiXmuPj7RAqYep9eaeWVDyFCcSz.jpeg',
   'bio' => "Nara is a full-stack developer in NPR's Digital Media group, having spent the past two years building and growing NPR One's developer platform and NPR One for the Web, an Angular2 webapp. Previously, she was part of the NPR Music responsive redesign project. In a past life, she was an AngularJS early adopter at an edtech research lab at Columbia University. She has a BFA in Communication Design from Carnegie Mellon University, and a Masters from the Interactive Telecommunications Program (ITP) at NYU. Nara is an avid foodie who knows all the best restaurants, collects board games, and watches too much Netflix.",
   'talks' => array(
       array(

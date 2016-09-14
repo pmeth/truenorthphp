@@ -5,7 +5,7 @@ $speakers[] = array (
   'twitter' => 'jimbojsb',
   'city' => null,
   'country' => 'USA',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/pIrXWN564JLGA5v4Pe7zaZdxnPStIOQq0hxn79kL.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/pIrXWN564JLGA5v4Pe7zaZdxnPStIOQq0hxn79kL.jpeg',
   'bio' => 'Josh Butts is the VP of Engineering at Offers.com, located in Austin, Texas. In addition to over a decade in the trenches of e-commerce at Offers.com, he is also the organizer of Austin PHP, one of the largest PHP user groups in the US. Josh has taught several classes in PHP and enjoys the opportunity to share his experiences with the PHP community.',
   'talks' => array(
       array(

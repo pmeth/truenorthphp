@@ -5,7 +5,7 @@ $speakers[] = array (
   'city' => 'London',
   'country' => 'UK',
   'twitter' => '',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/NBhLTNMUkovBN4ZvuHFwSvxiYlW3v7lCMpa9fb4F.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/NBhLTNMUkovBN4ZvuHFwSvxiYlW3v7lCMpa9fb4F.jpeg',
   'bio' => ' Derick Rethans is a PHP internals expert, author of Xdebug and an OpenStreetMap and mapping enthusiast.
 He has contributed in a number of ways to the PHP project, including the Xdebug debugging tool, and various extensions and additions. He\'s a frequent lecturer at conferences, the author of php|architect\'s Guide to Date and Time Programming, and the co-author of PHP 5 Power Programming. He is now working at MongoDB to work on the PHP driver for MongoDB. ',
   'talks' => array (

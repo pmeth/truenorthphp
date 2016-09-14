@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'Canada',
   'twitter' => 'maaube',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/4b0c79PtipjJsBdvV9dGKWTmV15hfrViyHcVyK6C.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/4b0c79PtipjJsBdvV9dGKWTmV15hfrViyHcVyK6C.jpeg',
   'bio' => "I am a passionate developer from Quebec, with a deep interest for topics like TDD, DDD and Event Sourcing.
 
 Over the years, I've used a wide variety of tools and languages to help businesses solve complex problems and create value for their customers. I have a strong focus on testable and maintainable code, and love talking about software patterns, architecture and best practices.

@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'USA',
   'twitter' => 'alc277',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/57tcyBEzI018z06Ftzvdsl3CX438PqEQfMwP5OG5.png',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/57tcyBEzI018z06Ftzvdsl3CX438PqEQfMwP5OG5.png',
   'bio' => "Andy Cassell is a full-stack web application developer in Herndon, Virginia who designs and builds user experiences that are delightful on any device. Andy is an employee of the non-profit Marine Spill Response Corporation, the largest dedicated oil spill and emergency response organization. He works on their website and internal web applications.",
   'talks' => array(
       array(

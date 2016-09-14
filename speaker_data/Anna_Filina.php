@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'Canada',
   'twitter' => 'afilina',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/FYKwXyXrRMHY1AzS8JjMqb5EDAaPziH1WBD8BkZx.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/FYKwXyXrRMHY1AzS8JjMqb5EDAaPziH1WBD8BkZx.jpeg',
   'bio' => "Anna has been a Web developer for nearly two decades. She likes elegant code, robust frameworks, lightning performance, automated testing and timely project delivery. She has a knack for breathing new life into legacy code and teaching developers of all levels. Anna owns FooLab and organizes the ConFoo conferences.",
   'talks' => array(
       array(

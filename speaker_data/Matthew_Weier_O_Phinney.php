@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'USA',
   'twitter' => 'mwop',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/ytZzyeqRMrjkGFvrlgKl5D8y6DnTkYiLvBPRrRLF.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/ytZzyeqRMrjkGFvrlgKl5D8y6DnTkYiLvBPRrRLF.jpeg',
   'bio' => "Matthew is a Principal Engineer at Zend Technologies, and project lead for both Apigility and Zend Framework. He has been using and abusing web technologies since the late nineties, and actively contributing to open source projects since the early aughts, primarily in PHP. When not in front of a computer, you’ll find him cavorting with his Basset Hound and family on the plains of South Dakota.",
   'talks' => array(
       array(
