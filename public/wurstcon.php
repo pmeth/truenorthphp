@@ -40,7 +40,7 @@
 
 	<ol class="nav-main">
 		<li class="nav-main__item"><a href="venue.php">Venue</a></li>
-		<li class="nav-main__item"><a href="speaker.php">Speakers</a></li>
+		<li class="nav-main__item"><a href="speakers.php">Speakers</a></li>
 		<li class="nav-main__item"><a href="schedule.php">Schedule</a></li>
 		<li class="nav-main__item"><a href="sponsors.php">Sponsors</a></li>
 		<li class="nav-main__item"><a href="wurstcon.php">WurstCon Toronto</a></li>
