@@ -44,13 +44,13 @@ foreach ($filenames as $filename) {
         <button type="button" class="swiper-button-next"></button>
         <div class="swiper-pagination"></div>
     </div>
+
     <ul class="speaker-card__list">
     <?php foreach ($speakers as $speaker) : ?>
-        <div style="height: 1100px;">
+
         <?php $speaker_id = strtolower(preg_replace('/\s+/', '', $speaker['name'])) ?>
-        <a name="<?php echo $speaker_id ?>"></a>
         <li class="speaker-card__slide">
-            <div class="speaker-card__item">
+            <div class="speaker-card__item" id="<?php echo $speaker_id ?>">
                 <h3 class="speaker-card__name"><?php echo $speaker['name']?></h3>
                 <img class="speaker-card__img" src="<?php echo $speaker['image']?>" alt="Picture of <?php echo $speaker['name']?>" width="200" height="200">
                 <div class="speaker-card__info">
@@ -58,7 +58,6 @@ foreach ($filenames as $filename) {
                 </div>
                 <div class="talks">
                     <h4 class="talks__heading">Talks</h4>
-
                     <ul class="talks__list">
                         <?php foreach ($speaker['talks'] as $idx => $talk) : ?>
                         <?php $talk_id = $speaker_id . $idx ?>
@@ -74,14 +73,14 @@ foreach ($filenames as $filename) {
                 </div>
             </div>
         </li>
+        <?php endforeach; ?>
+    </ul>
+
+    <div class="swiper-navigation">
+        <button type="button" class="swiper-button-prev"></button>
+        <button type="button" class="swiper-button-next"></button>
+        <div class="swiper-pagination"></div>
     </div>
-    <?php endforeach; ?>
-</ul>
-<div class="swiper-navigation">
-    <button type="button" class="swiper-button-prev"></button>
-    <button type="button" class="swiper-button-next"></button>
-    <div class="swiper-pagination"></div>
-</div>
 </div>
 
 </section>

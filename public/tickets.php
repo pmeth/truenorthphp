@@ -16,6 +16,9 @@
 </header>
 <main role="main" class="content">
                <div class="section-default">
+
+                  <h2 class="section-title">Buy Tickets</h2>
+
                   <p>There are only 250 tickets available for True North PHP, so buy your tickets early before they sell out.</p>
 <?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>
                   <p>Early bird tickets are on sale soon.</p>
@@ -29,7 +32,7 @@
                   <p>
                     Conference/Early Bird ticket gives you access to tutorial day on Thursday, November 3 plus all the sessions and events on Friday November 4 and Saturday November 5.
                   </p>
-                  <p style="color:red; font-weight:bold">** Please note that all ticket sales are final and we are unable to offer refunds.</p>
+                  <p class="highlight"><strong>** Please note that all ticket sales are final and we are unable to offer refunds.</strong></p>
                </div>
 				<hr>
 <?php if ($view->ticket->getSaleState() === Ticket::EARLY

@@ -63,7 +63,7 @@ MPR Room (South West corner - Conference Centre entrance)</p>
 
 <h2>Conference Hotel</h2>
 <p>Four Points by Sheraton <br>2501 Argentia Road, Mississauga, ON L5N 4G8 <br>Tel.: 1-800-368-7764</p>
-<p style="text-align: left">
+<p class="align-left">
     A group rate of $99/night is available by using <a href="https://www.starwoodmeeting.com/events/start.action?id=1608104999&key=FA91FCB">this link</a><br>
     Note: that link can only be used to book stays between Nov 3 - 6. If you are checking in earlier, please make your reservation by phone at the number above and ask for the True North PHP group rate
     Also note: the group rate is only available if you book before Oct 19, 2016. After that, regular hotel rates apply.
