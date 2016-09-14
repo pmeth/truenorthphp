@@ -13,7 +13,7 @@ $speakers[] = array(
           "text" => "In this talk we'll discuss how to set up and use Composer to pull open-source packages from public repositories on packagist.org. Then we'll learn how to create your own private/corporate package management server using Satis. And we'll go through an example of how to integrate your own private code packaging server into your daily development workflow.",
       ),
       array(
-          "title" => "Domain-driven Design Deconstructred",
+          "title" => "Domain-driven Design Deconstructed",
           "text" => "Once you try domain-driven design (DDD), you will never design software in the same way again. We will start by discussing what it means to use a ubiquitous language, encapsulate logic in value objects, and use bounded contexts, entities, and aggregate roots to manage state and protect invariants. We will also cover more-advanced topics in the DDD world, such as event sourcing and command query responsibility segregation."
       )
   )
