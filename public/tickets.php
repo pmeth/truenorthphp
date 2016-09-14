@@ -15,7 +15,7 @@
 <?php //include '../logo.php' ?>
 </header>
 <main role="main" class="content">
-               <div class="span12">
+               <div class="section-default">
                   <p>There are only 250 tickets available for True North PHP, so buy your tickets early before they sell out.</p>
 <?php if ($view->ticket->getSaleState() === Ticket::SOON) : ?>
                   <p>Early bird tickets are on sale soon.</p>
@@ -27,18 +27,14 @@
                   <p>Tickets sales have ended. See you next year.</p>
 <?php endif; ?>
                   <p>
-                      <ul>
-                          <li>Conference/Early Bird ticket gives you access to tutorial day on Thursday, November 3 plus all the sessions and events on Friday November 4 and Saturday November 5.</li>
-                      </ul>
+                    Conference/Early Bird ticket gives you access to tutorial day on Thursday, November 3 plus all the sessions and events on Friday November 4 and Saturday November 5.
                   </p>
                   <p style="color:red; font-weight:bold">** Please note that all ticket sales are final and we are unable to offer refunds.</p>
                </div>
-               <div class="span12">
-                  <hr>
-               </div>
+				<hr>
 <?php if ($view->ticket->getSaleState() === Ticket::EARLY
           || $view->ticket->getSaleState() === Ticket::OPEN) : ?>
-               <div class="span12" >
+               <div class="section-default">
                   <iframe
                      src="//eventbrite.ca/tickets-external?eid=26990188380&ref=etckt"
                      frameborder="0"
