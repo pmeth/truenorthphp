@@ -6,7 +6,7 @@ $speakers[] = array (
   'country' => 'Canada',
   'twitter' => 'adamwathan',
   'image' => 'https://cfp.truenorthphp.ca/uploads/hmKzm7ueaOrde4vPH0YHqHIsTqgksI8Ua1S0vaBQ.jpeg',
-  'bio' => 'Adam is a senior developer at <a href="https://tighten.co">Tighten Co</a> and has worked with PHP for over 12 years. He\'s passionate about software design, test-driven development and building great products. He is an active open-source contributor and the host of the <a href="https://fullstackradio.com">Full Stack Radio</a> podcast. When he\'s not writing code, he\'s <a href="https://www.youtube.com/watch?v=2-J-DCbsQzo">winning gold medals</a> at Canadian powerlifting competitions.',
+  'bio' => 'Adam is a senior developer who has worked with PHP for over 12 years. He\'s passionate about software design, test-driven development and building great products. He\'s the author of  <a href="https://adamwathan.me/refactoring-to-collections">Refactoring to Collections</a>, the host of the <a href="https://fullstackradio.com">Full Stack Radio</a> podcast, and the creator of <a href="https://nitpick-ci.com/">Nitpick CI</a>. When he\'s not writing code, he\'s <a href="https://www.youtube.com/watch?v=2-J-DCbsQzo">winning gold medals</a> at Canadian powerlifting competitions.',
   'talks' => array (
     array (
       'title' => 'Curing the Common Loop (with Collection Pipelines)',
