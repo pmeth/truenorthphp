@@ -5,7 +5,7 @@ $speakers[] = array(
   'city' => '',
   'country' => 'USA',
   'twitter' => 'Crell',
-  'image' => 'http://cfp.truenorthphp.ca/uploads/YOAE3jmOL5UlP3TsywiGkrd9C4I0U2f0TilrBBzV.jpeg',
+  'image' => 'https://cfp.truenorthphp.ca/uploads/YOAE3jmOL5UlP3TsywiGkrd9C4I0U2f0TilrBBzV.jpeg',
   'bio' => "Larry Garfield has been building websites since he was a sophomore in high school,which is longer ago than he'd like to admit. Larry has been an active Drupal contributor and consultant for over a decade, and led the Drupal 8 Web Services initiative that helped transform Drupal into a modern PHP platform.
 
 Larry is Director of Runtimes and Integrations at Platform.sh, a leading continuous deployment cloud hosting company. He is responsible for Platform's container-based products and developer advocacy, with an aim to make hosting major OSS projects with Platform.sh 'stupid easy'. He is also still a de facto Drupal developer evangelist within the PHP community, as well as the Drupal representative to the Framework Interoperability Group.
