@@ -12,7 +12,7 @@
     </thead>
     <tbody>
         <tr>
-            <th>08:00</th>
+            <td>08:00</td>
             <td colspan="2">
                 <span class="schedule__item">
                     Registration - pastries, beverages and coffee available
@@ -20,41 +20,37 @@
             </td>
         </tr>
         <tr>
-            <th>09:00-12:00</th>
+            <td>09:00-12:00</td>
             <td data-label="Room 1">
                 <span class="schedule__item">
                     Containerizing PHP Applications
+                    <a href="speakers.php#joshbutts">Josh Butts</a>
                 </span>
-                <br>
-                <a href="speakers.php#joshbutts">Josh Butts</a>
             </td>
             <td data-label="Room 2">
                 <span class="schedule__item">
                     PHP Extensions Tutorial
+                    <a href="speakers.php#elizabethsmith">Elizabeth Smith</a>
                 </span>
-                <br>
-                <a href="speakers.php#elizabethsmith">Elizabeth Smith</a>
             </td>
         </tr>
         <tr>
-            <th>12:00-13:00</th>
+            <td>12:00-13:00</td>
             <td colspan="2"><span class="schedule__item">Lunch</span></td>
         </tr>
         <tr>
-            <td>13:00-16:00</th>
+            <td>13:00-16:00</td>
             <td data-label="Room 1">
                 <span class="schedule__item">
                     Let your tests drive your development
+                    <a href="speakers.php#michaelangelovandam">Michaelangelo Van Dam</a>
                 </span>
-                <br>
-                <a href="speakers.php#michaelangelovandam">Michaelangelo Van Dam</a>
             </td>
             <td data-label="Room 2">
                 <span class="schedule__item">
                     Introduction to Event Sourcing and CQRS
+                    <a href="speakers.php#beausimensen">Beau Simensen</a>
                 </span>
-                <br>
-                <a href="speakers.php#beausimensen">Beau Simensen</a>
             </td>
         </tr>
     </tbody>
@@ -88,9 +84,8 @@
                     <td colspan=3 data-label="Room 1">
                         <span class="schedule__item">
                             Dispelling Five Untruths About Programming
+                            <a href="speaker.php#marcotabini">Marco Tabini</a>
                         </span>
-                        <br>
-                        <a href="speaker.php#marcotabini">Marco Tabini</a>
                     </td>
                 </tr>
                 <tr>
@@ -98,23 +93,20 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Business Logic Security
+                            <a href="speaker.php#iliaalshanetsky">Ilia Alshanetsky</a>
                         </span>
-                        <br>
-                        <a href="speaker.php#iliaalshanetsky">Ilia Alshanetsky</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             Use Zend Components Anywhere
+                            <a href="speakers.php#matthewweiero'phinney">Matthew Weier O'Phinney</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#matthewweiero'phinney">Matthew Weier O'Phinney</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             The Websockets Awaken
+                            <a href="speakers.php#jeffkolesnikowicz">Jeff Kolesnikowicz</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#jeffkolesnikowicz">Jeff Kolesnikowicz</a>
                     </td>
                 </tr>
                 <tr>
@@ -122,23 +114,20 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Curing The Common Loop (With Collection pipelines)
+                            <a href="speakers.php#adamwathan">Adam Wathan</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#adamwathan">Adam Wathan</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             Grown-up MongoDB: Schema Design
+                            <a href="speakers.php#derickrethans">Derick Rethans</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#derickrethans">Derick Rethans</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Just-In-Time Software Manufacturing
+                            <a href="speakers.php#joshbutts">Josh Butts</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#joshbutts">Josh Butts</a>
                     </td>
                 </tr>
                 <tr>
@@ -152,9 +141,8 @@
                     <td colspan=3>
                         <span class="schedule__item">
                             Grumpy And Funky Change The World
+                            <a href="speakers.php#edwardfinkler">Edward Finkler</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#edwardfinkler">Edward Finkler</a>
                     </td>
                 </tr>
                 <tr>
@@ -162,66 +150,58 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Making CSS fun again with Sass
+                            <a href="speakers.php#evertpot">Evert Pot</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#evertpot">Evert Pot</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             Modern SQL
+                            <a href="speakers.php#elizabethsmith">Elizabeth Smith</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#elizabethsmith">Elizabeth Smith</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Identify All The Things With UUID's!
+                            <a href="speakers.php#benramsey">Ben Ramsey</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#benramsey">Ben Ramsey</a>
                     </td>
                 </tr>
                 <tr>
                     <td>15:00-16:00</td>
-                    <td label="Room 1">
+                    <td data-label="Room 1">
                         <span class="schedule__item">
                             Rewriting 15-Year-Old Code
+                            <a href="speakers.php#annafilina">Anna Filina</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#annafilina">Anna Filina</a>
                     </td>
-                    <td label="Room 2">
+                    <td data-label="Room 2">
                         <span class="schedule__item">
                             PHP's Middle Path
+                            <a href="speakers.php#matthewweiero'phinney">Matthew Weier O'Phinney</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#matthewweiero'phinney">Matthew Weier O'Phinney</a>
                     </td>
-                    <td label="Room 3">
+                    <td data-label="Room 3">
                         <span class="schedule__item">
                             Domain-driven Design Deconstructed
+                            <a href="speakers.php#andrewcassell">Andrew Cassell</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#andrewcassell">Andrew Cassell</a>
                     </td>
                 </tr>
                 <tr>
                     <td>16:00-17:00</td>
-                    <td label="Room 1">
+                    <td data-label="Room 1">
                         <span class="schedule__item">
                             200k+ reasons why security is a must"
+                            <a href="speakers.php#michaelangelovandam">Michaelangelo Van Dam</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#michaelangelovandam">Michaelangelo Van Dam</a>
                     </td>
-                    <td label="Room 2">
+                    <td data-label="Room 2">
                         <span class="schedule__item">
                             Building A Developer Platform: From (o)Auth to Zen
+                            <a href="speakers.php#narakasbergen">Nara Kasbergen</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#narakasbergen">Nara Kasbergen</a>
                     </td>
-                    <td label="Room 3">
+                    <td data-label="Room 3">
                         <span class="schedule__item">
                             TBD
                         </span>
@@ -259,7 +239,6 @@
                         <span class="schedule__item">
                             PHP Jeopardy
                         </span>
-                        <br>
                         Hosted by Jeremy Mikola
                     </td>
                 </tr>
@@ -268,23 +247,20 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Test-Driven Laravel
+                            <a href="speakers.php#adamwathan">Adam Wathan</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#adamwathan">Adam Wathan</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             WordPress Code Security
+                            <a href="speakers.php#stephaneboisvert">Stephane Boisvert</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#stephaneboisvert">Stephane Boisvert</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Azure and OSS, a match made in heaven
+                            <a href="speakers.php#michaelangelovandam">Michaelangelo Van Dam</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#michaelangelovandam">Michaelangelo Van Dam</a>
                     </td>
                 </tr>
                 <tr>
@@ -292,23 +268,20 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Mastering OAuth 2.0 with league/oauth2-client
+                            <a href="speakers.php#benramsey">Ben Ramsey</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#benramsey">Ben Ramsey</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             Keeping Eloquent Eloquent
+                            <a href="speakers.php#colindecarlo">Colin DeCarlo</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#colindecarlo">Colin DeCarlo</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Taming The Resource Tiger
+                            <a href="speakers.php#elizabethsmith">Elizabeth Smith</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#elizabethsmith">Elizabeth Smith</a>
                     </td>
                 </tr>
                 <tr>
@@ -324,23 +297,20 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Locate All The Things
+                            <a href="speakers.php#derickrethans">Derick Rethans</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#derickrethans">Derick Rethans</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             Mutation Testing With Humbug
+                            <a href="speakers.php#marc-antoine-aubé">Marc-Antoine Aubé</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#marc-antoine-aubé">Marc-Antoine Aubé</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Getting Started WIth Sabre/Dav
+                            <a href="speakers.php#evertpot">Evert Pot</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#evertpot">Evert Pot</a>
                     </td>
                 </tr>
                 <tr>
@@ -348,23 +318,20 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Create a disposable Front-End
+                            <a href="speakers.php#erictousignant">Eric Tousignant</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#erictousignant">Eric Tousignant</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
                             Drupal 8: The Crash Course
+                            <a href="speakers.php#larrygarfield">Larry Garfield</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#larrygarfield">Larry Garfield</a>
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Learn to Stop Wiring and Love Laravel's Container
+                            <a href="speakers.php#beausimensen">Beau Simensen</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#beausimensen">Beau Simensen</a>
                     </td>
                 </tr>
                 <tr>
@@ -372,9 +339,8 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Manage Private Internal Dependencies With Composer and Satis
+                            <a href="speakers.php#andrewcassell">Andrew Cassell</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#andrewcassell">Andrew Cassell</a>
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
@@ -384,9 +350,8 @@
                     <td data-label="Room 3">
                         <span class="schedule__item">
                             Deep Dive Into Browser Performance
+                            <a href="speakers.php#iliaalshanetsky">Ilia Alshanetsky</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#iliaalshanetsky">Ilia Alshanetsky</a>
                     </td>
                 </tr>
                 <tr>
@@ -394,9 +359,8 @@
                     <td colspan=3>
                         <span class="schedule__item">
                             Last One Out Please Shut Down The Conference
+                            <a href="speakers.php#chrishartjes">Chris Hartjes</a>
                         </span>
-                        <br>
-                        <a href="speakers.php#chrishartjes">Chris Hartjes</a>
                     </td>
                 </tr>
                 <tr>

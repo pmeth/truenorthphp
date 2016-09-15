@@ -61,7 +61,8 @@
                             <a href="http://www.delvia.com">Delvia</a> started when several senior developers, linux system administrators and DevOps engineers got to talking about our observations about the software development industry. We agreed that companies universally have issues hiring and keeping the right people in the area of DevOps. We also agreed that developers, operations peoplre and devops engineers employed by large companies can have a tendency to not keep their skills up to date and thus have a difficult time adapting to a rapidly changing development landscape.
                         </p>
                         <p>
-As a result of this conversation we concluded that we should join together. Using our vast experience we could provide a better alternative and offer it to businesses of all sizes. We made a resolution to acquire the best talent, use the best tools and provide the necessary training to stay on top of the DevOps industry.</p>
+                        As a result of this conversation we concluded that we should join together. Using our vast experience we could provide a better alternative and offer it to businesses of all sizes. We made a resolution to acquire the best talent, use the best tools and provide the necessary training to stay on top of the DevOps industry.
+                        </p>
                     </div>
                 </div>
             </li>
@@ -76,6 +77,21 @@ As a result of this conversation we concluded that we should join together. Usin
                         </p>
                         <p>
                             Vist <a href="https://grumpy-learning.com">https://grumpy-learning.com</a> to learn more.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">nœrdisch</h3>
+                    <img class="speaker-card__img" src="img/sponsors/noerdisch-logo.svg" alt="nœrdisch" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Silver Sponsor</h3>
+                        <p>
+                            Moin, we are <a href="https://www.noerdisch.com/">nœrdisch</a>. We are a young software company run by a team that incorporates decades of experience in our line of work. We create individual sofware, websites, eCommerce solutions as well as mobile apps for our customers, whom we accompany from the initial requirements engineering, to product design, implementation, as well as the deployment and later operation of their applications. Always agile, always focused on the users needs by design thinking and human centered design.
+                        </p>
+                        <p>
+                            This is what T-Systems International, SevenOne Media, and the rest of our customers like about us, maybe you are next ...
                         </p>
                     </div>
                 </div>
@@ -121,28 +137,22 @@ mq.addListener(handleMq);
 handleMq(mq);
 </script>
 
-
+<!--
 <section class="section-default">
 
     <h2>Community Level Sponsors</h2>
     <div class="swiper-container swiper--sponsor-widget">
-    <!-- Additional required wrapper -->
-    <div class="swiper-wrapper">
-        <!-- Slides -->
-        <!--
-        <div class="swiper-slide">
-            <img src="img/sponsors/vehikl-logo.png" alt="vehikl-logo">
+
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img src="img/sponsors/vehikl-logo.png" alt="vehikl-logo">
+            </div>
         </div>
-        -->
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
     </div>
-    <!-- If we need pagination -->
-
-
-    <!-- If we need navigation buttons -->
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
-
-</div>
 
 <script>
 var mySwiper = new Swiper ('.swiper-container', {
@@ -182,6 +192,7 @@ var mySwiper = new Swiper ('.swiper-container', {
 </script>
 
 </section>
+-->
 
 <section class="section-default">
     <section class="section-highlight">

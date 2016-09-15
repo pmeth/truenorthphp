@@ -54,9 +54,9 @@
 			<img src="img/sponsors/delvia-logo.png" alt="delvia-logo">
 		</div>
 
-        <div class="swiper-slide">
-            <img src="img/sponsors/grumpy-learning.png" alt="grumpy-learning-logo">
-        </div>
+		<div class="swiper-slide">
+			<img src="img/sponsors/grumpy-learning.png" alt="grumpy-learning-logo">
+		</div>
 	</div>
 	<!-- If we need pagination -->
 
@@ -123,12 +123,12 @@ foreach(glob("../speaker_data/*.php") as $filename) {
 	<div class="swiper-container swiper--speaker-widget">
 		<!-- Additional required wrapper -->
 		<div class="swiper-wrapper">
-<?php foreach ($speakers as $speaker) : ?>
-			<div class="swiper-slide">
-				<img class="speaker-widget__img" src="<?php echo $speaker['image'] ?>" alt="<?php echo $speaker['name']?>">
-				<h3 class="speaker-widget__name"><?php echo $speaker['name'] ?></h3>
-			</div>
-<?php endforeach; ?>
+			<?php foreach ($speakers as $speaker) : ?>
+				<a class="swiper-slide" href="speakers.php#<?php echo strtolower(preg_replace('/\s+/', '', $speaker['name']))?>">
+					<img class="speaker-widget__img" src="<?php echo $speaker['image'] ?>" alt="<?php echo $speaker['name']?>">
+					<h3 class="speaker-widget__name"><?php echo $speaker['name'] ?></h3>
+				</a>
+			<?php endforeach; ?>
 		</div>
 		<!-- If we need pagination -->
 
