@@ -27,6 +27,20 @@
         <ul class="speaker-card__list">
             <li class="speaker-card__slide">
                 <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">Vehikl</h3>
+                    <img class="speaker-card__img" src="/img/sponsors/vehikl-logo.png" alt="Vehikl" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Platinum Sponsor</h3>
+                        <p>
+                            <a href="http://www.vehikle.com">Vehikl</a> is a team of passionate software artisans and believe in test-driven development with a focus on writing clean, maintainable code.<br>
+                            <br>
+                            We believe in user-centered design and work closely with clients and their customers to deliver an experience that is both intuitive and beautiful. We work with our clients to facilitate effective project management to deliver business value.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
                     <h3 class="speaker-card__name">Microsoft Azure</h3>
                     <img class="speaker-card__img" src="/img/sponsors/azure-logo.png" alt="Microsoft Azure" width="200" height="200">
                     <div class="speaker-card__info">
