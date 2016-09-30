@@ -59,6 +59,10 @@
         </div>
 
         <div class="swiper-slide">
+            <img src="img/sponsors/testlauncher-logo.png" alt="testlauncher-logo">
+        </div>
+
+        <div class="swiper-slide">
             <img src="img/sponsors/delvia-logo.png" alt="delvia-logo">
         </div>
 

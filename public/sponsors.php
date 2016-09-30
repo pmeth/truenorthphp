@@ -47,7 +47,8 @@
                         <h3>Platinum Sponsor</h3>
                         <p>
                             Microsoft Azure is open, flexible and a scalable platform which is a great choice for app creation. Azure supports virtual machines on several Linux flavors such as CentOS, Ubuntu, Suse. Not only does it support open platforms but also open development tools. Support for the various development tools is pretty exhaustive. For example, look into what we have in store for Azure and PHP at the <a href="http://azure.microsoft.com/en-us/develop/php/" target="_blank">PHP Development Centre</a>, a rich resource for tutorials and documentation, which will enable you to get started with development on the cloud. Also look into the support for <a href="https://visualstudiogallery.msdn.microsoft.com/6eb51f05-ef01-4513-ac83-4c5f50c95fb5" target="_blank">PHP tools for Visual Studio</a>, which provides a well known editor for PHP, HTML/JAVA/CSS support and most importantly integration with Azure itself.<br>
-                            <br>
+                        </p>
+                        <p>
                             <a href="http://blogs.msdn.com/b/cdndevs/archive/2014/10/31/its-all-about-being-open.aspx">Read more...</a>
                         </p>
                     </div>
@@ -61,6 +62,21 @@
                         <h3>Gold Sponsor</h3>
                         <p>
                             <a href="https://wonderproxy.com/">WonderProxy</a> maintains a global network of proxy servers that empowers customers to test their localized websites by routing traffic through a server in the right region. In addition to supporting localization testing, WonderProxy offers <a href="https://wheresitup.com/">Where's it Up</a>, which lets users automate their testing &amp; monitoring using WonderProxy's expansive network.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">TestLauncher</h3>
+                    <img class="speaker-card__img" src="img/sponsors/testlauncher-logo.png" alt="TestLauncher" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Silver Sponsor</h3>
+                        <p>
+                            At <a href="https://www.testlauncher.com">TestLauncher</a> - We provide the fastest, most reliable web and mobile app testing services for SaaS/Cloud- based companies in all industries across the globe. Whether your app is Fintech, EdTech, HRTech or in another industry, our <b>"Bulletproof QA"</b> framework fuses context-driven testing with agile best practices to shield your users from discovering bugs. Every QA Engineer is screened for culture fit, aligned core values and QA mastery. All our manual QA services and automation solutions are fully managed to provide worry-free levels of customer service, speed and flexibility.
+                        </p>
+                        <p>
+                            Visit us @ <a href="https://www.testlauncher.com">https://www.testlauncher.com</a> for more information.
                         </p>
                     </div>
                 </div>
