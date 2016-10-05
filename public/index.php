@@ -51,11 +51,19 @@
         </div>
 
         <div class="swiper-slide">
+            <img src="img/sponsors/techcom-logo.png" alt="techcom-logo">
+        </div>
+
+        <div class="swiper-slide">
             <img src="img/sponsors/azure-logo.png" alt="azure-logo">
         </div>
 
         <div class="swiper-slide">
             <img src="img/sponsors/wonderproxy-logo.png" alt="wonderproxy-logo">
+        </div>
+
+        <div class="swiper-slide">
+            <img src="img/sponsors/webpal-logo.png" alt="webpal-logo">
         </div>
 
         <div class="swiper-slide">

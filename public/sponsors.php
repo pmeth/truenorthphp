@@ -41,6 +41,18 @@
             </li>
             <li class="speaker-card__slide">
                 <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">Techcom</h3>
+                    <img class="speaker-card__img" src="/img/sponsors/techcom-logo.png" alt="Techcom" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Platinum Sponsor</h3>
+                        <p>
+                             Founded in 1994, <a href="http://www.techcomnet.com">TECHCOM</a> is 100% Canadian-owned and operated technology and services provider, servicing 120+ organizations across North America including Schedule I and II banks and credit unions, the Canadian federal government, municipality/regional offices, default management partners (e.g. collection agencies, law firms, trustees, etc.)  Our software solutions are designed to help clients solve business problems by streamlining operations, optimizing and simplifying processes and procedures, and ultimately improving their financial results.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
                     <h3 class="speaker-card__name">Microsoft Azure</h3>
                     <img class="speaker-card__img" src="/img/sponsors/azure-logo.png" alt="Microsoft Azure" width="200" height="200">
                     <div class="speaker-card__info">
@@ -62,6 +74,18 @@
                         <h3>Gold Sponsor</h3>
                         <p>
                             <a href="https://wonderproxy.com/">WonderProxy</a> maintains a global network of proxy servers that empowers customers to test their localized websites by routing traffic through a server in the right region. In addition to supporting localization testing, WonderProxy offers <a href="https://wheresitup.com/">Where's it Up</a>, which lets users automate their testing &amp; monitoring using WonderProxy's expansive network.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">WebPal Cloud Server</h3>
+                    <img class="speaker-card__img" src="/img/sponsors/webpal-logo.png" alt="WebPal Cloud Server" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Gold Sponsor</h3>
+                        <p>
+                            <a href="http://www.webpal.net/">WebPal Cloud Server</a>
                         </p>
                     </div>
                 </div>
