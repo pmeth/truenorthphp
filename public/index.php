@@ -71,6 +71,10 @@
         </div>
 
         <div class="swiper-slide">
+            <img src="img/sponsors/mercatus-logo.jpg" alt="mercatus-logo">
+        </div>
+
+        <div class="swiper-slide">
             <img src="img/sponsors/delvia-logo.png" alt="delvia-logo">
         </div>
 

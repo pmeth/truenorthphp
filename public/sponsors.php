@@ -68,24 +68,24 @@
             </li>
             <li class="speaker-card__slide">
                 <div class="speaker-card__item">
-                    <h3 class="speaker-card__name">WonderProxy</h3>
-                    <img class="speaker-card__img" src="/img/sponsors/wonderproxy-logo.png" alt="WonderProxy" width="200" height="200">
+                    <h3 class="speaker-card__name">WebPal Cloud Server</h3>
+                    <img class="speaker-card__img" src="/img/sponsors/webpal-logo.png" alt="WebPal Cloud Server" width="200" height="200">
                     <div class="speaker-card__info">
                         <h3>Gold Sponsor</h3>
                         <p>
-                            <a href="https://wonderproxy.com/">WonderProxy</a> maintains a global network of proxy servers that empowers customers to test their localized websites by routing traffic through a server in the right region. In addition to supporting localization testing, WonderProxy offers <a href="https://wheresitup.com/">Where's it Up</a>, which lets users automate their testing &amp; monitoring using WonderProxy's expansive network.
+                            <a href="http://www.webpal.net/">WebPal Cloud Server</a> is a powerful, adaptable, cloud-based content management solution with applications in online content management, web portal management, and file storage, developed and owned by <a href="http://www.palominosys.com">Palomino Inc</a>. WebPal has been adopted by over 400,000 users from SMBs to enterprises, in verticals such as healthcare, public sectors, financial services, and associations. Palomino offers WebPal Cloud Server via multiple channel partners and solution providers across the globe.<br><br>
                         </p>
                     </div>
                 </div>
             </li>
             <li class="speaker-card__slide">
                 <div class="speaker-card__item">
-                    <h3 class="speaker-card__name">WebPal Cloud Server</h3>
-                    <img class="speaker-card__img" src="/img/sponsors/webpal-logo.png" alt="WebPal Cloud Server" width="200" height="200">
+                    <h3 class="speaker-card__name">WonderProxy</h3>
+                    <img class="speaker-card__img" src="/img/sponsors/wonderproxy-logo.png" alt="WonderProxy" width="200" height="200">
                     <div class="speaker-card__info">
                         <h3>Gold Sponsor</h3>
                         <p>
-                            <a href="http://www.webpal.net/">WebPal Cloud Server</a>
+                            <a href="https://wonderproxy.com/">WonderProxy</a> maintains a global network of proxy servers that empowers customers to test their localized websites by routing traffic through a server in the right region. In addition to supporting localization testing, WonderProxy offers <a href="https://wheresitup.com/">Where's it Up</a>, which lets users automate their testing &amp; monitoring using WonderProxy's expansive network.
                         </p>
                     </div>
                 </div>
@@ -107,15 +107,12 @@
             </li>
             <li class="speaker-card__slide">
                 <div class="speaker-card__item">
-                    <h3 class="speaker-card__name">Delvia</h3>
-                    <img class="speaker-card__img" src="img/sponsors/delvia-logo.png" alt="Delvia" width="200" height="200">
+                    <h3 class="speaker-card__name">Mercatus</h3>
+                    <img class="speaker-card__img" src="img/sponsors/mercatus-logo.jpg" alt="Mercatus" width="200" height="200">
                     <div class="speaker-card__info">
                         <h3>Silver Sponsor</h3>
                         <p>
-                            <a href="http://www.delvia.com">Delvia</a> started when several senior developers, linux system administrators and DevOps engineers got to talking about our observations about the software development industry. We agreed that companies universally have issues hiring and keeping the right people in the area of DevOps. We also agreed that developers, operations peoplre and devops engineers employed by large companies can have a tendency to not keep their skills up to date and thus have a difficult time adapting to a rapidly changing development landscape.
-                        </p>
-                        <p>
-                        As a result of this conversation we concluded that we should join together. Using our vast experience we could provide a better alternative and offer it to businesses of all sizes. We made a resolution to acquire the best talent, use the best tools and provide the necessary training to stay on top of the DevOps industry.
+                            <a href="http://www.mercatus.com">Mercatus</a> empowers grocers to embrace the future of shopping by creating unique brand experiences that meet customer needs and deliver results.
                         </p>
                     </div>
                 </div>
@@ -131,6 +128,21 @@
                         </p>
                         <p>
                             Vist <a href="https://grumpy-learning.com">https://grumpy-learning.com</a> to learn more.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">Delvia</h3>
+                    <img class="speaker-card__img" src="img/sponsors/delvia-logo.png" alt="Delvia" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Silver Sponsor</h3>
+                        <p>
+                            <a href="http://www.delvia.com">Delvia</a> started when several senior developers, linux system administrators and DevOps engineers got to talking about our observations about the software development industry. We agreed that companies universally have issues hiring and keeping the right people in the area of DevOps. We also agreed that developers, operations peoplre and devops engineers employed by large companies can have a tendency to not keep their skills up to date and thus have a difficult time adapting to a rapidly changing development landscape.
+                        </p>
+                        <p>
+                        As a result of this conversation we concluded that we should join together. Using our vast experience we could provide a better alternative and offer it to businesses of all sizes. We made a resolution to acquire the best talent, use the best tools and provide the necessary training to stay on top of the DevOps industry.
                         </p>
                     </div>
                 </div>
