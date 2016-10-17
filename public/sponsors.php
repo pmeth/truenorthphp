@@ -119,6 +119,24 @@
             </li>
             <li class="speaker-card__slide">
                 <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">SensioLabs</h3>
+                    <img class="speaker-card__img" src="img/sponsors/sensiolabs-logo.png" alt="SensioLabs" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Silver Sponsor</h3>
+                        <p>
+                            <a href="http://www.sensiolabs.com">SensioLabs</a> is an Open Source software and SaaS editor, known for constantly pushing PHP language limits worldwide, especially following the creation of Symfony, the PHP framework for businesses and Twig, the templating engine.
+                        </p>
+                        <p>
+In addition to the numerous service, training and support offers available, the company conceives e-solution products for web developers and businesses, to improve quality, productivity, direction and deployment of PHP applications, such as SensioLabsInsight and <a href="http://blackfire.io">Blackfire.io</a>.
+                        </p>
+                        <p>
+With 6 offices accross Europe (France, Germany and the UK) and in the US, SensioLabs is recognized as one of the most innovative companies in today’s application development market.
+                        </p>
+                    </div>
+                </div>
+            </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
                     <h3 class="speaker-card__name">Grumpy Learning</h3>
                     <img class="speaker-card__img" src="img/sponsors/grumpy-learning.png" alt="Grumpy Learning" width="200" height="200">
                     <div class="speaker-card__info">

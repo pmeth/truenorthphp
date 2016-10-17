@@ -75,6 +75,10 @@
         </div>
 
         <div class="swiper-slide">
+            <img src="img/sponsors/sensiolabs-logo.png" alt="sensiolabs-logo">
+        </div>
+
+        <div class="swiper-slide">
             <img src="img/sponsors/delvia-logo.png" alt="delvia-logo">
         </div>
 
