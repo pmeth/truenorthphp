@@ -72,7 +72,7 @@
 <section class="section-default">
 	<img src="img/logo-wurstcon.svg" alt="WurstCon Logo">
 	<h2 class="section-title">Every WurstCon is a food-based sub-conference dining experience</h2>
-	<p class="subline"><a href="https://www.wurstcon.com">WurstCon</a></p>
+	<p class="subline"><a href="http://wurstcon.com">WurstCon</a></p>
 </section>
 
 
@@ -80,7 +80,7 @@
 	<div class="grid-50-50">
 		<div class="grid__item">
 			<h3>Have fun together</h3>
-			<p>If you will be sticking around in the Greater Toronto Area after the conference is over there is a planned WurstCon outing for lunch on November 6th at WVRST, a Bavarian-style German Beer Hall.</p>
+			<p>If you will be sticking around in the Greater Toronto Area after the conference is over there is a planned WurstCon outing for lunch at 1:00pm on November 6th at WVRST, a Bavarian-style German Beer Hall.</p>
 
 			<h3>Will There Be Talks?</h3>
 			<p>We don't want to bore you with how the sausage is made, but there will be talks. WurstCon is founded on the idea that we can have a conference anywhere, for any reason. It's what we do.</p>
@@ -170,8 +170,7 @@ var mySwiper = new Swiper ('.swiper-container', {
 
 
 <section class="section-highlight">
-	<h2 class="section-title">Coming soon: Make your reservation</h2>
-	<!--<p><a href="" class="btn">Make Your Reservation Here</a></p>-->
+	<p><a href="https://www.eventbrite.ca/e/wurstcon-toronto-2016-the-last-sausage-tickets-27732606974" class="btn">Make Your Reservation Here</a></p>
 </section>
 
 

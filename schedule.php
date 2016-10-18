@@ -203,7 +203,8 @@
                     </td>
                     <td data-label="Room 3">
                         <span class="schedule__item">
-                            TBD
+                            Azure Functions and App Service Linux Support
+			    <a href="speakers.php#coryfowler">Cory Fowler</a> 
                         </span>
                     </td>
                 </tr>
