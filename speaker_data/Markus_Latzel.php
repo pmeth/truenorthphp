@@ -6,7 +6,7 @@ $speakers[] = array (
   'country' => 'Canada',
   'twitter' => '',
   'image' => '/img/speakers/markus-latzel.png',
-  'bio' => 'Markus has been steering the Palomino team through a recent re-incarnation of WebPal Cloud Server and the ensuing migration of its customer base to a new way of editing content and managing business applications. An engineer and entrepreneur at the same time, Markus believes in building solid software that matters to business and helps it grow, while making end-users happy. When not growing a business or leading product dev, Markus spends time on family nature hikes and jumping into icy waters.',
+  'bio' => 'Markus has been steering the <a href="https://palominosys.com">Palomino</a> team through a recent re-incarnation of <a href="https://webpal.net">WebPal Cloud Server</a> and the ensuing migration of its customer base to a new way of editing content and managing business applications. An engineer and entrepreneur at the same time, Markus believes in building solid software that matters to business and helps it grow, while making end-users happy. When not growing a business or leading product dev, Markus spends time on family nature hikes and <a href="https://www.facebook.com/The-Huntsville-Polar-Bear-Dip-223730361033765/">jumping into icy waters</a>.',
   'talks' => array (
     array (
       'title' => "Pushing Git Where It Doesn't Belong",
