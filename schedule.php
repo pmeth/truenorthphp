@@ -98,8 +98,7 @@
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
-                            Use Zend Components Anywhere
-                            <a href="speakers.php#matthewweiero'phinney">Matthew Weier O'Phinney</a>
+			    TBD
                         </span>
                     </td>
                     <td data-label="Room 3">
@@ -176,8 +175,7 @@
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
-                            PHP's Middle Path
-                            <a href="speakers.php#matthewweiero'phinney">Matthew Weier O'Phinney</a>
+                            TBD
                         </span>
                     </td>
                     <td data-label="Room 3">
@@ -345,7 +343,8 @@
                     </td>
                     <td data-label="Room 2">
                         <span class="schedule__item">
-                            TBD
+                            Pushing Git Where It Doesn't Belong
+			    <a href="speakers.php#markuslatzel">Markus Latzel</a> 
                         </span>
                     </td>
                     <td data-label="Room 3">
