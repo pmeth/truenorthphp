@@ -89,6 +89,10 @@
         <div class="swiper-slide">
             <img src="img/sponsors/noerdisch-logo.svg" alt="noerdisch-logo">
         </div>
+
+        <div class="swiper-slide">
+            <img src="img/sponsors/osmi-logo.png" alt="osmi-logo">
+        </div>
     </div>
     <!-- If we need pagination -->
 

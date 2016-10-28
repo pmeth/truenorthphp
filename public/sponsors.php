@@ -180,6 +180,18 @@ With 6 offices accross Europe (France, Germany and the UK) and in the US, Sensio
                     </div>
                 </div>
             </li>
+            <li class="speaker-card__slide">
+                <div class="speaker-card__item">
+                    <h3 class="speaker-card__name">Open Sourcing Mental Illness (OSMI)</h3>
+                    <img class="speaker-card__img" src="img/sponsors/osmi-logo.png" alt="Open Sourcing Mental Illness (OSMI)" width="200" height="200">
+                    <div class="speaker-card__info">
+                        <h3>Bronze Sponsor</h3>
+                        <p>
+                            <a href="http://osmihelp.org">OSMI</a> began in 2013 as a speaking campaign by Ed Finkler. Ed started speaking at tech conferences about his personal experiences as a web developer and open source advocate with a mental health disorder. The response was overwhelming, and Ed has continued to speak, gather data, and organize efforts to change experiences of those with mental health disorders in the tech workplace. This includes speaking at conferences and companies, conducting research, andcreating documentation to assist companies in making supportive environments for those impacted by mental health disorders. He is assisted in these efforts by selfless board members and volunteers who bring their time and expertise to bear on this important issue.
+                        </p>
+                    </div>
+                </div>
+            </li>
         </ul>
         <div class="swiper-navigation">
             <button type="button" class="swiper-button-prev"></button>
