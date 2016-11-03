@@ -84,7 +84,7 @@
                     <td colspan=3 data-label="Room 1">
                         <span class="schedule__item">
                             Dispelling Five Untruths About Programming
-                            <a href="speaker.php#marcotabini">Marco Tabini</a>
+                            <a href="speakers.php#marcotabini">Marco Tabini</a>
                         </span>
                     </td>
                 </tr>
@@ -93,7 +93,7 @@
                     <td data-label="Room 1">
                         <span class="schedule__item">
                             Business Logic Security
-                            <a href="speaker.php#iliaalshanetsky">Ilia Alshanetsky</a>
+                            <a href="speakers.php#iliaalshanetsky">Ilia Alshanetsky</a>
                         </span>
                     </td>
                     <td data-label="Room 2">
